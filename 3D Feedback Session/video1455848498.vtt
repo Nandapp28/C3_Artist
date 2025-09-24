@@ -1,0 +1,3243 @@
+WEBVTT
+
+
+00:00:02.415 --> 00:00:04.415
+Okay.
+
+00:00:02.906 --> 00:00:04.906
+Yes, yes, of course, yeah, I'll be recording as well. Alright, uh…
+
+00:00:14.760 --> 00:00:16.760
+So, let me just… Sorry, let me just share my screen. So I'll just share mostly off my screen because…
+
+00:00:17.754 --> 00:00:19.754
+Um… just because I'll be opening up the project files.
+
+00:00:22.495 --> 00:00:26.495
+Okay, and, sorry, let me just open up the… let me just open up the Zoom chat window.
+
+00:00:45.103 --> 00:00:47.103
+Sorry, one second… So, I've just got everything on three screens, so let me just, um, figure out where the…
+
+00:00:50.414 --> 00:00:52.414
+Okay, there we go.
+
+00:00:50.718 --> 00:00:54.718
+Okay, um, so is my, um, is my screen being shared?
+
+00:00:54.641 --> 00:01:01.641
+Okay. Alright, perfect. Um, yeah, so firstly, I just want to say thanks for sending through the… sending through the projects.
+
+00:00:58.539 --> 00:01:00.539
+Yes, we can see yours.
+
+00:01:01.959 --> 00:01:04.959
+Um, I had a look through all of them, all of them are really, really impressive.
+
+00:01:05.473 --> 00:01:15.473
+So, yeah, that's firstly what I wanted to say is, um, because I know that there was a limited time for everyone to sort of make these projects and, um, given the time, I want to say, like, I am definitely very impressed with.
+
+00:01:18.519 --> 00:01:22.519
+What the teams have been able to come up with, so, um, you know, props to the teams and props to… the teachers, the trainers.
+
+00:01:34.529 --> 00:01:40.529
+Um, amazing job. And what I want to do is, I just want to go through basically every single, uh, every project, and… just, um, just add some comments. Now, in terms of the comments, mainly what I'll be focusing on, I'll focus on the positives, and I'll also focus on some areas where, um, I think can be improved.
+
+00:01:41.586 --> 00:01:47.586
+Right, just to give sort of, like, some constructive feedback on certain things that can, uh, that can potentially be adjusted in future.
+
+00:01:52.096 --> 00:01:54.096
+So, that at least is my intent.
+
+00:01:53.637 --> 00:02:00.637
+Yeah, okay, sorry, but I think they already have more progress, uh, when they send to you, so maybe if… something new, they can show… show that to you.
+
+00:02:05.513 --> 00:02:07.513
+All right, okay. Sure, sure, okay. Well, in that case, I guess what… I guess what we can do is maybe I'll just share… I'll just show what I have on my end.
+
+00:02:08.399 --> 00:02:12.399
+And then if there's something that maybe has been addressed, then the students can share their screens, and we can go through that.
+
+00:02:11.605 --> 00:02:13.605
+Yeah.
+
+00:02:21.815 --> 00:02:24.815
+Alright. So, let's start with the Team 1, Porcupine. Okay. So, um, first thing I want to say is, um, I do like the design, it's really cute.
+
+00:02:30.283 --> 00:02:36.283
+And, um, for, again, like, for a low-poly character, I think this, um, I think the… overall…
+
+00:02:34.866 --> 00:02:46.866
+The overall topology is, um… the overall topology is fairly good. Now, there are going to… there are going to be some things which I've noticed among several projects which are, again, certain things that can be improved.
+
+00:02:47.503 --> 00:02:52.503
+Right, so if I… if I mention them on one, I'll maybe mention them on the others, but I'm not going to go into detail, sort of.
+
+00:02:58.786 --> 00:03:00.786
+Uh, going through them. So, with this one, the animation that I saw…
+
+00:03:04.038 --> 00:03:07.038
+Was… I believe there's a… walking animation, and… yep, so we've got the timeline down here.
+
+00:03:10.609 --> 00:03:14.609
+Okay? So I've got a looping animation. Which is great.
+
+00:03:15.954 --> 00:03:22.954
+And it does loop, um, it does loop back to the beginning, which is re- which is really good. We've got that sort of subtle head movement, which I really like.
+
+00:03:25.801 --> 00:03:27.801
+One thing I'd want to… So, with this animation.
+
+00:03:28.158 --> 00:03:31.158
+Is with the back legs, so if we look at it from the back.
+
+00:03:35.778 --> 00:03:42.778
+So, they are clipping through the ground. That is basically, with this animation, that is probably the one thing that I would fix, because if we, for example, add a… plain to this, like, let's say we have a ground.
+
+00:03:55.580 --> 00:03:57.580
+In this case, the… Legs would be clipping… through the ground, right? Sort of like so. But that is basically a fairly minor thing that can be, um…
+
+00:04:00.540 --> 00:04:03.540
+There can be reasonably… reasonably easily adjusted. Other than that, um, other than that, this is really good.
+
+00:04:13.576 --> 00:04:18.576
+So, another thing that I'd want to mention, and this is something that I… Um, that I've noticed across several projects. And again, this is something that is really, really common for people who are, um, who are learning 3D, is NGONs, right? So there are quite a few.
+
+00:04:18.826 --> 00:04:21.826
+So there are quite a few NGONs on a lot of these models.
+
+00:04:22.239 --> 00:04:27.239
+Right? And again, just as a reminder, en-ons are faces with more than four, um, more than four sides.
+
+00:04:31.485 --> 00:04:34.485
+Right? And so, for example, we have an NGON. Oh, actually, no, sorry, that one isn't an angon. This…
+
+00:04:34.394 --> 00:04:40.394
+This one over here is an Engon, because it looks like there's four sides, but there's actually 1, 2, 3, 4, 5, 6, 7.
+
+00:04:39.990 --> 00:04:42.990
+If we turn on vertices mode, we can see that a little bit easier.
+
+00:04:42.934 --> 00:04:53.934
+And, uh, for characters, especially, especially for characters which need to be animated, I'd say that this is a very important thing to sort of address to avoid enginons, because they don't deform properly.
+
+00:04:54.104 --> 00:05:00.104
+Right? In this case, I understand that the head doesn't move… well, like, this part of the head wouldn't deform all that much.
+
+00:05:07.836 --> 00:05:12.836
+But it's generally good practice to avoid angons if possible. And also add more edge loops to where the character does deform, right? So instead of having, like, let's say a lot of edge loops over here, I would…
+
+00:05:21.037 --> 00:05:23.037
+Have a little bit more edge loops over here. And just a tip to, um… because if you have a… if you have a complex character, it might be far… it might be a bit difficult to find the angons.
+
+00:05:27.273 --> 00:05:30.273
+Just a tip for actually looking for them. If you go up here to Select, then go Select All by Trait.
+
+00:05:36.277 --> 00:05:38.277
+And grow faces by sides? Right? Um, what you can do is, you can basically select.
+
+00:05:38.267 --> 00:05:46.267
+All faces which have more than 4 vertices, right? And again, you can adjust this, so if you're looking for something specific.
+
+00:05:52.779 --> 00:05:58.779
+Right? But if you're looking for triangles, you can do the opposite. So, you know, if you go less than… less than 4 sides, then these are all the triangles on the character, and there's, um, obviously the caps on the eyes.
+
+00:05:59.020 --> 00:06:05.020
+Right? But in this case, if we go greater than, this just highlights all of the angons in the scene, and it's just.
+
+00:06:05.504 --> 00:06:08.504
+Good practice to sort of fix those, uh, fix those up a little.
+
+00:06:12.094 --> 00:06:14.094
+Right? Um… Let me just see what else… what else… what else I had.
+
+00:06:13.805 --> 00:06:19.805
+Yep. One other thing, and again, I don't know, again, a lot of… some of these things, you mentioned may have been addressed.
+
+00:06:24.584 --> 00:06:29.584
+In the textures, one thing I noticed is there was this little, um… area over here, which is, um…
+
+00:06:33.611 --> 00:06:35.611
+Which sort of appears on the… On the character… sorry, let me just…
+
+00:06:34.496 --> 00:06:39.496
+Hide this. So just this, because I'm assuming that… I'm assuming that that was probably not, um, not exactly intentional.
+
+00:06:41.254 --> 00:06:44.254
+But aside from that, I'd say… I'd say a very good job with this one.
+
+00:06:44.846 --> 00:06:47.846
+Again, I'm… I don't mean to be… I don't mean to be particularly critical.
+
+00:06:48.456 --> 00:06:56.456
+Um, I do… I do genuinely like all of the projects, but I think that just for today, the, um… I think the most value would be for me to give, sort of, feedback on areas where.
+
+00:06:56.127 --> 00:07:04.127
+You could improve. Alright, um, so with this one, is there anything, sort of, the team, uh, would additionally like to mention or share?
+
+00:07:14.335 --> 00:07:16.335
+Yep. And what if there is anything you want to… General. Um, yeah, thank you for the feedback. This topology.
+
+00:07:20.753 --> 00:07:22.753
+Not all good.
+
+00:07:22.943 --> 00:07:24.943
+But, um… The problem we're facing in this one week, and we still can't.
+
+00:07:28.156 --> 00:07:32.156
+Solve it. It's equaled. That's why there is no query in there.
+
+00:07:32.501 --> 00:07:33.501
+Mm-hmm.
+
+00:07:36.485 --> 00:07:38.485
+And, yeah, yeah.
+
+00:07:42.152 --> 00:07:44.152
+Quill. The quill.
+
+00:07:44.945 --> 00:07:48.945
+Sorry, I didn't quite catch that. There's no what, sorry? Oh, there's no, there's no quills, yeah. Um, yeah, with the… so, with the… with the quills, uh, what I… what I would potentially do…
+
+00:07:48.584 --> 00:07:54.584
+If you want to add quills, is… I would probably just create them as curves, and then convert to meshes.
+
+00:07:55.522 --> 00:08:01.522
+And then if you, uh… the other thing you would just have to do is just be careful with the weights, alright? So, um, I'll just make one.
+
+00:08:02.202 --> 00:08:04.202
+Just to sort of show what I mean, so if we take a curve.
+
+00:08:09.304 --> 00:08:12.304
+Right? So, um, I usually use paths. For this… I'll just turn on… turn off…
+
+00:08:17.012 --> 00:08:19.012
+Turn that off… Individual origins are turned on. Sorry, um…
+
+00:08:19.664 --> 00:08:25.664
+Okay. So I've got a path, and let's just add a Bezier curve to… Define the profile.
+
+00:08:29.731 --> 00:08:31.731
+Right? So, I'm just gonna move this… Why is that moving like that? That's… that's a little bit odd. Alright.
+
+00:08:36.246 --> 00:08:38.246
+Okay.
+
+00:08:40.830 --> 00:08:42.830
+Sorry, the busy occurs doing something weird. Give me a second.
+
+00:08:45.164 --> 00:08:49.164
+Oh, right, sorry, um, snap-to-face is turned on, that's probably it, okay.
+
+00:08:50.501 --> 00:08:56.501
+So I'm working in your project, so I might miss some things. Alright, so that just creates the profile of the curve.
+
+00:08:59.295 --> 00:09:03.295
+And then… if we go Curve, Geometry. We can add some depth.
+
+00:09:03.877 --> 00:09:06.877
+And then, with the taper object, we just choose the Bezier curve.
+
+00:09:11.651 --> 00:09:14.651
+Right? So this gives us this, um, shape. Now, the next thing is just changing the resolution down here.
+
+00:09:18.649 --> 00:09:22.649
+And up here. Right, so the resolution down here, this just… If we look at it from the side…
+
+00:09:25.419 --> 00:09:27.419
+This just adds more, um… more edges, sort of, in a circumference.
+
+00:09:27.065 --> 00:09:34.065
+Right? For this, you can use something really, really small. Again, it's a low-poly character. One is, I think, more than enough for this.
+
+00:09:38.300 --> 00:09:42.300
+And then resolution preview up here, you just lower that until it's, um… Until it's what you need. So…
+
+00:09:44.148 --> 00:09:49.148
+Let's just… let's just place this. So, I don't remember where Porcupine, um… spine score, but let's say, I think it's somewhere in the butt, so let's just go there.
+
+00:09:49.592 --> 00:09:56.592
+Also, for something that's just a simple curve, what you can do is you can just dissolve two of the vertices. So if you press X and then dissolve.
+
+00:10:02.758 --> 00:10:06.758
+Right? Um, okay, we do need more resolution, though. Right? And do something like that, honestly, I think that that, for this type of character, again, it's very low poly.
+
+00:10:11.950 --> 00:10:17.950
+You probably don't… like, I wouldn't want anything too high, like, I wouldn't go, you know, anything crazy, like… you know, 10, because there's…
+
+00:10:17.849 --> 00:10:26.849
+If you have this be at a really high resolution, it just looks very… it just looks too different from the base, um, from the base mesh, so there's probably no point.
+
+00:10:31.119 --> 00:10:36.119
+Um, so make sure that, like, generally you want your… average level of, you know, size of your faces to be around… to be roughly the same.
+
+00:10:41.785 --> 00:10:44.785
+So if we go… let's say, like, 3… Okay? Then what you can do is… You can also duplicate.
+
+00:10:45.497 --> 00:10:49.497
+The spines as well, so I'm just pressing Shift-D to sort of just duplicate them.
+
+00:10:53.055 --> 00:10:55.055
+Right? And sort of just place them around. And then, once you're done, right-click.
+
+00:10:58.238 --> 00:11:00.238
+Convert to mesh. Okay, now… so now that's just a 3D model.
+
+00:11:00.545 --> 00:11:04.545
+And then what you'd want to do is, uh, where is our armature?
+
+00:11:13.380 --> 00:11:21.380
+Actually, not the armature. So, there's a way in Blender to actually sort of copy weight data from a… from one mesh to the other, I'll be completely honest, I don't remember exactly what the process is, so you can have a look at that, there's definitely tutorials online.
+
+00:11:23.521 --> 00:11:26.521
+But, uh, for now, if we just go to weights. Let's just have a look at the weights here.
+
+00:11:29.647 --> 00:11:32.647
+So it should be one of those, um… Okay, so that's root, hip…
+
+00:11:35.478 --> 00:11:38.478
+Okay, so probably hip, right? I'm guessing hip for this. What we'll do is… oh, actually, sorry.
+
+00:11:37.770 --> 00:11:42.770
+I'm just gonna copy that, and I'm just gonna add a vertex screw called HIP.
+
+00:11:46.923 --> 00:11:49.923
+And then, in edit mode, I'm just gonna assign. All of these to the hip bone.
+
+00:11:58.088 --> 00:12:00.088
+And then if we join this up… Um, oh, I should have done this when this was in, um, when this was in the default pose, not, um, not the animation, but it's the… it should still work.
+
+00:12:04.255 --> 00:12:08.255
+So let's go to Dope Sheet, um, Action Editor. Walking…
+
+00:12:09.298 --> 00:12:12.298
+So, you see, like, it's, um… For this, it's pretty much good enough.
+
+00:12:12.430 --> 00:12:17.430
+Now, in terms of the weights, you'd have to be more careful if you're putting them in places which really deform.
+
+00:12:17.164 --> 00:12:21.164
+So, if we have a look at the weights, for example.
+
+00:12:26.708 --> 00:12:28.708
+You know, where there's transitions. Like, uh, let's say…
+
+00:12:34.112 --> 00:12:36.112
+So, if you were to put them somewhere over here. Right? You'd have to probably blend them somewhat between the neck bone, the head bone.
+
+00:12:39.922 --> 00:12:42.922
+Maybe the… what is it, the chest bone, or whichever one… Uh, you have, just to make sure that they don't, sort of, move.
+
+00:12:42.744 --> 00:12:46.744
+Differently from the rest of the rest of the mesh during animation.
+
+00:12:47.244 --> 00:12:52.244
+But generally, I would just probably do it like this, because this part, especially on the back, it's not going to move all that much.
+
+00:13:00.878 --> 00:13:03.878
+Right? It's not going to deform all that much, so, you know, even… Now, if we just press play, you see that… looks mostly fine. So, that is probably what I would do in terms of the spines, just to see, um, um…
+
+00:13:09.789 --> 00:13:11.789
+Just to sort of do it fairly simply. I… I don't think that there's any reason to…
+
+00:13:10.608 --> 00:13:17.608
+Make these all sort of one mesh, necessarily. So, you know, just having them be their own separate thing.
+
+00:13:20.923 --> 00:13:22.923
+That's completely fine for this, sort of like you have the eye… as its own separate thing, as well.
+
+00:13:27.021 --> 00:13:29.021
+Right? So, I would just do that.
+
+00:13:34.246 --> 00:13:38.246
+Um, okay, that's really helpful. Thank you, that's… Uh, and then, how could we animate…
+
+00:13:40.644 --> 00:13:42.644
+The quill that can be… Racing straight and down.
+
+00:13:43.405 --> 00:13:49.405
+The quills, so if you want them to… if you want them to go up and down, for this, probably you'd use bones.
+
+00:13:50.238 --> 00:13:55.238
+Um, but in terms of the bones, you probably don't need anything complex.
+
+00:13:55.638 --> 00:14:02.638
+Right, so… hold on. Also, things might break right now because I'm using… I'm not using my own project, but if we just, let's say, duplicate this.
+
+00:14:14.751 --> 00:14:16.751
+And then… let's say… So if you have a bone somewhere over there, you can probably have just, like, one bone control quite a few quills, right? You don't need a separate bone for every quill, I don't think that's necessary for this project.
+
+00:14:19.075 --> 00:14:22.075
+Right? So, you know, just one bone per group. And then, with this bone.
+
+00:14:34.089 --> 00:14:37.089
+Sorry, let me just see what the hierarchy is here. Okay, so… Yeah, sure. Okay. So, what is this bone called? This is called stomach 01, let's just call it something else, let's just call it Quill…
+
+00:14:40.786 --> 00:14:41.786
+0? Okay, and then… what we'll do is…
+
+00:14:41.286 --> 00:14:45.286
+Yeah, we want it to be parented, actually, we want it to be parented to the hip bone.
+
+00:14:48.601 --> 00:14:51.601
+Which it is. That's good. And then, with this stuff.
+
+00:15:01.690 --> 00:15:03.690
+So, firstly, we want to… add a new vertex group, and just call it quill underscore 0, and assign it to that. But what you also need to do…
+
+00:15:03.085 --> 00:15:06.085
+If we go into weight paint mode, right now you see they're assigned to quill.
+
+00:15:10.032 --> 00:15:12.032
+And if we move this around… It will move, but you see it's gonna… it's doing some weird stuff?
+
+00:15:16.032 --> 00:15:22.032
+Right? Like, it's shrinking. The reason that it's doing that weird stuff is because they are still… parent… they are still, um, weighted to the hip bone.
+
+00:15:22.625 --> 00:15:29.625
+So we click on HIP, you see they're still weighted to that. So what you want to do is you just want to go into edit mode, and then remove them from the head bone.
+
+00:15:36.005 --> 00:15:40.005
+Okay? Now, um, if we go to Quill… There we go. And you can do some blending, maybe you can have the hip bone affect them at the bottom, but I don't think that's necessary.
+
+00:15:42.575 --> 00:15:45.575
+For this. And then, if we go into pose mode… You see that sort of does that.
+
+00:15:45.947 --> 00:15:48.947
+Right? And then you just animate it the same way you would animate the rest.
+
+00:15:51.664 --> 00:15:54.664
+So, it probably, with this one. Probably wouldn't have, for example.
+
+00:15:58.449 --> 00:16:03.449
+Uh, this one be that low… that low down, so I just, you know, I'd put them roughly in the same area.
+
+00:16:08.331 --> 00:16:11.331
+Right? But then, if you. Just pose this, that can… If we just have a look over here…
+
+00:16:16.867 --> 00:16:17.867
+That will just let you… sort of pose that, right? And then, yeah, basically you just animate it the same way, so.
+
+00:16:23.322 --> 00:16:26.322
+If we, um, you know. If we just keyframe that there…
+
+00:16:27.814 --> 00:16:29.814
+Keyframe that there. Just copy that keyframe over to the end.
+
+00:16:30.824 --> 00:16:33.824
+And then, you know, let's just do that for some reason.
+
+00:16:33.927 --> 00:16:38.927
+Let's just move it over there. So I know that this is not how quills work, but just to demonstrate the animation.
+
+00:16:42.145 --> 00:16:44.145
+So, Anel… So that should lower, it should do some crazy movement.
+
+00:16:49.715 --> 00:16:51.715
+And then it should go back to the beginning. Um, that keyframe should probably be at, yeah, frame 200, or…
+
+00:16:51.786 --> 00:16:54.786
+Tour one, depending on where the rest are. Yeah, 200. So, yeah, hopefully that helps.
+
+00:16:57.034 --> 00:16:59.034
+And, uh, yeah. Other than that, like, really love the design, it's really cute.
+
+00:16:59.965 --> 00:17:04.965
+Yeah, I think this technique also applies for heads-up too, I think.
+
+00:17:08.570 --> 00:17:10.570
+For water? Uh, for hershock, yes, yeah, absolutely.
+
+00:17:11.210 --> 00:17:13.210
+That's fault.
+
+00:17:18.999 --> 00:17:24.999
+Yeah, so, um, yeah, for the Hedgehog, definitely this would apply. So anything where you have… Um, you just need to be careful with the weights, just to make sure that when everything's moving around, things aren't sliding away from each other, so that's just the one thing you need to consider.
+
+00:17:25.670 --> 00:17:27.670
+But other than that, yeah, basically just use bones for this.
+
+00:17:28.581 --> 00:17:31.581
+And again, if, uh, you know, if you have a bunch of quills.
+
+00:17:32.176 --> 00:17:34.176
+By the way, I don't…
+
+00:17:32.570 --> 00:17:37.570
+I don't think you'd need more than, at most, like, I don't know, 4, 5, 6 bones.
+
+00:17:40.309 --> 00:17:44.309
+For all the quills, because you can move them as a group. You definitely don't need to… move all these individually, there's just no point.
+
+00:17:50.262 --> 00:17:52.262
+Yeah. Mhm. Okay. Um…
+
+00:17:51.750 --> 00:17:54.750
+Oh, okay, I think we're good. Yep.
+
+00:17:54.325 --> 00:17:56.325
+Yeah, really good job. Alright. Should we, um, should we move on to the next one?
+
+00:18:00.330 --> 00:18:03.330
+Yeah, we could move the second group.
+
+00:18:04.818 --> 00:18:06.818
+Okay. Okay, perfect. So, with the next one, so, um, over here I've got number 2, Alpaca, and…
+
+00:18:13.068 --> 00:18:16.068
+I believe it's this blend file, the environment. Okay, um, also, also, just a tip, if anyone sort of gets this, they get this sort of blue.
+
+00:18:17.222 --> 00:18:25.222
+Blue stuff. This is… if you go up here into viewport overlays, it's face orientation. So it's just showing, like, where the normals are facing.
+
+00:18:32.493 --> 00:18:34.493
+Um, so with this one. Uh, just to be clear, because I didn't, um, at least with this project, there weren't any animations, so just to confirm, there are no animations for this one at the moment.
+
+00:18:35.855 --> 00:18:42.855
+Yeah, this is… we didn't put the animation in there, but they already have done their animation in their projects.
+
+00:18:43.466 --> 00:18:48.466
+Okay, cool, perfect. All right, well, in that case, I'll just give my feedback on, sort of, what we have here.
+
+00:18:47.908 --> 00:18:53.908
+So, firstly, firstly, really love the design, uh, really cool design of the Alpaca.
+
+00:18:48.550 --> 00:18:50.550
+Yeah. Yeah.
+
+00:19:00.062 --> 00:19:02.062
+Uh, love the environment as well. Um, you know, I can definitely see you can create some kind of, like, cool scene here where…
+
+00:19:00.723 --> 00:19:04.723
+We've maybe got the, uh, the alpaca walking past the police… the police department.
+
+00:19:10.270 --> 00:19:12.270
+And doing some… and doing some stuff. That's really cool. Now, let me just hide everything…
+
+00:19:17.708 --> 00:19:21.708
+Except for the alpaca. So, with this one. Uh, what… so, same thing as with the… same thing as with the porcupine. Uh, just look for en-ons.
+
+00:19:25.640 --> 00:19:27.640
+Right? So again, especially on a… on an animated model, or a model that you would animate.
+
+00:19:29.952 --> 00:19:32.952
+Just look out for Angon, so again, if you go select… Um, where is it?
+
+00:19:33.523 --> 00:19:37.523
+All by trade, faces by sides, and we go greater than 4.
+
+00:19:43.146 --> 00:19:50.146
+There are a few engines here, so those are just something that I would fix up. Overall, the topology is really good, so… fairly even, you don't have a lot of, you know, really small faces and a lot of really big faces.
+
+00:19:50.186 --> 00:20:01.186
+You've got more geometry where the… where the arm bends, and at the knee, which is really good to see. So, you're gonna get more even, like, better.
+
+00:20:06.580 --> 00:20:10.580
+Better deformation there, right? But just the… the end, you've got a few, sort of, around the… got a few around the shoes.
+
+00:20:16.089 --> 00:20:19.089
+Um, and, like, with the shoes, it's not… It is important, but it's not as important, because these probably won't actually.
+
+00:20:18.872 --> 00:20:24.872
+Change their shape all that much. But where it is important is, especially in areas where the character does bend.
+
+00:20:24.801 --> 00:20:29.801
+You know, I would fix up NGONs in this area, I would fix, uh, I would fix them up up here.
+
+00:20:35.378 --> 00:20:39.378
+Um, and potentially add a little bit more geometry around the… sort of around the shoulder area, so maybe just, like, a couple more edge loops.
+
+00:20:42.247 --> 00:20:44.247
+Sort of here, and… what I would do is, you have these really big faces here.
+
+00:20:47.731 --> 00:20:50.731
+What I would do instead is maybe just, um, have… have a couple more edges.
+
+00:20:51.551 --> 00:20:53.551
+Kind of going this way, if that kind of makes sense.
+
+00:20:56.870 --> 00:20:59.870
+Right? Something like that. And then, with this one, you can either… uh… you can either add, like.
+
+00:21:06.460 --> 00:21:09.460
+At an edge loophole, or just join it up. Somehow. Other than that, um, let's see if there's anything else I…
+
+00:21:08.537 --> 00:21:13.537
+As something else I had. Yeah, um, so you mentioned that the team is still working on this project.
+
+00:21:17.305 --> 00:21:20.305
+The UVs, but I didn't know if that was… something that's already been sort of fixed or not.
+
+00:21:19.622 --> 00:21:31.622
+Because right now, I notice that, um, there aren't textures on it at the moment, but, like, with the UVs, there are some issues, so just, um, wanted to find out if the team, if that's something the team is addressing.
+
+00:21:32.292 --> 00:21:35.292
+Or if they're just using materials in Blender, in which case it doesn't really matter.
+
+00:21:43.501 --> 00:21:45.501
+Great deal. Hello? Yeah. Okay, actually…
+
+00:21:46.950 --> 00:21:51.950
+Right now, I'm not even that part of your prep. Because I'm using Montreal for color.
+
+00:21:48.010 --> 00:21:50.010
+Alright.
+
+00:21:55.264 --> 00:21:58.264
+And, uh, you… They said, okay, I feel my let's broken.
+
+00:21:56.383 --> 00:21:58.383
+Okay, yep.
+
+00:22:01.522 --> 00:22:03.522
+Uh, yeah, sure, let me stop sharing. Hold on, stop share.
+
+00:22:10.003 --> 00:22:12.003
+Yep.
+
+00:22:21.628 --> 00:22:24.628
+Let's progress. Uh, the previous one, I'm using Rejify, and I cannot…
+
+00:22:29.180 --> 00:22:33.180
+Uh, at the bone, or the ear, and the… the deal, but I don't know, I give you my…
+
+00:22:36.586 --> 00:22:40.586
+Minority, or magi. And maybe this is… Oh my god, so what if I intention?
+
+00:22:46.189 --> 00:22:48.189
+Yeah, sure, yeah, let's see the animation.
+
+00:23:13.679 --> 00:23:15.679
+That's a really cool animation. Animation is really cute. One thing, um, can you, uh, can you, um, show the bones?
+
+00:23:16.385 --> 00:23:24.385
+I really love the animation. One thing I would change is you've got the hips kind of moving up in the middle, uh, really sharply. That's, like, the one thing that I would probably change in this.
+
+00:23:34.451 --> 00:23:36.451
+Yeah, so just a neutral pose.
+
+00:23:40.238 --> 00:23:42.238
+Did I show the others.
+
+00:23:42.818 --> 00:23:44.818
+Yeah, sure, sure.
+
+00:23:55.080 --> 00:23:57.080
+Yeah, well, love the animation. Um… yeah, really great use of, like, anticipation and some other principles, really good.
+
+00:24:06.598 --> 00:24:10.598
+First one, I want to add a group chain for my… But I don't know how to… Like, place, uh, yeah, gold tin… necklace.
+
+00:24:13.227 --> 00:24:15.227
+Oh, um, do you want… Do you want it to be animated?
+
+00:24:15.533 --> 00:24:17.533
+You want to put that in the crafter?
+
+00:24:18.664 --> 00:24:24.664
+I think it's just moving, like, are you.
+
+00:24:19.398 --> 00:24:24.398
+Because whether you answer yes or no to that question, it will add a lot of work.
+
+00:24:28.184 --> 00:24:32.184
+Oh.
+
+00:24:41.736 --> 00:24:43.736
+Okay. Yeah. Yeah, I remember there was, like, there was, like, this meme where, um, if you talk to, like, character artists, like, creating a dragon that breathes fire and, like, you know, does a lot of crazy stuff, that's easy, but carrying… having a character take off a scarf is, like, near impossible.
+
+00:24:51.999 --> 00:24:53.999
+Um, so… Uh, with… okay, with a gold chain, if you want it to be animated, then…
+
+00:24:58.691 --> 00:25:01.691
+Yeah, that… you'll have some… you'll have some issues. Um, especially if it's, like, a game character, because, um…
+
+00:25:00.598 --> 00:25:11.598
+Well, what I mean by animated is whether you want it to be animated separately, like, for example, in this run animation, do you want it to sort of, like, you know, float up and then hit back onto the chest, right? Something like that. Like, that is, um, that is genuinely.
+
+00:25:18.974 --> 00:25:21.974
+Going to be a bit tricky. You might actually, um… I'm just even thinking what the best way to do that is, because if it's a game, you're not going to be using, sort of like, simulations or anything like that.
+
+00:25:23.295 --> 00:25:36.295
+Um, like, it's doable, you can probably do it, you can probably do it with morph targets, even, at some point, but at the moment, I, like, I personally probably advise against having, like, a separately animated chain.
+
+00:25:36.696 --> 00:25:40.696
+Right? Um, if you just want to create a chain by itself.
+
+00:25:40.938 --> 00:25:46.938
+Right? Yeah, actually, maybe that was the question. Is that the question, like, how to create a chain?
+
+00:25:51.635 --> 00:25:53.635
+Yeah. Your question is. With it or the animation.
+
+00:25:57.200 --> 00:26:00.200
+Oh, okay. In terms of cr… Okay, so…
+
+00:26:01.799 --> 00:26:03.799
+Awesome. Yeah. Oh, her question is…
+
+00:26:05.477 --> 00:26:11.477
+Uh, is it better to create a new object chain, or is it modeling from the… Uh, character.
+
+00:26:15.943 --> 00:26:18.943
+Yeah, excellent from that.
+
+00:26:17.198 --> 00:26:19.198
+Oh, um… with that, I'd probably… no, I'd probably model it as a separate object.
+
+00:26:23.557 --> 00:26:26.557
+Um, so, wait, um, let me just share my screen.
+
+00:26:30.964 --> 00:26:32.964
+Bob share?
+
+00:26:35.946 --> 00:26:37.946
+Okay, give me a minute. Alright, so with a chain.
+
+00:26:39.486 --> 00:26:46.486
+Modeling it from your character, I mean, usually it's… if you want to model something from your existing mesh, it's best to go off, like, the geometry that you already have.
+
+00:26:48.192 --> 00:26:57.192
+So, you know, you could… you could, of course, take something like, you know, this face loop over here and, you know, just, like, insert that a bit, and then… Um, add some depth.
+
+00:27:07.474 --> 00:27:10.474
+And then, if we add a new material. And then just assign that, right? That can be a chain, but that doesn't really look like a chain, right? If you want to model a chain, um…
+
+00:27:16.708 --> 00:27:19.708
+Um, if you wanted to, like, let's say, model it. Chain specifically using your mesh, you'd have to make a lot of loop cuts, and you'd end up with really awkward geometry, so I would model it separately.
+
+00:27:25.134 --> 00:27:30.134
+Right? Um, in terms of modeling it separately, though, what you probably can do… is… sorry, let me…
+
+00:27:30.624 --> 00:27:32.624
+Uh, sorry, let me just. All of these, I'll just create a new one here.
+
+00:27:37.503 --> 00:27:39.503
+Oh. Wait, uh, let me… Sure, we'll just… we'll just create it from here.
+
+00:27:38.927 --> 00:27:46.927
+So, for a chain, again, this is a fairly low-poly character, so I wouldn't create a super complex chain, but if you make two links, right, two links of a chain.
+
+00:27:47.326 --> 00:27:52.326
+What you can do is you can then array them along a curve, right? That would probably be my best suggestion for doing it.
+
+00:27:58.362 --> 00:28:02.362
+Right? What I mean by that is, let's just create a plane… Just inset it…
+
+00:28:05.795 --> 00:28:10.795
+Okay, um, I think the measurements are a little bit wrong here, but, um… Let's go over SX and SY… Okay, so let's say this is a link 1.
+
+00:28:18.573 --> 00:28:20.573
+And this is link 2. Right? So, let's just also…
+
+00:28:26.494 --> 00:28:28.494
+Make this a lot smaller. And then, uh, what we need to do is we need to…
+
+00:28:28.632 --> 00:28:32.632
+So, it's just… this is not something… I don't usually array along… I don't usually, like.
+
+00:28:36.108 --> 00:28:41.108
+Make my end stuff in Blender, uh, because I usually work with, like, Unreal Engine or something else, but… I think you can array along a circle.
+
+00:28:45.944 --> 00:28:47.944
+Unless I'm very mistaken. Wait, let me just go… so if we go array…
+
+00:28:54.026 --> 00:28:56.026
+I believe it's Generate Array? Right? So this is the first one that you'd want to do, and you just want to change it a little bit so that…
+
+00:28:57.990 --> 00:29:00.990
+It's, like, maybe .8 or something, or… Is that correct? Yeah, maybe, like, 0.9?
+
+00:29:01.658 --> 00:29:07.658
+Sure. And then, what you need to do is, uh, where is it? Deform Curve.
+
+00:29:08.357 --> 00:29:11.357
+I believe. So there's a specific order that you need to do this in, sir.
+
+00:29:18.488 --> 00:29:20.488
+Yeah, there we go. Okay, so I was correct. And then, we just take this curve…
+
+00:29:23.187 --> 00:29:25.187
+And…
+
+00:29:25.990 --> 00:29:29.990
+Also, the reason I'm not using hotkeys is because I work with, like.
+
+00:29:29.683 --> 00:29:37.683
+Um, I work with Maya, I work with, um, I work with Cinema for D, I work with Blender, and so I've given up remembering the hotkeys.
+
+00:29:41.900 --> 00:29:47.900
+There are some that I use constantly, but a lot of them I just, um, I just don't… I also recently got a new mouse, so… tweaking those settings is a little bit awkward.
+
+00:29:52.339 --> 00:29:55.339
+Okay, let's just place that there, and then… Take that, place it there, and then there are some…
+
+00:29:58.060 --> 00:30:01.060
+Here, which we just adjust. And then…
+
+00:30:05.109 --> 00:30:08.109
+And then we just need to sort of adjust the… um, adjust the count, that's one thing.
+
+00:30:08.299 --> 00:30:14.299
+So it's like 2. And then you can also… you can still edit the original mesh, right? So if we press Tab.
+
+00:30:14.518 --> 00:30:17.518
+You can do that, and then maybe just make that a little bit smaller?
+
+00:30:23.950 --> 00:30:25.950
+Or a little bit bigger. Until it sort of fits, and yeah. So, you know, it's… it still needs some…
+
+00:30:29.113 --> 00:30:34.113
+Adjustment, right? But this is probably what I would… This is probably what I would do in terms of a chain.
+
+00:30:36.817 --> 00:30:39.817
+Right? Um, for a character like this. You know, I just need to place it a bit more carefully.
+
+00:30:48.118 --> 00:30:55.118
+Let's go… that. And then you still have to do all the weights, obviously, so… that's another thing, you just need to, um… Uh, try to adjust the weights to… to the rig, because right now, obviously, it's not gonna, um, it's not gonna deform.
+
+00:30:54.811 --> 00:30:59.811
+But, yeah, this is basically how I would do it. That would be my suggestion.
+
+00:31:06.288 --> 00:31:08.288
+Okay, so… If the parent reading for the test for the main party?
+
+00:31:08.981 --> 00:31:11.981
+Sorry, it's a little bit quiet, I didn't quite catch that.
+
+00:31:13.781 --> 00:31:16.781
+They would… yeah, they would need to, peron the… negates to the bone.
+
+00:31:25.752 --> 00:31:27.752
+Yes, yeah, because right now. If we have… oh, well, um, hold on. We don't have any animations, but…
+
+00:31:37.159 --> 00:31:39.159
+Okay, and then let's just move that down. Right? So… Yeah. You know, no, um, nothing, nothing happening there. So yeah, you would need to parent it.
+
+00:31:51.065 --> 00:31:53.065
+So, you would need to actually… Um… If this is the Rigify tool, just, like, you know, try to do it through Rigify, and then you would have to adjust the weights. Now, this is a very tricky sort of spot to do it in as well.
+
+00:31:52.634 --> 00:32:02.634
+Right? Um, because you've got the weights, you've got a lot of different weights, kind of, um, fighting with each other. You've got the spine bones, you've got the neck bones, you've also got the shoulder bones and the arm bones.
+
+00:32:07.957 --> 00:32:09.957
+So this will be a little bit tricky to do. Um, the smaller this is, the… let me just convert this to a mesh for a second.
+
+00:32:10.494 --> 00:32:16.494
+Um, the smaller this is, the easier it will be. If you just do it sort of around the neck, or maybe around the shoulder areas, kind of like this.
+
+00:32:16.409 --> 00:32:21.409
+That will… that will be a little bit easier, right? But, um, yeah.
+
+00:32:22.486 --> 00:32:24.486
+Basically, that's the, um, that's the way you could do it.
+
+00:32:25.396 --> 00:32:29.396
+Actually, sorry. One other way that you could do it, which might make things a little bit simpler.
+
+00:32:35.248 --> 00:32:37.248
+So, let's go… Oh, wait, sorry, no, not that. Extrude?
+
+00:32:44.678 --> 00:32:47.678
+Alright, so the idea being… you basically make a…
+
+00:32:55.006 --> 00:32:59.006
+A circle sort of like this, right? And again, just adjust it so that it's, um… Um, so that it's the same shape, right, as the necklace. I'm not gonna go through the whole process now.
+
+00:32:59.350 --> 00:33:03.350
+And then you basically make a chain texture with an opacity mask.
+
+00:33:03.107 --> 00:33:12.107
+Right? So, that would be another way to do it, which, um, it will not look as good as the regular chain, but it might not matter.
+
+00:33:06.873 --> 00:33:08.873
+Oh, yeah.
+
+00:33:12.083 --> 00:33:15.083
+And also, it's going to be a lot easier with the UVs.
+
+00:33:19.770 --> 00:33:22.770
+Right? That, um… So, yeah, that would basically be, um, my suggestion. Either one… either that version or this.
+
+00:33:28.637 --> 00:33:30.637
+Thank you so much.
+
+00:33:30.481 --> 00:33:32.481
+No, no, I'll get… all good. Alright, um, okay, we'll move on to the… we'll move on to the next one.
+
+00:33:39.527 --> 00:33:42.527
+Now, next project that I've got here is the turtle. Turtle, um… okay, so for…
+
+00:33:46.908 --> 00:33:52.908
+Firstly… firstly, for this one, um, for this one, the textures for me, um, weren't in the… went in the project, but I did… But I did see the demo video. I want to say, great job on the demo video.
+
+00:33:58.846 --> 00:34:01.846
+Uh, textures, uh, textures look really cool. So…
+
+00:34:01.561 --> 00:34:04.561
+Love the walking animation, you've got the jumping animation somewhere in here.
+
+00:34:09.144 --> 00:34:11.144
+It's very cute. So yeah, really love this.
+
+00:34:13.748 --> 00:34:17.748
+So, um, looking at the actual model itself. Right? Looking at the model itself.
+
+00:34:27.557 --> 00:34:29.557
+Really like the design. Really cool. Sorry, let me just see the, um… let me just see the things that I wanted to sort of mention here.
+
+00:34:28.989 --> 00:34:34.989
+Right? Okay, so… wait, sorry, what did I… what did I want to mention?
+
+00:34:49.495 --> 00:34:51.495
+Uh, yeah. The… So overall, um, overall, it looks really good. One thing that I'd, uh, that I would mention is with the body specifically, so I know that this was, um, so you did sub-D modeling, so you had a, you had a more basic shape, and then you subdivided it.
+
+00:34:54.928 --> 00:35:00.928
+To get this shape, right? Which, um, which that's completely fine. What it does… Um, what I would do is I would do a little bit more cleanup.
+
+00:35:06.428 --> 00:35:10.428
+Right? Because you've got a lot of, um, you've got a lot of extra edge loops which you don't need, so… If, for example, especially we look in these areas, like, all of these edge loops over here, like this.
+
+00:35:10.752 --> 00:35:15.752
+All of these, if they are removed, that will not change anything about the model at all.
+
+00:35:15.628 --> 00:35:20.628
+Right, so I would generally, um, I would generally remove a lot of these unnecessary.
+
+00:35:21.166 --> 00:35:26.166
+Edges, especially over here, you've got these bevels, but they're so small that it's not really playing a difference.
+
+00:35:31.840 --> 00:35:33.840
+Right, so I would just remove… all of these from the character. They're… again, that's not really gonna change anything.
+
+00:35:33.967 --> 00:35:38.967
+And then, you know, Mark Sharp… well, you'll have to do it on your end, because for me.
+
+00:35:42.027 --> 00:35:44.027
+Um, I'd need a split. The data to sort of fix that.
+
+00:35:44.441 --> 00:35:50.441
+And then, um, that's also the reason why, like, here at the bottom, you have a lot of these sort of vertices.
+
+00:35:55.751 --> 00:35:57.751
+Down here, if we just sort of select this area. Okay, let's say that's that rough area.
+
+00:36:03.703 --> 00:36:06.703
+Over there, what are my… what are my statistics? Statistics. So, over there, you've got, um…
+
+00:36:05.781 --> 00:36:11.781
+You've got… you've got, like, 3,000 faces there, that's definitely way, way more than you need.
+
+00:36:18.527 --> 00:36:20.527
+Because this is an area that will never deform. So, this is, um, uh, again, the overall shape. The overall shape is really good, but…
+
+00:36:22.383 --> 00:36:29.383
+Um, if you're never gonna see this area, and especially if it's not really deforming, you definitely don't need this much geometry. So that would just be… my, sort of, main tip.
+
+00:36:38.293 --> 00:36:40.293
+About, uh, about this 3D model. Now, another thing… So, I notice over here, you've got a lot of…
+
+00:36:38.845 --> 00:36:41.845
+You've got a lot of these extra, sort of, edge loops.
+
+00:36:45.035 --> 00:36:47.035
+Right? And. I'm assuming that what was happening.
+
+00:36:53.785 --> 00:36:55.785
+Was, um… So if we take a plane, and then…
+
+00:36:57.993 --> 00:36:59.993
+We'll sort of extrude that. Right? So let's say that I want to subdivide this.
+
+00:37:04.969 --> 00:37:08.969
+Alright, and I want to subdivide it by quite a bit, but I want this edge… Over here, like these edges, I want them to sort of stay.
+
+00:37:14.370 --> 00:37:16.370
+Right? So… generally, what I'm assuming that you did here, and what a lot of people do, is…
+
+00:37:16.154 --> 00:37:19.154
+You add an edge loop, like this, and then you just sort of bring it down.
+
+00:37:19.404 --> 00:37:23.404
+Right? And that kind of, um… and that basically creates that sharp edge.
+
+00:37:30.509 --> 00:37:34.509
+The problem with that is that if you do that. Right? And then I apply this, you end up with a lot of these extra edge loops that you generally don't need.
+
+00:37:38.872 --> 00:37:41.872
+So, what I would suggest instead of that… is, if you haven't used it, the Edge Crease Tool.
+
+00:37:42.767 --> 00:37:46.767
+Right? This is something that's super useful, and it's specifically for situations like this.
+
+00:37:52.087 --> 00:37:54.087
+So, over here, um, in the. Um, so if you just press N, and then it's the first… the first panel, the transform panel.
+
+00:37:59.253 --> 00:38:01.253
+You've got mean crease, right? Now, if you select these edges, and you go Mean Crease and set that to 1.
+
+00:38:02.024 --> 00:38:07.024
+Right? That basically does exactly what you want, that sort of, um, that sharpening.
+
+00:38:07.108 --> 00:38:12.108
+Uh, without extra… adding extra edge loops. And then, if we apply the subdivision.
+
+00:38:12.065 --> 00:38:17.065
+You'll notice that the faces are a lot more even, so you've got a lot more even geometry.
+
+00:38:17.021 --> 00:38:23.021
+So, generally for situations like this, if you want to sort of model it in sort of that subdivision.
+
+00:38:30.710 --> 00:38:32.710
+Um, workflow. Use a lot of, um, use edge crease, or, like, mean crease, for wherever you want those sharp edges.
+
+00:38:35.698 --> 00:38:37.698
+As opposed to adding a lot more edge loops. Right, so that would just be, um, that would be my suggestion.
+
+00:38:43.737 --> 00:38:45.737
+Aside from that, let me just see if… Yeah, aside from that, I don't think I had any, um, any other notes.
+
+00:38:51.484 --> 00:38:54.484
+The… yeah, I don't think there were any issues. That I saw necessarily with the UVs. There's something there, but… wait, is that something that I did?
+
+00:39:00.012 --> 00:39:02.012
+Sorry. What is that? That is the…
+
+00:39:01.475 --> 00:39:05.475
+Oh, yeah, that's… that's because I cut that off, so that's… that's my bad, that's my fault.
+
+00:39:13.033 --> 00:39:15.033
+And… Yeah, you've got a separate material for the eye. This is technically fine, but…
+
+00:39:20.231 --> 00:39:23.231
+For a low-poly character, it might not even be necessary. Right, so with… there's always a balance of how many materials slots you actually need.
+
+00:39:23.160 --> 00:39:32.160
+Versus, you know, the actual resolution of your textures. If you can fit everything onto one… into one material, um, that's… that's very often completely fine.
+
+00:39:31.999 --> 00:39:36.999
+Something I noticed here, which is… which is… which is good to see, is that you've got the front.
+
+00:39:37.279 --> 00:39:41.279
+Part of the eye, um, take up a lot more space on the UV map than the back.
+
+00:39:46.460 --> 00:39:51.460
+Uh, which is, uh, which, yep, that's, uh, that's a good idea, because… That is just using up… that is just using up texture space that…
+
+00:39:51.652 --> 00:39:54.652
+Is never going to be seen, so that's really good. Yeah. Other than that, great job.
+
+00:40:01.651 --> 00:40:07.651
+Thank you, and I want to ask about, uh, isn't I need to, like, uh, re… if I want to rework the mesh and the vertex, I will reduce.
+
+00:40:08.555 --> 00:40:14.555
+The model here, I rework again with the way painting, or I just delay it and it's fine?
+
+00:40:23.534 --> 00:40:27.534
+Um, look, look, look, for this, um, I'd say if you want to… So, um… The mesh itself overall, overall, the mesh is completely fine, it's just, um…
+
+00:40:27.224 --> 00:40:33.224
+Uh, it's just a little bit too subdivided, right? That's the only thing. So I don't think it's necessary to completely rework it.
+
+00:40:40.454 --> 00:40:46.454
+Right? Now, if, for example, you were actually doing this for a production game, then yes, you might need to… Um, uh, you might need to do a… do a little bit more. However, if you've got, like, let's say an older version of this mesh.
+
+00:40:46.818 --> 00:40:49.818
+Right? If you've got an older version before it was subdivided.
+
+00:40:50.505 --> 00:40:58.505
+Um, maybe go… maybe have a look at that one, and just delete those extra, sort of, edge loops that you've got, you know, in areas like here.
+
+00:41:03.502 --> 00:41:05.502
+And, um… you know, on the shell, like, the different edge loops that you've got over here, and try to use Mean Crease instead.
+
+00:41:05.237 --> 00:41:11.237
+Right? Because I think, like, me increase, like, not using me increase is probably the biggest, um, sort of thing that contributes to.
+
+00:41:15.380 --> 00:41:17.380
+Having a lot of this extra geometry.
+
+00:41:18.848 --> 00:41:23.848
+But yeah, uh, we want to show you a bit about our progress.
+
+00:41:31.492 --> 00:41:33.492
+Okay, let me share.
+
+00:41:31.952 --> 00:41:33.952
+Yep, sure, I'll show my… I'll stop sharing.
+
+00:41:48.821 --> 00:41:51.821
+Nice. Nice, love the emissives, really cool.
+
+00:41:51.390 --> 00:41:53.390
+Here's our down goal. Who could use a mission map and point lights, so you can turn it on and off.
+
+00:41:57.391 --> 00:42:00.391
+Okay, really cool. Um… Nice.
+
+00:42:04.143 --> 00:42:06.143
+And then we have… So, it lacks water.
+
+00:42:10.308 --> 00:42:12.308
+Yep.
+
+00:42:11.623 --> 00:42:13.623
+And then we have… what do we call it?
+
+00:42:16.139 --> 00:42:20.139
+Animation we are coding, so if… it will detect terrains.
+
+00:42:23.962 --> 00:42:25.962
+Yep.
+
+00:42:25.186 --> 00:42:29.186
+Would move, right? According to the theory. Okay.
+
+00:42:27.705 --> 00:42:29.705
+Nice, that's really cool. Yeah, I love it. Love it, great job.
+
+00:42:29.977 --> 00:42:34.977
+Kinematics. So, there are… if you can see, there are boxes.
+
+00:42:41.103 --> 00:42:43.103
+Awesome. Yeah, yeah, yeah, so it's, um, you're doing… I'm assuming you're doing, like, line traces, and it's just detecting where the ground is, like, under that, um, under that bone. Is that what's happening?
+
+00:42:46.799 --> 00:42:48.799
+Yep. Mm-hmm. Yeah, perfect. Yeah, amazing. Great job.
+
+00:42:49.511 --> 00:42:51.511
+Okay.
+
+00:42:55.692 --> 00:42:59.692
+Uh, thank you very much for your feedback, Gladwell.
+
+00:43:01.191 --> 00:43:03.191
+No, no, no, you're welcome. Alright, let me, uh, in that case, let me just share my screen. Sorry.
+
+00:43:13.228 --> 00:43:15.228
+Cacious screen… And then… alright. So, next one… next one that I have… okay, um, next… next one that I have is I have the Sugar Glider.
+
+00:43:15.776 --> 00:43:18.776
+Now, with the Sugar Glider, I believe that… I don't think the textures came through.
+
+00:43:21.080 --> 00:43:23.080
+Uh… wait, sorry. Where was it?
+
+00:43:32.763 --> 00:43:34.763
+So I'm assuming it's this one. Um, sorry. This Sugar Glider UV Unwrapped, that's the, um… at least that's the one that I've.
+
+00:43:42.208 --> 00:43:44.208
+I think… Uh, yeah, not… yeah, from there.
+
+00:43:44.322 --> 00:43:46.322
+Sort of found? Why didn't that open? Oh, wait, that's a 1KB, hold on. Am I…
+
+00:43:47.659 --> 00:43:49.659
+Uh, oh yep, yep, sorry, my bad. Folder.
+
+00:44:04.293 --> 00:44:10.293
+Okay. Alright, yep, so just on my end, the texters didn't come through, so, um, if the team can later show the textures, that'd be… Uh, that'd be great. Now, let me just have a look at the…
+
+00:44:17.044 --> 00:44:22.044
+Sorry, my notes… okay. Firstly, really cute design. I think, um… yeah, I like the sort of enlarged head and, you know, the proportions of everything look really cool.
+
+00:44:27.258 --> 00:44:29.258
+So, I think a great job on that. Now, the… notes that I had.
+
+00:44:28.926 --> 00:44:39.926
+Overall, in terms of the, um, in terms of the topology, generally, I'd say, um, yeah, this, um, this, this definitely works. Something that I would potentially.
+
+00:44:48.507 --> 00:44:54.507
+Uh, change is… you've got, like, this edge loop on the tail, which I would probably… And which kind of goes around the entire… Um, it goes on for, like, quite a while. This is something that I would maybe just remove, because I don't think it's actually…
+
+00:44:55.368 --> 00:45:04.368
+Um… I don't think it's giving you a lot of benefit, especially here on the, um, especially here on the hands, so maybe just dissolving that might be an idea.
+
+00:45:12.036 --> 00:45:14.036
+Another thing is, with the tail. You've got a lot of these edge loops, but you've got these really sort of angular sort of shapes, so what I would do is just…
+
+00:45:17.156 --> 00:45:19.156
+Maybe adjust those, smooth them out a little bit. Just to… just to make the tail a little bit more rounded.
+
+00:45:24.875 --> 00:45:30.875
+Right? Um, again, but again, like, it's a… I understand that it could be, like, a stylistic choice, so… That's not… that's not necessarily a, uh, like, a bad thing, per se.
+
+00:45:37.776 --> 00:45:40.776
+Now, other thing that I… wanted to mention… yes, another thing that I wanted to mention, so with the… with the animations.
+
+00:45:46.072 --> 00:45:48.072
+This is fairly minor, but just something to make it. Um, a little bit more…
+
+00:45:50.392 --> 00:45:51.392
+Sorry. Uh, wait, which one was it? Was it this one? Yep.
+
+00:45:52.350 --> 00:45:54.350
+Uh, wait, no, I think it was the previous one, this one.
+
+00:46:03.968 --> 00:46:05.968
+So, okay, um… I didn't look at references, right? But what kind of stands out to me here with the animation is the back legs.
+
+00:46:10.961 --> 00:46:15.961
+Alright, and again, this might be a very minor thing, and to be honest, I might actually be wrong on this, but… Right now, when the character jumps, you've got the back legs kind of folding out.
+
+00:46:16.199 --> 00:46:20.199
+That way, right? So they kind of go like that, right?
+
+00:46:19.679 --> 00:46:24.679
+Whereas, I think what should be happening is they should be kind of going outwards.
+
+00:46:25.574 --> 00:46:36.574
+Instead. Right? Now, again, this just stood out… this stood out to me for, um, when I first saw it, and again, I may be wrong on this, like, maybe when they jumped, that's exactly how they do it.
+
+00:46:35.771 --> 00:46:38.771
+But that's just one thing I would potentially have a look at.
+
+00:46:39.130 --> 00:46:46.130
+Um, other than that, really cute, uh, jumping animation. I noticed there's sort of, like, a longer animation that you do have.
+
+00:46:45.777 --> 00:46:52.777
+Right? Which… you have it sort of gliding, and you've got the tail flying, so that's really cute.
+
+00:46:56.147 --> 00:46:58.147
+And… Bit of a jump animation.
+
+00:46:59.467 --> 00:47:01.467
+The jump animation, I would probably have it go a little bit higher.
+
+00:47:05.507 --> 00:47:07.507
+Right now, because, um… Oh, it's running… oh, right, okay, so this is.
+
+00:47:05.861 --> 00:47:08.861
+It's running, I think? Running. Yeah, Larry, it's running in a name.
+
+00:47:08.135 --> 00:47:13.135
+Oh, right, sorry, okay, sorry, my bad then. In that case… wait, let me just go timeline… hold on.
+
+00:47:16.002 --> 00:47:19.002
+Are we at 20? Let's just limit the. Just limit the timeline to 20.
+
+00:47:26.344 --> 00:47:33.344
+Okay, yeah, yeah, yep, so it is a running animation. With this running… with this running animation, um, one thing I would probably do is… You've got the arms extending really, really fast, right? So that's… that's one thing. Maybe just have them…
+
+00:47:40.595 --> 00:47:43.595
+Because there's no change, um… kind of in this direction, from frame 0 to frame 5, but then you've got a really sudden jump to frame 10.
+
+00:47:46.621 --> 00:47:48.621
+Right? So having them… Uh… wait, are these IK set up? Yep.
+
+00:47:51.566 --> 00:47:53.566
+So, having them move a little bit f-. Further forward by frame 5.
+
+00:47:57.149 --> 00:48:09.149
+We'll just help smooth it out a bit, and then do sort of the same thing over here, where you see there's very little change on the y-axis from frame 10 to frame 15, but then it goes back to frame 20 really suddenly, so maybe… Moving that… there?
+
+00:48:14.337 --> 00:48:16.337
+We'll just help smooth things out a little bit. Sorry, wait, um, what's the interpolation on this?
+
+00:48:25.393 --> 00:48:27.393
+Sorry, it might be an interpolation thing. Um, I'm just gonna…
+
+00:48:26.134 --> 00:48:30.134
+Do that, and then easing type, let's just go automatic easing. Wait, will that fix it?
+
+00:48:35.663 --> 00:48:37.663
+So why does that…
+
+00:48:44.569 --> 00:48:46.569
+Okay, why is that not doing its thing? Hold on.
+
+00:48:53.096 --> 00:48:55.096
+Yeah, sorry, it's not adjusting. Wait, what am I missing here?
+
+00:48:58.288 --> 00:49:04.288
+Okay, um, yeah, so it's not saving, uh, it's not saving on mine. There's probably something I'm missing with the setup of the project.
+
+00:49:04.127 --> 00:49:11.127
+Or something, but basically, yeah, that's what I would change. So from frame 0 to frame 5, there's no movement.
+
+00:49:11.095 --> 00:49:19.095
+Over here, but then there's very sudden movement to frame 10, so just have the 5 be somewhere in between frame 0 and frame 10.
+
+00:49:19.605 --> 00:49:25.605
+Right? Because you see right now, if I jump from 0 to 5, there's basically no difference. And then from frame 10 to frame 20.
+
+00:49:26.036 --> 00:49:31.036
+Have 15 be somewhere in the middle, right? So, because right now you see frame 10 and frame 15, they're in the same spot.
+
+00:49:31.323 --> 00:49:36.323
+So, have frame 15 be in between frame 10 and frame 20.
+
+00:49:41.059 --> 00:49:43.059
+So, somewhere around there. Right? Um, it's just right now, I'm not… it's not saving the, um…
+
+00:49:47.098 --> 00:49:50.098
+The IK positions, but hopefully you get what I mean. Alright, um, other than that, other than that, um, yeah, no notes.
+
+00:49:55.162 --> 00:49:57.162
+Um, did the team… did the team have any questions? Well, I wanna, um, let's say, share with the, um, with the touches?
+
+00:50:15.262 --> 00:50:17.262
+Uh, sorry? Oh. Is the team going to share their screen, or are we moving?
+
+00:50:22.603 --> 00:50:28.603
+Yeah, definitely. Okay, thank you, Gleb. Amy Shop Albani. Assessment, okay.
+
+00:50:25.318 --> 00:50:27.318
+Okay. Mm-hmm. Nice to meet you.
+
+00:50:53.981 --> 00:50:57.981
+Sorry, is the team sharing their screen, or…? Oh, okay, okay, okay.
+
+00:50:57.502 --> 00:50:59.502
+Yeah, wait, uh… It's prepared in the script.
+
+00:51:05.103 --> 00:51:09.103
+Okay, I've got, um, yeah, I saw in the chat you sent a link to a… Um, to another… zip file, so…
+
+00:51:14.410 --> 00:51:16.410
+I'll just unpack that while… What the screen is showing…
+
+00:51:14.790 --> 00:51:16.790
+Can you see it? Can you see the screen?
+
+00:51:21.283 --> 00:51:23.283
+Uh, my animation.
+
+00:51:22.732 --> 00:51:24.732
+Yes, yes I can. Mm-hmm.
+
+00:51:29.342 --> 00:51:31.342
+Babe, um… Let's say, uh…
+
+00:51:40.287 --> 00:51:42.287
+Nice, Ricket.
+
+00:52:05.193 --> 00:52:10.193
+Uh, I'm just using the three key friends, because, uh, for… Looking in unity.
+
+00:52:14.805 --> 00:52:17.805
+Right, okay. Yeah, oh, right, all right. Okay, sure.
+
+00:52:16.825 --> 00:52:22.825
+Yeah, overall, um, uh, overall looks good. One thing I would do is I would add maybe some movement to the main body.
+
+00:52:23.068 --> 00:52:29.068
+Right now, the body is very static, so you only have the legs moving. Maybe have the body sort of, like, you know, maybe bob up and down a little bit.
+
+00:52:28.829 --> 00:52:32.829
+While it's moving, um, that might give it a little bit more natural motion.
+
+00:52:38.927 --> 00:52:42.927
+But aside from… but aside from that, um, yeah, it's a fairly… Um, with this, you do want a pretty… you probably want a fairly simple walk cycle, so I think that… that's why I think that works.
+
+00:52:46.558 --> 00:52:50.558
+And yeah, I can see that you've got… I can see that you've got some textures applied now, so that's really good.
+
+00:53:00.759 --> 00:53:02.759
+Do you have anything more to…? Show? Uh…
+
+00:53:06.024 --> 00:53:08.024
+Yeah, I think… good.
+
+00:53:13.477 --> 00:53:16.477
+Sorry? I didn't catch the last spot. No, no, thank you. Thanks for sharing. All right, let me… alright.
+
+00:53:15.256 --> 00:53:17.256
+Yeah, thank you.
+
+00:53:22.475 --> 00:53:25.475
+So let's, uh, move on to the… to the next project, so next project…
+
+00:53:26.996 --> 00:53:29.996
+Is Sun… sunkanyabird. I don't know if I'm pronouncing that right.
+
+00:53:34.393 --> 00:53:37.393
+Some cone bird, um, and…
+
+00:53:45.724 --> 00:53:47.724
+Okay, one second… Uh, sorry, let me just.
+
+00:53:57.601 --> 00:53:58.601
+Open up the windows, okay. And then… notes…
+
+00:54:04.835 --> 00:54:06.835
+Okay, um, yeah, so with this one. First thing, uh, first thing I want to say, um, in terms of the… in terms of the geometry and the topology, really, really good.
+
+00:54:11.197 --> 00:54:14.197
+Um, so… This, uh, fairly, um, you know, every… everything is fairly even.
+
+00:54:14.235 --> 00:54:19.235
+And… there's enough edge loops to sort of support deformation, so from that standpoint.
+
+00:54:22.843 --> 00:54:25.843
+Everything's really good. I think the design's really cute, and you have these… And you have these bits over here as well, which I thought was really cool.
+
+00:54:25.644 --> 00:54:31.644
+Um, just a quick question. So, with this, unless I'm missing something, is there a separate rig for these parts?
+
+00:54:38.897 --> 00:54:41.897
+Nice metro.
+
+00:54:41.413 --> 00:54:44.413
+Hi, Clev. So, my name is Sabrina. Oh, maybe that's my fault, because I just doubt that…
+
+00:54:50.266 --> 00:54:53.266
+The task has to be, um… Separate with the body, but… I have other try to do that, so…
+
+00:54:55.238 --> 00:54:59.238
+Now I just work for that. I will, uh… make it just one drive, one rick.
+
+00:55:08.797 --> 00:55:10.797
+Okay, alright, fair enough, fair enough. Okay, sorry, yeah, because I wasn't sure if I was missing something, but yeah, I did notice that there were, like, there were basically two rigs here. But yeah, if you're joining them up, um…
+
+00:55:13.185 --> 00:55:22.185
+You might have some issues joining them up once you've already created animations, but that's… that's not always the case. Um, you need to be careful with, like, what you're parenting to what.
+
+00:55:27.941 --> 00:55:32.941
+Um, but yeah, that was just, like I said, sort of a small technical thing that I wanted to, um… Uh, wanted to sort of figure out. So, yeah, like I said, overall, really like the design.
+
+00:55:32.668 --> 00:55:38.668
+Now, um, with this as well, it's really cool that that's, um, that's all separate.
+
+00:55:42.095 --> 00:55:46.095
+By the way, in terms of separate, um… in terms of separate… Oh, no, you do have separate bones. Okay, so that's fine.
+
+00:55:54.541 --> 00:55:56.541
+So in terms of, um… In terms of notes… wait, there was something that I had notes on about the… I think it was about the materials.
+
+00:56:04.575 --> 00:56:06.575
+Sorry. So it's Shader Editor…
+
+00:56:10.407 --> 00:56:12.407
+Wait, that's the bird. Sorry, I typed in join materials for some reason, I know I can't figure out why I typed that in.
+
+00:56:22.640 --> 00:56:25.640
+Okay, um, I think… alright, never mind. So, let me just go through the… Let me just go to the animations…
+
+00:56:34.164 --> 00:56:36.164
+And so you've got a… You've got a run cycle? Yeah, this is actually what, um, this is actually one of the things I wanted to find out. So you've got a run cycle, right? But then you've got some extra, um, stuff over here. I'm assuming that's…
+
+00:56:40.151 --> 00:56:44.151
+That's a sort of leftover, so I'm guessing that… It's supposed to grow something like this.
+
+00:56:46.857 --> 00:56:59.857
+And I'm not looking at that because I understand that there's a separate rig for that at the moment, right? So, yeah, that's, um, uh… so that's really cool. One thing that maybe I would add with this is, um, some more movement. You've got this tail.
+
+00:56:59.544 --> 00:57:08.544
+Right? And the fact that it's kind of moving from side to side, that's really cool. Me, personally, I would probably have it, like, move even more, so, like, just, like, more wildly, kind of, like, swing from side to side.
+
+00:57:13.590 --> 00:57:19.590
+Because you've got, like, these bits up over here, so it's a very sort of whimsical character. It's, um, you know, it looks like it's… it should be really, really… kind of expressively animated, so I would just add some more…
+
+00:57:19.593 --> 00:57:26.593
+Um, I would add a little bit more movement to this. But, um, the overall direction and all of that, I think, is really cool. It's really good.
+
+00:57:34.621 --> 00:57:36.621
+Um… Okay, so… wait, with this one, hold on…
+
+00:57:36.842 --> 00:57:39.842
+So this is just more of a kind of, like, slow animation.
+
+00:57:44.857 --> 00:57:48.857
+With this as well, so, um, you've got a little bit of extra head movement in… from the… from… from this… From frame 10 to frame 14.
+
+00:57:49.285 --> 00:57:52.285
+Um, that's just something I would remove, but aside from that.
+
+00:57:57.642 --> 00:58:06.642
+What I would do here is, again, just maybe some more expressiveness. So I would add, like, more bobbing up and down, you know, kind of more, uh… just, like, more, I'd say… a bigger range of motion, um, than you have right now. The motion itself is really good, but I would add more of a range.
+
+00:58:21.030 --> 00:58:23.030
+Um, jump… Jump, as well, sort of same thing, great direction, I think the animation's really good. Um, one thing that you have really… that is really common, actually, um, when you're starting out animating, you've got the feet sliding back before the jump.
+
+00:58:23.476 --> 00:58:26.476
+So that shouldn't… that technically shouldn't happen, but that's a very minor thing.
+
+00:58:30.146 --> 00:58:33.146
+And with this, what I would also do is… so you have this… kind of anticipation over here, right, before the jump.
+
+00:58:37.124 --> 00:58:39.124
+Again, just like with the… If I can find whichever… whatever the correct sort of rig here is.
+
+00:58:45.656 --> 00:58:47.656
+Um, I would even have this, kind of. Go down a lot lower, right, than it is right now, and um…
+
+00:58:49.504 --> 00:58:51.504
+You know, just to add a little bit more… kind of a little bit more movement.
+
+00:58:50.893 --> 00:58:58.893
+Alright, so just to kind of emphasize. So that's basically my big, uh… that's basically my main, sort of, bit of feedback for all this. Uh, really love it.
+
+00:59:04.737 --> 00:59:07.737
+I would emphasize the movement more. That's it. Also, love the, uh, love the hand-painted, um, texturing. Really cool.
+
+00:59:17.614 --> 00:59:19.614
+No, they're good, thanks for sharing.
+
+00:59:17.684 --> 00:59:19.684
+Okay, thank you, Glad. Is there any question? No? Okay. Thank you, Glev and Jess.
+
+00:59:23.244 --> 00:59:27.244
+6 already put the project in… Zoom chat.
+
+00:59:27.282 --> 00:59:29.282
+Thanks. Okay.
+
+00:59:34.917 --> 00:59:37.917
+Wonderful, thank you, that was… that was great. Really could see this amazing work, and I appreciate, um, Gleb's reflections there on… on how they're progressing.
+
+00:59:38.111 --> 00:59:42.111
+That's wonderful, and we'll be meeting with the mentors a little bit later this afternoon.
+
+00:59:44.407 --> 00:59:48.407
+Sorry, are we ending now? Or are we going through the rest?
+
+00:59:46.485 --> 00:59:48.485
+Yeah.
+
+00:59:52.507 --> 00:59:55.507
+Sorry, you've still got… sorry, Glib, I am… I'm, um… cutting off half an hour early. Go ahead.
+
+00:59:54.699 --> 00:59:59.699
+Oh, no, no, no, sorry, I thought that I missed something.
+
+01:00:00.250 --> 01:00:02.250
+Alright, so, um, we'll move on to the next project, then?
+
+01:00:05.155 --> 01:00:13.155
+Okay, Group 6, alright. Um, uh, yeah, if we've got… so if we've got half an hour, um, so, like, I can… I can go on a little bit longer.
+
+01:00:05.986 --> 01:00:08.986
+Yeah, we can move to Group 6, heck?
+
+01:00:15.815 --> 01:00:22.815
+But, um, just up to you in terms of timing, what works for you, because if we've got just half an hour, we might need to… be a little bit quicker with the… with the… with the next ones.
+
+01:00:26.531 --> 01:00:28.531
+I'll just… yeah, we… still have a lot of time.
+
+01:00:33.981 --> 01:00:36.981
+Okay, cool. Alright, great. Uh, let me… hold on. So the next is the Hedgehog. So this, um, I haven't seen… I haven't opened this yet, because this is the one that was just sent to me.
+
+01:00:43.442 --> 01:00:46.442
+So… okay, alright, here's wrong. Cool. Alright, so looking at… so looking at this, um, first of all, love the design, really, really cute.
+
+01:00:46.354 --> 01:00:51.354
+Uh, love the quills as well. Um, I believe the other hedgehog was done with very similar quills as well.
+
+01:00:51.532 --> 01:00:56.532
+Alright, so I'm sure the groups are sort of trading secrets, quill secrets.
+
+01:01:01.525 --> 01:01:08.525
+Stands out to me. This is a very minor thing, but everything is marked, um… you've got hard edges everywhere.
+
+01:01:01.711 --> 01:01:03.711
+Uh, that's good to see. Now. Something immediately that sort of, um…
+
+01:01:13.497 --> 01:01:16.497
+Right? So, just shading everything smooth.
+
+01:01:14.775 --> 01:01:22.775
+Um, I mean, I'm guessing that this is probably, um, more with more in line with what you wanted.
+
+01:01:23.253 --> 01:01:26.253
+Um, so that, yeah, that's the first thing, just shading smooth.
+
+01:01:29.389 --> 01:01:33.389
+Right, um, next thing is… let me just have a look at the… geometry here.
+
+01:01:37.626 --> 01:01:43.626
+Okay, again, subdivided, um, neatly subdivided, so… I don't think there are any engines here, let me just check.
+
+01:01:51.231 --> 01:01:53.231
+Greater than… Nope. Now I'm gone, so that, yeah, um, uh, very nicely sort of modeled.
+
+01:01:53.502 --> 01:01:58.502
+And subdivided. So, yeah, no notes on the topology over here.
+
+01:01:59.671 --> 01:02:06.671
+I would maybe add a couple more loops to the feet if they deform a lot, but I'm honestly guessing that they probably don't, so that might not be necessary.
+
+01:02:12.603 --> 01:02:14.603
+Uh, let me just move this back down… And then let's just have a look. Oh, right, so that's… wait, is that a shape key? Yep, that is a shape key.
+
+01:02:18.848 --> 01:02:22.848
+Oh, uh, that's driven by something. Wait, how do you un… There's a way to unpreview this. What is that way?
+
+01:02:31.582 --> 01:02:33.582
+Alright, I'll just view it this way, never mind. Um… Okay, alright, so that's what you've done. You've basically got a shape key where these are kind of, um, pushing out.
+
+01:02:38.778 --> 01:02:40.778
+Okay, that's cool. Okay, something… something to do with shape keys, this is a technical thing, this is more of a technical thing.
+
+01:02:46.794 --> 01:02:48.794
+And, um… when you… when you have, um… when you have an animated character.
+
+01:02:50.026 --> 01:02:55.026
+Um, be very careful about creating shape keys before everything is joined together.
+
+01:02:58.237 --> 01:03:09.237
+Because sometimes, if you create shape keys, but then join objects together, that can lead to… that can lead to problems. So, it may not lead to a problem here, like, for example, if I merge all this together… And then we just have a look at the shape key.
+
+01:03:08.963 --> 01:03:13.963
+Yep, so that's fine here, but sometimes things like that can break.
+
+01:03:14.192 --> 01:03:18.192
+Right? So that's just my suggestion, where, um, if you're creating shape keys.
+
+01:03:19.142 --> 01:03:26.142
+Especially if you need to do a lot of work on them, make sure you've got your entire model, um, there, like, that is going to be merged into one object.
+
+01:03:31.634 --> 01:03:36.634
+This… yep, that's fine. So, yeah, I can see these were, sort of.
+
+01:03:31.673 --> 01:03:33.673
+Um, before, before you do the shape keys. So, uh, let's just have a look at…
+
+01:03:44.104 --> 01:03:46.104
+Triangulated, but that's completely fine. And then, let's just have a look at the animations…
+
+01:03:48.830 --> 01:03:50.830
+So, consume.
+
+01:03:49.981 --> 01:03:55.981
+Okay… nice, you've got that kind of moving out to the side, got the butt wiggle, really cool.
+
+01:03:59.128 --> 01:04:05.128
+Nice. Uh, let's have a look at the other animations. Curl, what is… oh, right, okay, so it's like a… It's like an actual hedgehog thing.
+
+01:04:08.154 --> 01:04:14.154
+Nice, cute. One, uh… so this, he, um, it sticks its head, like, into the ground, basically.
+
+01:04:13.805 --> 01:04:19.805
+With this, maybe just have it, like, sort of lift up and then kind of curl more into a ball, um, into itself, but aside from that, that's really cool.
+
+01:04:24.376 --> 01:04:26.376
+Um, idle animation…
+
+01:04:27.972 --> 01:04:30.972
+Okay, nice, we've got the target, looking around. Yeah, with a little sniffle, that's cool.
+
+01:04:37.542 --> 01:04:40.542
+Um… sorry, let me just… timeline… what is that? That's frame 30.
+
+01:04:40.707 --> 01:04:44.707
+Wait, that's frame 28, so we need to end at 27.
+
+01:04:50.457 --> 01:04:56.457
+Um, yeah, this is just a minor thing, but if you've got a looping animation, you actually want it to… like, if you're previewing it, you want it to end… one frame before the last frame.
+
+01:04:56.778 --> 01:05:00.778
+Otherwise, you get a pause at the end. So, if we go frame 28.
+
+01:05:03.135 --> 01:05:07.135
+The… like, it's gonna be barely visible, but there's technically gonna be a little bit of a pause there.
+
+01:05:10.331 --> 01:05:13.331
+Alright, um, so… Nice.
+
+01:05:20.700 --> 01:05:22.700
+Yep, really cute. Sneak…
+
+01:05:29.510 --> 01:05:35.510
+With the sneaking, um, with the sneaking, really cool. I would probably, um, have him lower down a little bit, because… If… right now, I don't think there's too much of a difference between walking and sneaking, but with sneaking, you know, like, you're assuming that he's trying to be a little bit more hidden.
+
+01:05:36.241 --> 01:05:38.241
+So that's just a small… that's just a very, uh, small thing.
+
+01:05:39.675 --> 01:05:43.675
+Uncurl. Okay, so that's just… I'm assuming this is just a reverse of the… curl animation.
+
+01:05:45.871 --> 01:05:47.871
+Yep. Okay… And then you've got another walk.
+
+01:05:48.676 --> 01:05:52.676
+Put the walk, um, just, uh, just make sure you've got, you've got them tilted.
+
+01:05:52.886 --> 01:05:57.886
+So that's just, like, that's a very minor thing, so you just need to… whatever you've got.
+
+01:05:57.730 --> 01:06:03.730
+Sorry. Whatever is controlling the main bodies, that… no, not that, not that.
+
+01:06:07.636 --> 01:06:11.636
+Um… I don't know if that was tilted, but yeah, you can sort of see… that, um, front paws are higher than the back.
+
+01:06:12.386 --> 01:06:17.386
+So it just needs to be, kind of, twisted a little bit. Other than that, um, love the design, really cute.
+
+01:06:16.858 --> 01:06:21.858
+Northern Oats. Um, do the team want to share anything, or, um, have any questions?
+
+01:06:26.448 --> 01:06:28.448
+Yep, Team 6. Do you have any question, or…?
+
+01:06:31.915 --> 01:06:33.915
+Something you want to ask? Press the button.
+
+01:06:37.635 --> 01:06:39.635
+Oh, okay, uh… I don't know, I think we're good.
+
+01:06:43.836 --> 01:06:46.836
+Thank you, Corey. Glenn.
+
+01:06:44.686 --> 01:06:45.686
+You good? All good. Well, thanks for sharing, really cute.
+
+01:06:54.711 --> 01:06:57.711
+Um, just look at the eyes. Yeah, really good. All right, um, cool. Alright, in that case, we'll move on to the… move on to the next project. So we've got Team.
+
+01:07:01.771 --> 01:07:03.771
+Sneak the hamster.
+
+01:07:05.538 --> 01:07:08.538
+Okay, with this one, it actually took me a second to find the hamster.
+
+01:07:16.970 --> 01:07:19.970
+Um, so, hold on. Okay, one thing here… And… wait, let me just…
+
+01:07:23.447 --> 01:07:26.447
+Uh, hold on… join left. So, one thing that…
+
+01:07:33.111 --> 01:07:36.111
+Sort of first thing that I'd want to mention. This, uh… it sometimes matters, it sometimes doesn't, like, um, well, again, it's depending on what this is for.
+
+01:07:41.372 --> 01:07:48.372
+But the scale of everything is really, really big, right? So that's just, um, that's just one thing that, uh… that I noticed, that… You know, if we bring in this cube, this is a…
+
+01:07:51.783 --> 01:07:56.783
+What Inblender is a… it's a 2 meter queue by default. Yeah, it's in Unreal that is 1 meter. Um… Yeah, so this is a 2 meter cube, so this is, like, an absolutely giant hamster.
+
+01:08:06.748 --> 01:08:13.748
+Right? Which, by itself, is not necessarily a problem, it's… but the only issue is that if you then want to, like, let's say take it to an, um… to a game engine, you probably want to… sort of maintain the correct sizing. Or, the alternative is you have to always convert it, um, you have to, like, scale it down or scale it up.
+
+01:08:13.835 --> 01:08:18.835
+Uh, when you're taking it into a game engine, right? So, again, it's a minor thing.
+
+01:08:29.327 --> 01:08:32.327
+But, um, just something to keep in mind. So, uh, with the… with the environment itself, it's really cool that you've got, like, an entire, sort of, environment actually built out here, and I noticed that you have…
+
+01:08:34.111 --> 01:08:37.111
+Sure. That's taking a while to, um… to figure out the shaders.
+
+01:08:39.779 --> 01:08:45.779
+Okay. Yeah, so I noticed you also have this, like, waiting cat, which is really cool.
+
+01:08:47.916 --> 01:08:54.916
+And… yeah, the environment, really cute that you've got this, um, uh, that you've got this entire sort of, like, environment built out for this.
+
+01:09:02.043 --> 01:09:06.043
+Thought that was cute. Now, the hamster itself, let me… Let me just have a look… sorry, let me move…
+
+01:09:05.381 --> 01:09:10.381
+Let me just hide everything else, and you've got the rig as well, I believe.
+
+01:09:17.430 --> 01:09:26.430
+Okay. The rig… the rig, a little bit more complicated than it needs to be, but I understand that this is a sort of, uh… this is sort of a default one. Um… Okay. So, overall, the design, um, the design of the hamster.
+
+01:09:30.462 --> 01:09:34.462
+Very hamstery, so no notes on, like, the actual… Overall design, really cute, um…
+
+01:09:43.356 --> 01:09:46.356
+You know, typical sort of, like, cute kind of design. So that's cool. In terms of the topology and what other notes that I had, let me just have a look. Hamster…
+
+01:09:49.417 --> 01:09:53.417
+Uh, sorry, there was something about the animations…
+
+01:09:52.749 --> 01:09:58.749
+Oh, yeah. Um, with the animation, so at the moment, I'm just seeing… I believe it's just this animation, this sort of, like, sniffing animation.
+
+01:10:03.310 --> 01:10:05.310
+Um, unless I'm missing something. There's nothing… there's nothing else that I, um, that I saw, at least.
+
+01:10:10.554 --> 01:10:12.554
+Hello, ma'am. And, uh, we used the blender fashion.
+
+01:10:11.323 --> 01:10:13.323
+Heck.
+
+01:10:17.157 --> 01:10:20.157
+4.5, so there is something hidden here.
+
+01:10:25.576 --> 01:10:27.576
+Oh, right, okay, um… Okay, in that case… in that case, let me just, um… I'll just comment on, sort of, like, the topology and geometry, and maybe you can just share your screen, and we'll have a look there.
+
+01:10:33.154 --> 01:10:37.154
+Alright, so, let me just see… what did I… Uh, what did I have as notes? Yeah, overall, that's… let me just hide the rig.
+
+01:10:41.703 --> 01:10:45.703
+Overall, the geometry, um, like, the topology is… is completely, um, is completely fine.
+
+01:10:55.274 --> 01:10:59.274
+Something that, um, again, this is… this is more of a stylistic choice, but… I don't… Um, I don't think that there's too much of a benefit from having, like, the separate clause.
+
+01:10:58.700 --> 01:11:07.700
+Right? You can have slightly simpler geometry if you kind of just merge all of that, and, um, you know, it's doubtful how much that will actually be visible.
+
+01:11:07.933 --> 01:11:14.933
+On the, uh, you know, in, like, let's say final animations or final models, just having that as sort of, like, more of a mitten kind of thing.
+
+01:11:19.011 --> 01:11:21.011
+I think that, uh, I think that could work. Other than that, um…
+
+01:11:19.620 --> 01:11:24.620
+With the eyes, you can make them a bit simpler, but that's a very minor thing.
+
+01:11:30.041 --> 01:11:34.041
+Right? The UVs as well, I'm not sure if… Uh, yeah, I did have a look at… I did have a look at the…
+
+01:11:39.118 --> 01:11:42.118
+Um, at the textures, and… With the textures, the UVs, um…
+
+01:11:45.641 --> 01:11:49.641
+This is a… this is… I'd say it's… It's generally a good layout, but…
+
+01:11:48.380 --> 01:11:53.380
+There are some sort of things that, um, you could maybe do a little bit.
+
+01:11:58.665 --> 01:12:03.665
+Uh, that you could maybe do a little bit differently. One thing is, if you have a… If you have this sort of, like, um… loop of seams.
+
+01:12:06.030 --> 01:12:08.030
+Around the… sort of around the eyes.
+
+01:12:19.745 --> 01:12:22.745
+Um, you probably would want, then. Just the inside to be black, but not the outside. When you do this, what will happen is you will get this, uh, you will get these kind of visible seams on these edges, and it will be more visible than in other areas. So, like, over here.
+
+01:12:23.695 --> 01:12:29.695
+Right? So, especially if this is painted on, I don't think that there's too much of a point to having this sort of thing as a separate edge loop.
+
+01:12:28.731 --> 01:12:34.731
+Right? I'll probably just have this… have this be all together. Um, with the ears as well.
+
+01:12:35.275 --> 01:12:42.275
+They're… because you don't really have any cuts over here, you've got a lot less, sort of, texture space to work with on the ears.
+
+01:12:41.749 --> 01:12:48.749
+Relative to, you know, like, other parts of the body. So you can sort of compare, like, this face over here.
+
+01:12:49.301 --> 01:12:54.301
+On the 3D model is roughly the same size as these two, but you see over here, that's, um, that's very small.
+
+01:12:53.953 --> 01:12:58.953
+So, you know, just, um, uh, I would potentially adjust that a little bit.
+
+01:13:05.713 --> 01:13:06.713
+But, other than that… Um, other than that… Uh… other than that, really cute.
+
+01:13:07.010 --> 01:13:10.010
+Very good. So, I don't know if the team wants to share their screen.
+
+01:13:14.121 --> 01:13:16.121
+We can have a look.
+
+01:13:16.085 --> 01:13:20.085
+Yeah. Yeah, I will also…
+
+01:13:20.021 --> 01:13:22.021
+Mm-hmm.
+
+01:13:59.087 --> 01:14:04.087
+Yeah, so sorry about me having an older version of Blender. I generally don't update unless I need to…
+
+01:14:04.573 --> 01:14:07.573
+Here is some animation idol, and… Uh, we have a lock animation.
+
+01:14:07.005 --> 01:14:13.005
+Cool. Sorry, do you mind just, um, hiding the rig itself? Because it's a little bit difficult to just see.
+
+01:14:19.643 --> 01:14:21.643
+Yep, cheers.
+
+01:14:35.894 --> 01:14:44.894
+So when you're working with the action editor, I generally have, like, the bottom, um, so at the bottom, you have that, um, uh, you have another view. I would potentially just change that to a timeline.
+
+01:14:53.285 --> 01:14:55.285
+Unless, unless you're moving in between animations there. Just so you can, like, figure… just so you can change the endpoints, but again, that's just more of a workflow thing.
+
+01:15:01.900 --> 01:15:04.900
+Okay, um, yeah, can you show the, uh, yep, Chelsea? Nice.
+
+01:15:09.015 --> 01:15:11.015
+No, it's a good range of movement, that's cool.
+
+01:15:18.800 --> 01:15:22.800
+Yep, uh, so with this one, it's a little bit… Um… it looks a little bit like stop motion, so maybe have a little bit more smoothness between those frames, especially in the head, like, the head looks like it's just kind of…
+
+01:15:27.921 --> 01:15:30.921
+Um, very suddenly going forward, and then suddenly going back. That's, uh… but again, that's…
+
+01:15:34.420 --> 01:15:36.420
+That's fairly…
+
+01:15:40.183 --> 01:15:42.183
+It's fairly minor. Overall, it's really good.
+
+01:15:51.569 --> 01:15:53.569
+And he has a… that he had mentioned.
+
+01:15:53.295 --> 01:15:57.295
+Okay. Is that a, um… is that morph targets, or is that bones?
+
+01:16:02.237 --> 01:16:04.237
+It… Uh, with the bullets, yeah.
+
+01:16:03.777 --> 01:16:05.777
+Sorry, sorry, shaped easel bones.
+
+01:16:09.302 --> 01:16:11.302
+Okay, that's what… that's what the bonus. Yeah, fair enough. Yeah, you can do it with other. Cool. Nice.
+
+01:16:20.782 --> 01:16:22.782
+So, something… this is just more of a, um… Uh, this is just more of a general note, it's not specific to this.
+
+01:16:22.905 --> 01:16:27.905
+But if you're doing, um… so when you're doing all sorts of locomotion animations.
+
+01:16:32.533 --> 01:16:34.533
+Right, below commotion, I mean all sorts of movement, so… you know, running, walking, jumping, sneaking, um, etc.
+
+01:16:35.352 --> 01:16:41.352
+Uh, if you're doing jumping, if you're doing jumping specifically, it sometimes makes sense if you… especially if you want to put this in a game.
+
+01:16:40.721 --> 01:16:45.721
+To have 3 different animations. So, one of them being the start of your jump.
+
+01:16:51.312 --> 01:16:55.312
+Right? The next one being a folding animation, and the next one being a… Um, a landing jump. Sorry, a landing animation. So…
+
+01:16:55.027 --> 01:17:05.027
+Again, this is not… so what you've done here, what you've done here is really good, but, um, the reason to sometimes have it be three separate animations is, let's say if you jump off a really high.
+
+01:17:04.969 --> 01:17:15.969
+Area, right? Like, let's say you jump off, you know, um, like, let's say it's the top, like, this hamster jumps off the top of the staircase, and it flies, like, you know, it falls for, like, let's say 2 seconds, and then it lands.
+
+01:17:18.680 --> 01:17:23.680
+Right? You might want to have, like, let's say the start of an animation, and then basically the… Um, while it is still in the air.
+
+01:17:24.231 --> 01:17:32.231
+Right? You have a sort of falling animation where it's kind of, you know, flapping its arms or whatever, and then you have a landing animation for when it actually hits the ground. So that is something that's kind of commonly done.
+
+01:17:37.341 --> 01:17:41.341
+But that's not really a note for this, it's just a general note, kind of for everyone. If you want to put your… Jumping animations into a game, then, uh, you sometimes do have to break them up into sort of smaller bits.
+
+01:17:47.810 --> 01:17:49.810
+Other than that, looks really good. Mm-hmm. Yes.
+
+01:17:51.469 --> 01:17:53.469
+Thank you.
+
+01:17:56.321 --> 01:18:00.321
+Okay, um, alright, in that case, I'll… Yeah, if you can stop sharing, I'll share my screen as well, we'll move on to…
+
+01:18:00.909 --> 01:18:02.909
+The… We've got the guinea pig.
+
+01:18:11.335 --> 01:18:13.335
+Let me just open that on my end. Guinea pig…
+
+01:18:22.375 --> 01:18:24.375
+Sorry, everything's just loading.
+
+01:18:39.590 --> 01:18:41.590
+Sorry, give me one second, just got a bit of a… Belinda's taking its time. Alright, yep.
+
+01:18:51.664 --> 01:18:53.664
+Sharing… And then… sorry, just one second…
+
+01:18:51.831 --> 01:18:57.831
+Okay, so with this one, again, I don't believe the textures came through.
+
+01:19:09.221 --> 01:19:11.221
+Right? Um, I think… Yeah, I don't think that… I don't think that any, um… I don't think the textures came through, came through on this model, but I'll just give my, um, I'll just give my overall…
+
+01:19:15.943 --> 01:19:20.943
+Overall thoughts? Oh, yeah, one thing I wanted to mention is with this… with this hedgehog, I did notice, because there were two blend files, there was an environment and the…
+
+01:19:22.729 --> 01:19:25.729
+Um, and the actual animation with the blend file. Uh, sorry, with the environment, really cool.
+
+01:19:33.527 --> 01:19:35.527
+Really cool environment, love the design. So I think it's because I've got OBS and I'm sharing my screen, and I've got several Blender projects open, it's just being a little bit slow.
+
+01:19:38.849 --> 01:19:41.849
+Uh… let me… Turn off face orientation.
+
+01:19:51.248 --> 01:19:53.248
+Yeah, so I thought… I thought this was really cool. Um, you know, having the… I'm assuming that finally the guinea pig is gonna be here, and he's gonna be doing some, um…
+
+01:19:56.677 --> 01:19:58.677
+Some kind of religious… thing, maybe? Or anti-religious thing?
+
+01:20:00.731 --> 01:20:04.731
+Oh, it's a devil guinea pig, so he's gonna burn down the church. Alright.
+
+01:20:02.917 --> 01:20:04.917
+It's, uh… Yeah, it's a difficult guinea pig, so…
+
+01:20:04.540 --> 01:20:12.540
+Nice, alright. Um, I'm just, you know, just… I'm guessing at a certain point, the cross is just gonna go like that, or something.
+
+01:20:08.136 --> 01:20:10.136
+Yeah…
+
+01:20:12.694 --> 01:20:20.694
+Right? Uh, just turn upside down once the guinea pig appears. But yeah, um, really cool, uh, really cool design of the environment.
+
+01:20:23.502 --> 01:20:26.502
+Alright, so with the… with the actual… With the actual guinea pig.
+
+01:20:30.284 --> 01:20:33.284
+So, overall, the… in terms of the geometry. Oops, sorry.
+
+01:20:34.419 --> 01:20:40.419
+So, in terms of the actual geometry, um, in terms of the actual geometry, pretty good. I would probably add a few more.
+
+01:20:39.784 --> 01:20:44.784
+Edge loops over here, so you generally want to keep things fairly even.
+
+01:20:44.623 --> 01:20:48.623
+Right? Um, something else that you could do, as well is, you know.
+
+01:20:50.857 --> 01:20:53.857
+Again, depending on how much this is actually… Oh, that's going down the bottom.
+
+01:20:58.484 --> 01:21:00.484
+Depending on how much this is. Deforming, you know, just kind of sliding…
+
+01:21:03.902 --> 01:21:05.902
+That edge a little bit back. Right, could make things… it could sort of help even… even things out a little bit, right?
+
+01:21:06.378 --> 01:21:11.378
+Uh, other than that, um, I remember… I remember last time that I saw.
+
+01:21:10.742 --> 01:21:15.742
+The submissions, um… you guys were doing the… you guys were doing the horns.
+
+01:21:15.854 --> 01:21:23.854
+So, this part over here could probably be adjusted somewhat. Now, again, I'd have to look at this sort of animations that you're doing.
+
+01:21:27.173 --> 01:21:29.173
+But maybe sort of having a… Maybe having a loop there.
+
+01:21:33.331 --> 01:21:41.331
+And then having another edge loop kind of go from this, sort of in this direction, if that sort of makes sense, uh, might just fix a few of these sort of, um… shading issues over here. So when you have these really thin triangles.
+
+01:21:40.780 --> 01:21:49.780
+Like this. They sometimes lead to the shading looking a little bit weird, right? But again, that's a fairly minor thing.
+
+01:21:55.461 --> 01:22:00.461
+Now, something else… something else? So you've got the… you've got basically these holes, um, in the, uh, like, in the eyes, and I do understand that.
+
+01:22:06.838 --> 01:22:09.838
+You've got the eyelids and the eyes covering them, but… me, personally, I would probably close these up, just in case, you know, there's some movement and, like, light starts shining through or something.
+
+01:22:13.131 --> 01:22:17.131
+Because it's a very minor thing, it doesn't need to be UV unwrapped properly or anything, but… Um, I would probably do that.
+
+01:22:16.619 --> 01:22:20.619
+Now, uh… let's see, wait, what else, what else was there?
+
+01:22:32.438 --> 01:22:34.438
+Yeah, okay, the next is to do more with the… The next is to do more with the weights. So, what I noticed is with the weights, there are… there are some issues. So if we have a look at the…
+
+01:22:35.062 --> 01:22:42.062
+If we have a look at the animations, right, the main issue with the weights right now is down here at the bottom, because.
+
+01:22:49.790 --> 01:22:51.790
+So, if we… look at the white painting, right? If you look at the actual stomach area.
+
+01:22:55.803 --> 01:22:58.803
+I'm just gonna cycle through all of these.
+
+01:23:00.784 --> 01:23:05.784
+So the stomach area doesn't appear anywhere, so what that means is, and, like, this is how I noticed.
+
+01:23:08.903 --> 01:23:10.903
+Is… If we lift this guy up…
+
+01:23:10.249 --> 01:23:13.249
+Right? You've got the stomach and, like, the chest sort of left there.
+
+01:23:13.035 --> 01:23:18.035
+Right? So, just make sure that everything is, um, everything is weight painted.
+
+01:23:18.075 --> 01:23:25.075
+Right? Because by default, if you don't assign weights to something, um, I'm guessing that this was probably also manually weight painted.
+
+01:23:25.230 --> 01:23:36.230
+Maybe? Um, but if it was, just make sure to… that everything at least has some influence, because if it has zero influence by any bone, then it will just kind of stay in its place.
+
+01:23:39.175 --> 01:23:44.175
+Like so, and you get this really kind of… I mean, it does fit the idea of a devil… Um, hamster even more, but still.
+
+01:23:50.284 --> 01:23:54.284
+Okay, so that's one thing. Now… whatever. Sir, wait, we have…
+
+01:23:53.636 --> 01:23:58.636
+Okay. Yes, this is the other thing that I wanted to mention. So, with the walking animation.
+
+01:23:59.870 --> 01:24:02.870
+Um, also with these, I'm not 100% sure which of these is the correct one.
+
+01:24:04.397 --> 01:24:08.397
+Um, walking for… walking 3, let me just check that one.
+
+01:24:15.362 --> 01:24:18.362
+Okay, I'm just gonna go… I'm just gonna go zero walking.
+
+01:24:18.896 --> 01:24:24.896
+Alright. So, with this, this is also, um, this is also something that people do fairly commonly.
+
+01:24:25.577 --> 01:24:30.577
+So, if you have a look at the head, and how it's kind of moving up and down throughout this animation.
+
+01:24:36.985 --> 01:24:38.985
+Right? You'll notice that, okay, we've got… step, and then…
+
+01:24:39.904 --> 01:24:42.904
+Step… so, you've got… Like, if we have a look at, for example, this leg.
+
+01:24:45.683 --> 01:24:48.683
+Right? It moves forward, and then it moves back. From frame 0 to frame 12.
+
+01:24:52.128 --> 01:24:56.128
+Right? But within the, um… But within that time, the head basically moves up and then moves down.
+
+01:24:58.787 --> 01:25:03.787
+Right? So, if you have this, um, if you have a look at walk cycles, and… Let me just go walk cycle.
+
+01:25:07.846 --> 01:25:10.846
+Don't mind turned on.
+
+01:25:09.823 --> 01:25:12.823
+Alright, so if you have a look at a walk cycle.
+
+01:25:12.994 --> 01:25:20.994
+Um, generally, you have, like, this kind of movement up and down, like, you know, of the torso and the head, right? The thing is that that happens in between every step.
+
+01:25:20.810 --> 01:25:26.810
+Right? So, what you've got at the moment is you've got it every, sort of.
+
+01:25:34.175 --> 01:25:36.175
+You know, it goes… the head goes up. On one step, and down on the next one. And this kind of makes it look as though it's not working properly, like, you know, maybe one of its legs is hurt.
+
+01:25:36.577 --> 01:25:42.577
+Right? So what you generally want to do instead is actually have it kind of move up in between every step, right?
+
+01:25:49.127 --> 01:25:51.127
+Um, wait, is it this one? Which… which one is actually…
+
+01:25:54.365 --> 01:25:56.365
+So, if I… go, for example… so you see how the head's moving up?
+
+01:26:02.633 --> 01:26:05.633
+Here, but then down here. Uh, let me just see…
+
+01:26:06.255 --> 01:26:09.255
+So we've got a rig as well. Um, I think, like.
+
+01:26:09.998 --> 01:26:12.998
+Wait, or is that what's moving? Oh, yeah, that is what's moving.
+
+01:26:17.802 --> 01:26:20.802
+So, what I would do is… I would just copy its position.
+
+01:26:24.861 --> 01:26:27.861
+From here, where is the…
+
+01:26:33.485 --> 01:26:35.485
+So that's the spine IK.
+
+01:26:37.277 --> 01:26:42.277
+So, what I would do is I would actually have it bob, go up in between these frames, like so.
+
+01:26:47.758 --> 01:26:49.758
+So, more like this.
+
+01:26:50.708 --> 01:26:56.708
+So you see where it kind of goes up and down in between every step, as opposed to every second step, if that sort of makes sense.
+
+01:26:56.825 --> 01:27:01.825
+Now, um, okay, I understand it's kind of lopsided now, but if you look at it from the side.
+
+01:27:11.554 --> 01:27:13.554
+Hopefully you can see, sort of, what I mean. So this would actually be more, um, kind of more regular. But yeah, the main thing here is just fixing the…
+
+01:27:12.756 --> 01:27:17.756
+Fixing the weights on the bottom, because right now, if we have a look at the weights over here.
+
+01:27:23.396 --> 01:27:25.396
+So there were some issues over there as well. Sorry, let me just…
+
+01:27:23.534 --> 01:27:31.534
+Find it. Yeah, so, like, for example, over there, the forearm, you see how that's, like, affecting this very weirdly? You generally want a very smooth transition.
+
+01:27:36.971 --> 01:27:38.971
+Yeah, okay. Other than that, really cool. Um, did the team want to share anything?
+
+01:27:44.001 --> 01:27:46.001
+Okay, so, uh, actually. Uh, I've been working on the animation.
+
+01:27:50.870 --> 01:27:52.870
+Nice. Yeah, uh, yeah, yeah, it's a little bit quiet, but yes, I can hear.
+
+01:27:54.266 --> 01:27:56.266
+Can you hear the voice? I think you need to speak louder. Oh, okay.
+
+01:27:59.280 --> 01:28:02.280
+So, uh, I've been working on my… Uh, can you imagine lately?
+
+01:28:05.706 --> 01:28:09.706
+Maybe I will show my English on…
+
+01:28:07.059 --> 01:28:09.059
+All right. Yeah, sure, let's see.
+
+01:28:19.420 --> 01:28:21.420
+Like, dude, I don't know.
+
+01:28:25.874 --> 01:28:29.874
+Okay, hold on, let me just… wait, let me just move this onto my other screen, because I'm recording.
+
+01:28:32.737 --> 01:28:45.737
+Cool. Yeah, that looks, um, that looks better. So, um, still though, what I would maybe do is, because right now you've basically got him… so what's happening is, you know, he steps on his right front right foot.
+
+01:28:47.402 --> 01:28:52.402
+And he looks to the left, and then he steps on his left front foot, and he looks to the… and he looks to the right.
+
+01:29:00.605 --> 01:29:03.605
+Right? So, um, it's… It's not… it's not bad. What I would maybe do is, I would maybe have more, like, kind of body movement from side to side, but have the…
+
+01:29:02.044 --> 01:29:11.044
+Head kind of looking more straight, right? It might just give it a little bit more directionality, because it now kind of looks like he's constantly moving from, like, kind of looking from side to side.
+
+01:29:11.094 --> 01:29:14.094
+Right? But again, that's a very minor thing. Overall, it looks really good.
+
+01:29:20.092 --> 01:29:22.092
+I need 3 muscle one. Sure. Like, I mean.
+
+01:29:25.795 --> 01:29:28.795
+Sorry, say again, please?
+
+01:29:26.902 --> 01:29:34.902
+Yeah, their team will show the second environment. The first one is charts, I think the… Yeah.
+
+01:29:34.454 --> 01:29:37.454
+Oh, there's a second environment, okay, yeah, sure, sure, totally.
+
+01:29:45.115 --> 01:29:49.115
+Oh, nice. Is the… is the church going to transform into this, or…?
+
+01:29:46.175 --> 01:29:48.175
+So it's probably gonna look like…
+
+01:29:53.006 --> 01:29:55.006
+How does that work?
+
+01:29:56.529 --> 01:29:58.529
+It's… We're gonna have, uh, two different… environment, but an opposite environment.
+
+01:30:09.058 --> 01:30:12.058
+Okay, right. Nice. Isn't that really cool? You should, um… add some, um… maybe add, like, some flame, sort of like flipbooks and stuff like that on the background.
+
+01:30:11.598 --> 01:30:14.598
+And I'd just like to… just to sell the scene even more.
+
+01:30:17.420 --> 01:30:19.420
+That'll look really cool. Yeah, really cool, really cool environment.
+
+01:30:26.339 --> 01:30:28.339
+Is there anything you want to ask ourselves?
+
+01:30:30.076 --> 01:30:32.076
+All good? All good, all good. Okay, thank you.
+
+01:30:35.398 --> 01:30:37.398
+Awesome. Thanks for sharing. That's really cool.
+
+01:30:37.425 --> 01:30:39.425
+Thank you, Team 8. No, I think we can move in 9.
+
+01:30:43.016 --> 01:30:46.016
+Okay. Alright. Sure, let's do it. Alright, so…
+
+01:30:45.323 --> 01:30:47.323
+It will stop salespeople? Thank you.
+
+01:30:51.663 --> 01:30:54.663
+Okay, so I'm just gonna share, and… We've got…
+
+01:30:58.901 --> 01:31:00.901
+Alright, team 9… Team 9, it's…
+
+01:31:04.013 --> 01:31:07.013
+A hedgehog as well… sorry, hold on, let me just… Because there's a… There's a whole set of folders.
+
+01:31:09.987 --> 01:31:15.987
+Okay, yeah, so I believe this is what I got. I don't think I got the… I don't think I got the textures with it.
+
+01:31:20.710 --> 01:31:23.710
+Unless I'm… unless I'm mistaken.
+
+01:31:24.327 --> 01:31:28.327
+Yeah, that is a texture for…
+
+01:31:33.199 --> 01:31:35.199
+One sec… Yeah, because there's base body material, but yeah, I don't think… I don't think… I don't think that was…
+
+01:31:36.149 --> 01:31:38.149
+Packaged in… Sorry, unless I'm missing something.
+
+01:31:42.053 --> 01:31:46.053
+Yeah, I think they can share… share screen later.
+
+01:31:43.944 --> 01:31:49.944
+Okay, alright, yeah, sure. In that case, um, yeah, we'll focus on the taxes, just look at… I'll just look at the topology and the, um… I believe there were some animations here as well.
+
+01:31:56.857 --> 01:31:59.857
+So… sorry, let me just put up my notes… Okay, so first of all, in terms of the design, really cute design, love the eyes.
+
+01:32:10.456 --> 01:32:14.456
+Um, yeah, so I noticed both teams with the Hedgehogs. Did the same thing with the, um, did the same things with the quills, so that's really cool. Um, oh, and you guys also have a… yeah, you also have a morph target. Alright, I didn't notice that when I was looking at this.
+
+01:32:18.343 --> 01:32:20.343
+Alright, so we also have a morph target, that's cool. Um, with the morph target, sorry, with the shape key.
+
+01:32:20.431 --> 01:32:24.431
+I would probably move it a little bit more. Like, right now, it's very, very slight.
+
+01:32:27.669 --> 01:32:29.669
+So, I would maybe. Um, I would maybe exaggerate that movement by quite a bit.
+
+01:32:34.512 --> 01:32:48.512
+But, um… but yeah, that's, uh, that is a really good approach. So, another thing that I noticed on this… on this character as well, and again, this is an extremely easy… easy fix, but just in case, um, you don't notice, you've got… a lot of, um… you've got a lot of these random, sort of, hard edges.
+
+01:32:56.686 --> 01:33:00.686
+Right? So, like, for example, over here and over here, which… Um, I'm guessing probably shouldn't be… shouldn't be hard. You've got this as well, which, um, I understand, like, maybe some of these…
+
+01:33:05.622 --> 01:33:09.622
+Some of these were deliberate, but, like, with some of these, like, for example, those I doubt it, so… With that, you know, just shading everything smooth and…
+
+01:33:12.141 --> 01:33:15.141
+Um, oh, wait, one sec, have you got it as a…
+
+01:33:19.533 --> 01:33:21.533
+Nope, just shade smooth. Yep, shade smooth, and…
+
+01:33:24.829 --> 01:33:27.829
+Just removing the sharps. Now, I understand there might be some shop, um, faces that you want to keep.
+
+01:33:27.776 --> 01:33:34.776
+Right? But, um, some of the… some of these, like, for example, these ones, they look a little bit random. So that's just one thing.
+
+01:33:35.157 --> 01:33:38.157
+Other than that, let's see, what did I… what did I put in?
+
+01:33:44.815 --> 01:33:46.815
+Um… Sorry, that's my notes. Yeah, another thing, you've got these really close edge loops.
+
+01:33:47.469 --> 01:33:54.469
+Right over here. This is also something I would, uh, I would prefer to sort of change, so try to move… try to keep everything roughly the same.
+
+01:33:55.191 --> 01:34:01.191
+In terms of the, you know, the size of the faces and the topology and all that, you could probably do just, like, some edge creasing.
+
+01:34:01.354 --> 01:34:06.354
+Sorry, just some edge sliding, where you just double-tap G, uh, white is… sorry, symmetry's turned on.
+
+01:34:11.676 --> 01:34:14.676
+Where you just double-tap G and kind of just move them… around a little bit, that might sort of fix it, but then…
+
+01:34:13.628 --> 01:34:19.628
+Over here at the end, you've got a few… you've got quite a few of these edge loops, which you probably don't need.
+
+01:34:20.335 --> 01:34:27.335
+Right, so I will just remove the extra edge loops that you have around this area, because it might just lead to, um, just extra complexity when animating.
+
+01:34:34.053 --> 01:34:38.053
+But, again, that's… that's also… that's also reasonably minor. Um, aside from that, what are… what other…
+
+01:34:36.850 --> 01:34:40.850
+What other notes did I have? Wait, let's just have a look at the animations.
+
+01:34:47.190 --> 01:34:50.190
+Um… where is the… Rig… Change this to a dope sheet Action Editor.
+
+01:34:56.380 --> 01:34:58.380
+Okay, sorry, let me just…
+
+01:35:05.829 --> 01:35:06.829
+Got a timeline… Okay, so… wait, let me just…
+
+01:35:08.655 --> 01:35:11.655
+Yep, so this was an idle animation, I believe. Uh, like the animation, really cute.
+
+01:35:15.000 --> 01:35:17.000
+So, you know, small, cute movements, that's really good. Let's just have a look at the others.
+
+01:35:23.109 --> 01:35:25.109
+Okay, that's nothing… And then pupils actions, I'm assuming that's nothing. So I'm… at least for now, I'm guessing that this is the…
+
+01:35:26.663 --> 01:35:36.663
+That this is the only animation. But, um, with this animation, yeah, really cute. Now, something I've noticed in the animation is if you have a look at this, um… this bit over here, you see how much that's sort of moving around?
+
+01:35:37.393 --> 01:35:45.393
+Again, that's more of a weight issue, so it's… this is what I kind of mentioned about the… the sort of porcupine quills and this sort of stuff. You sometimes need to be a bit more careful with the weights.
+
+01:35:44.746 --> 01:35:48.746
+Because I'm sure that if we look at the weights right now.
+
+01:35:54.053 --> 01:35:58.053
+The weights for this object are going to be very different from some of these other ones, so… Let's just see… yeah, so for example, that is completely controlled by the pelvis.
+
+01:36:00.059 --> 01:36:02.059
+Right? And… but then… You have this one over here.
+
+01:36:05.161 --> 01:36:08.161
+Which is fully controlled by… by what? What is that controlled by?
+
+01:36:13.904 --> 01:36:19.904
+Okay, that's fully controlled by the spine bone. And so, you notice how that's, uh, like, it just leads to some, uh, to slightly… Um, strange animation stuff, where…
+
+01:36:19.161 --> 01:36:25.161
+You've got these two, sort of, quills, and they're located… or, like, groups of quills, and they're basically in the same spot.
+
+01:36:30.635 --> 01:36:35.635
+But one of them is controlled completely by one bone, and the other one's controlled completely by… by another. And so then, when you look at the animations, that's why they kind of move around relative to each other so much.
+
+01:36:36.143 --> 01:36:42.143
+Right, so that's just something you might want to have a look at. You might want to do a sort of blend of influence in terms of bones.
+
+01:36:47.659 --> 01:36:49.659
+So, for example, with this one… So, with that one, that one is controlled.
+
+01:36:56.793 --> 01:36:59.793
+Fully by bone pelvis. Maybe what we can do is we can… Uh… Hold on, where are the… where are the controls for the, um, for the assignments?
+
+01:37:03.578 --> 01:37:08.578
+Uh, let's just go to Edit Mode. So maybe this can be assigned a weight of… I don't know. Maybe, like, 0.6 or something?
+
+01:37:09.034 --> 01:37:12.034
+Let's just go 0.6, let's just see if this works. Assign.
+
+01:37:18.000 --> 01:37:23.000
+Right? And then, if you select… what is it, bone spine… Maybe assign a value of 0.4?
+
+01:37:31.633 --> 01:37:34.633
+Assign. And now they'll… be sort of less… like, less of that range of movement than you had before. Like, it's a little bit less, so maybe you'd want to do more of a…
+
+01:37:43.124 --> 01:37:45.124
+More of a difference, like, for example, Gore… I don't know, point for, uh… you know, 0.5 here, and then also 0.5 on the pelvis, right? Just play around with it.
+
+01:37:45.093 --> 01:37:49.093
+But, um, yeah, that's just something that I would do to maybe, like, fix.
+
+01:37:52.860 --> 01:37:55.860
+Those things kind of moving completely out of sync. But yeah, other than that, did the team want to share something, or…?
+
+01:37:59.680 --> 01:38:01.680
+Um, good morning, sir? Hi.
+
+01:38:05.731 --> 01:38:07.731
+Nice to meet you.
+
+01:38:06.532 --> 01:38:10.532
+Thank you for inviting me. And the tips is very helpful. I don't actually have a question, because it's already answered by your review, and…
+
+01:38:09.811 --> 01:38:13.811
+Maybe I'll just gonna share my screen to show you the texture.
+
+01:38:18.178 --> 01:38:20.178
+Sure, that's good. What was your question that was already answered?
+
+01:38:24.355 --> 01:38:28.355
+Like, the movement.
+
+01:38:30.066 --> 01:38:33.066
+Oh, yeah, yeah, yeah. Yeah, so it's just that, so if you have a look at the… Um, yeah, with these, it's a little bit tricky. It's just, um… wait, let's just…
+
+01:38:42.031 --> 01:38:44.031
+Let's just select everything. So… When you have situations like this, where this is going to be completely influenced by one bone, but then…
+
+01:38:43.092 --> 01:38:46.092
+Um, these are going to be completely influenced by another bone.
+
+01:38:52.388 --> 01:39:03.388
+You just want to make sure they're at least far enough away from each other that it looks natural. So that's why over here it looks very, um… why over here it's very noticeable, because these are basically both kind of growing from the… basically the same place, right? So if they were sort of further apart from each other, then I think that wouldn't be as noticeable.
+
+01:39:11.408 --> 01:39:14.408
+That's a real… I realized I'm not sharing my screen anymore, but, um, yeah.
+
+01:39:23.129 --> 01:39:25.129
+Wait…
+
+01:39:33.360 --> 01:39:35.360
+But she's preparing herself.
+
+01:39:34.956 --> 01:39:36.956
+All good.
+
+01:39:44.626 --> 01:39:47.626
+Thank you, I appreciate that. So, if, uh, the character in the environment also, we meet the environment directly and utility, so…
+
+01:39:46.610 --> 01:39:53.610
+Nice, I really like the style of the environment, the, uh, like, you've got that sort of, like, dreamy kind of, like, bloom look, which is, uh, which is really cool.
+
+01:39:50.322 --> 01:39:52.322
+It's like…
+
+01:39:59.428 --> 01:40:03.428
+Yeah, because their heads… their team… team is Magical Forest, so that's why there is…
+
+01:40:02.730 --> 01:40:09.730
+Yeah, and you immediately get that sort of, like, magical kind of forest vibe, so that's really cool.
+
+01:40:06.766 --> 01:40:08.766
+A lot of… something like that.
+
+01:40:10.610 --> 01:40:15.610
+I like the, um… you've also… I can see you've got, like, a Fresnel effect on the, um, on the hedgehog at the top, so that, like, sort of outline.
+
+01:40:15.562 --> 01:40:19.562
+That shima, that's really cool, I think that really adds to the, uh, kind of magical effect.
+
+01:40:24.631 --> 01:40:26.631
+It's really cool. Yeah, I like the, um, uh, yeah, from what I can see from here.
+
+01:40:27.060 --> 01:40:31.060
+I think, yeah, really good, um, really good idea with the textures. It's simple.
+
+01:40:30.672 --> 01:40:37.672
+Um, and that's exactly what you want here. You don't want, um, overly complicated or detailed textures. I think this is really good.
+
+01:40:37.494 --> 01:40:44.494
+Yeah, uh, like, consistency is, um, is really important, and I think, like, this character looks like it really fits in that environment.
+
+01:40:48.553 --> 01:40:50.553
+Which… which that's perfect.
+
+01:40:51.232 --> 01:40:57.232
+I don't know English, actually.
+
+01:40:57.528 --> 01:40:59.528
+Sure.
+
+01:41:03.229 --> 01:41:05.229
+And there's, like, sneaky brown. And then…
+
+01:41:06.793 --> 01:41:08.793
+Nice. So, something, um, also something I'll mention in terms of the idle animation, again, this is a very minor point.
+
+01:41:09.456 --> 01:41:16.456
+But, if I'm, for example, looking at the sidele animation, what I think… what I see is this hedgehog is nodding, like, it's agreeing with something.
+
+01:41:22.868 --> 01:41:28.868
+Right, kind of like saying yes. So that's not a problem in itself, it's just, um… it's just that… it might sort of… something like that may communicate to the player that this is an animation for actually agreeing or, like, saying yes to something.
+
+01:41:34.208 --> 01:41:36.208
+Very, very small thing.
+
+01:41:39.619 --> 01:41:41.619
+Mm-hmm.
+
+01:41:45.193 --> 01:41:50.193
+So with this, um, okay, with the walk animation, I'd say with the walk animation, it doesn't look like.
+
+01:41:52.305 --> 01:41:56.305
+It's walking, it looks like it's just kind of standing in place, but kind of… you know, um, doing movements with his feet.
+
+01:41:56.903 --> 01:42:05.903
+So, with the walk animation, um, you probably want… you want some more actual sliding, right? So you want the foot to kind of go down and slide back, and then go up.
+
+01:42:05.928 --> 01:42:09.928
+Go down and slide back, go up, go forward, go down, slide back, and so forth.
+
+01:42:17.328 --> 01:42:20.328
+Now, for this character, because the feet are so small. I don't think it's gonna make a colossal difference, so, you know, for this, I think this actually could… this may very well be fine.
+
+01:42:20.317 --> 01:42:23.317
+Especially if you're mainly looking at this character, like, from the top.
+
+01:42:23.071 --> 01:42:30.071
+Um, but just something to keep in mind, where you probably want that sliding back. Otherwise, right now, it looks like it's just standing in place.
+
+01:42:34.281 --> 01:42:36.281
+But the animation itself is very cute.
+
+01:42:38.246 --> 01:42:43.246
+I haven't, uh, put it. I'm here, so, yeah.
+
+01:42:45.471 --> 01:42:53.471
+Yeah, with the spines, I think, yeah, going with a morph target, sorry, with a shape key, yeah, it's good. I would just add a bit more movement, because right now it's very, very… Um, it's very barely noticeable.
+
+01:42:54.791 --> 01:42:59.791
+Well, actually, there's a reason to it, because our character is, like, an explorer.
+
+01:43:04.118 --> 01:43:06.118
+True.
+
+01:43:11.826 --> 01:43:13.826
+Okay, that's hot. It's mentally fairly scaffold animals, so in our chiropractic, it's more like a brave character. Therefore, that is why.
+
+01:43:16.312 --> 01:43:19.312
+He doesn't be like, um… move, uh, a lot.
+
+01:43:18.072 --> 01:43:20.072
+Okay.
+
+01:43:19.711 --> 01:43:25.711
+Okay, no, no, sure, that makes sense. Like, if it's just, like, you know, it's more, like, showing that it's, like, slightly worried or something.
+
+01:43:29.348 --> 01:43:32.348
+Um, as opposed to aggressive, yeah, I think that's, uh… That could be fine. Just as long as it's, like, visible when it's happening.
+
+01:43:36.867 --> 01:43:38.867
+Thank you very much, Lance.
+
+01:43:40.363 --> 01:43:42.363
+Oh, thank you. Really cute. Alright, so in that case, I think we've got, um, I think we've got one more project.
+
+01:43:43.233 --> 01:43:48.233
+To go. It's the, uh, the Zeus Chicken? The chicken of Zeus.
+
+01:43:45.758 --> 01:43:47.758
+Yep. Good.
+
+01:43:52.780 --> 01:43:54.780
+Yep, the, uh…
+
+01:43:55.150 --> 01:43:59.150
+Actually send you, uh, the dispositions. Of the sea's chickens.
+
+01:44:03.360 --> 01:44:06.360
+Sorry, what, you want to send an update?
+
+01:44:05.799 --> 01:44:08.799
+Yeah, I actually sent you an update. On your personal organization, private music.
+
+01:44:08.111 --> 01:44:12.111
+Oh, uh, let me… give me a second, let me just check quickly.
+
+01:44:13.139 --> 01:44:18.139
+Sorry, um, personal, you mean, um, what, you mean to the email, or here in the chat?
+
+01:44:21.023 --> 01:44:25.023
+Um, the private Zoom chat.
+
+01:44:22.178 --> 01:44:26.178
+Oh, a private Zoom chat. Okay, sorry, actually, hold on, I don't use Zoom that often. I need to have a look.
+
+01:44:29.266 --> 01:44:32.266
+I think if you open the chat, there is, uh… new people.
+
+01:44:35.274 --> 01:44:37.274
+Kind of similar to what… with the… These are 10 to them.
+
+01:44:43.712 --> 01:44:45.712
+Oh, yep, yep, yep, yep. Okay. Sorry, yeah, yeah, I see that now. Give me one second…
+
+01:44:45.192 --> 01:44:47.192
+Elisa.
+
+01:44:52.037 --> 01:44:54.037
+Yep. Just one second, um, so this is the updated, um, version of the… sorry, let me just… let me just download them while…
+
+01:44:57.664 --> 01:44:59.664
+While I'm… Waiting? Okay, Zeus chicken…
+
+01:45:01.767 --> 01:45:04.767
+Sorry, I'll just chuck that into a folder.
+
+01:45:04.176 --> 01:45:06.176
+Well, more dying chickens, uh… The wings, it pulls something.
+
+01:45:09.919 --> 01:45:12.919
+Uh, they will awkwardly…
+
+01:45:10.085 --> 01:45:13.085
+Uh, with the, uh, they pulled, uh, like, uh, moving with the Bones, you mean?
+
+01:45:17.979 --> 01:45:22.979
+Um, wait, let me just see, we've changed the idle movement works on the walk and feed cycles… loop smoother, and figure out how to make the walk jump… working on the texture.
+
+01:45:30.337 --> 01:45:32.337
+Make it feel more stylized without looking tacky.
+
+01:45:35.682 --> 01:45:39.682
+Okay, um, let me just open it, and then I'll… and then I'll, um… I'll go through your questions.
+
+01:45:46.599 --> 01:45:48.599
+Okay, so there are… Let me see, so we've got two… two files. You've got character and environment.
+
+01:45:48.926 --> 01:45:52.926
+Um, character and environment final? Is that the one I should look at?
+
+01:46:01.704 --> 01:46:03.704
+Um, the one with… character animation is actually, and she can sister…
+
+01:46:03.678 --> 01:46:06.678
+Any meeting there? But the environment?
+
+01:46:10.987 --> 01:46:15.987
+Uh, no, the animation actually on the… she can's sister file.
+
+01:46:12.046 --> 01:46:14.046
+Wait, sorry, so not this one, the other one?
+
+01:46:20.238 --> 01:46:22.238
+So…
+
+01:46:20.672 --> 01:46:23.672
+Oh, right, yep. Yep, gotcha.
+
+01:46:41.506 --> 01:46:45.506
+Um, actually, while that's loading, um, wait, let me just have a look at the… At the actual environment. Okay, so there's a world texture, but it's not loaded, so wait, let me just remove that.
+
+01:46:50.386 --> 01:46:52.386
+Um… Yeah, that HDR file, I don't think that's… That's there.
+
+01:46:56.549 --> 01:46:59.549
+Sorry. Uh…
+
+01:46:59.299 --> 01:47:03.299
+Okay, so you've got a son… yeah, sorry, it's just the texture's not showing up.
+
+01:47:02.799 --> 01:47:10.799
+So, you had a question about the environment. You said, aiming for something more ethereal and Olympus-like, giving it more of a fairytale quality instead of just a Greek-style pavilion.
+
+01:47:10.389 --> 01:47:20.389
+Best way to make the day and night ambiences feel relatively contrasting. So, look, um, if we're going, like, really simple, kind of, like, cheap ways to make them feel contrasting, and you want more of an ethereal look.
+
+01:47:20.499 --> 01:47:26.499
+So, um, I know you had a HDRI here somewhere, it's just that it didn't come with the scene, which had, like, a starry night.
+
+01:47:26.636 --> 01:47:31.636
+Um, that's good. The sun itself, or, like, the light, yes, have that a little bit more blue.
+
+01:47:32.134 --> 01:47:38.134
+So, right now, that's red, so that's not gonna do exactly what you want. So having, like, a colder light.
+
+01:47:38.334 --> 01:47:44.334
+That's one thing. Something else that, um, I would maybe do is, if you have, you know, this is like a Greek pavilion.
+
+01:47:44.885 --> 01:47:52.885
+Right? And you think… like, if I'm thinking, you know, like, kind of Mount Olympus, like, at night, Greek pavilion, I'm imagining, like, you know, fires on top… on tops of columns.
+
+01:47:53.128 --> 01:47:58.128
+Right? So that's something that I would add. Maybe at least, like, some lights that, um, that sort of imitate fire.
+
+01:47:58.070 --> 01:48:03.070
+Um, you know, somewhere… somewhere around the scene, I think that would do it.
+
+01:48:02.765 --> 01:48:07.765
+Another thing that you can do is just add some fog, right? Like, sort of like, you know, some mist at night.
+
+01:48:10.168 --> 01:48:21.168
+Um, you know, to get that kind of more ethereal look. Now, in terms of mist, the way that you… okay, um, also, you're gonna have to excuse me, I haven't done this in actual years, so I might… Completely screw up in terms of how to do this.
+
+01:48:27.089 --> 01:48:31.089
+But, I believe you need to create a… Wait, what are we in? Um…
+
+01:48:35.728 --> 01:48:41.728
+So, you need to create a shape, and then the material needs to be a… Uh, what is it? It needs to be a volume scatter material, I believe.
+
+01:48:47.178 --> 01:48:52.178
+Like, I never do… I never actually do any rendering inside Blender, so this is, like, my, um… my… uh… my worst, sort of, skill.
+
+01:48:56.010 --> 01:48:58.010
+Okay, yeah, you do that, and then… That, yeah, that's basically it. Okay.
+
+01:48:57.642 --> 01:49:00.642
+So, yeah, if you want to add some fog, this is a cheap way to add fog.
+
+01:49:01.073 --> 01:49:04.073
+Right? So, again, I'll just go through that sort of process again.
+
+01:49:07.067 --> 01:49:10.067
+You add a shape, right? I'll just add a cube for now, over here.
+
+01:49:14.986 --> 01:49:17.986
+Right? Um, create a new material? And then with the material, you change it from a principled BSDF to a volume scatter.
+
+01:49:17.929 --> 01:49:23.929
+Right? Now, a weird thing here is that you actually, by default, this material is set up wrong.
+
+01:49:28.067 --> 01:49:30.067
+Right? So you need to change it from… Uh, you need to change the output from surface to volume.
+
+01:49:32.622 --> 01:49:35.622
+Right? And that basically gives you… fog, right? You just… you adjust the density.
+
+01:49:35.557 --> 01:49:40.557
+But, um, yeah, that's basically how you do it. So if you want to add, like, again.
+
+01:49:46.337 --> 01:49:49.337
+Something reasonably simple. But which adds that sort of, you know, dreamlike…
+
+01:49:50.073 --> 01:49:52.073
+Effect, then I would just… I would just do something like this.
+
+01:49:54.284 --> 01:49:59.284
+Right? Again, you probably want to play around with the lighting and environment and all of that, but… Yeah, that's, uh, that's one thing that I would do.
+
+01:50:04.478 --> 01:50:12.478
+Other than that, with this environment, what I saw, I actually really like the design of, like, all of the props. Like, I think the clouds that you've done and… the stars, the moon, like, the sort of the low-poly tree. I think these are all actually really, really cool.
+
+01:50:15.966 --> 01:50:22.966
+So, um, you know, very consistent style, and I think that's absolutely great. I probably wouldn't have the world be… have hard edges, so I would shade that smooth.
+
+01:50:28.228 --> 01:50:34.228
+Right? But I probably also wouldn't have it be kind of reflective or shiny, so I would have the… I would lower the… I would… I would up the roughness, because… Um, yeah, with low roughness, it just looks a little bit strange.
+
+01:50:37.629 --> 01:50:39.629
+But yeah, the environment itself looks really good. Let me move on to the chicken.
+
+01:50:47.915 --> 01:50:51.915
+Um, okay, so chicken… Okay, so I'm assuming… hold on, I don't think the text just came through…
+
+01:50:55.606 --> 01:50:57.606
+On this one… So, shader editor…
+
+01:51:03.087 --> 01:51:05.087
+Yeah, I don't think they came through. But, let me just talk about the overall design.
+
+01:51:11.761 --> 01:51:14.761
+Yeah, I think the texture didn't come true.
+
+01:51:15.324 --> 01:51:18.324
+Yeah, no, no, no, it's all good. Like, I think, uh, yeah… We can have a look at the geometry first.
+
+01:51:19.182 --> 01:51:23.182
+So, geometry, overall, the, like, the structure of the geometry is fine.
+
+01:51:23.000 --> 01:51:29.000
+But it is very, very subdivided, so there's, um, there's probably a lot more geometry here than you actually need.
+
+01:51:31.992 --> 01:51:33.992
+So right now, it's… Um… let's go statistics.
+
+01:51:37.741 --> 01:51:39.741
+Yeah, so right now you've got, um… Yeah, so, like, 12,000 faces on this. I'd say that's way too much.
+
+01:51:39.496 --> 01:51:44.496
+For something like this, you can subdivide it by quite a lot, and it would still sort of keep its overall shape.
+
+01:51:47.510 --> 01:51:49.510
+So just to sort of demonstrate that, if we take… just this mesh.
+
+01:51:54.903 --> 01:51:56.903
+Right? Which, that now looks horrifying. But if we just go…
+
+01:51:58.685 --> 01:52:01.685
+Let's remove that. If we go decimate… Uh, where's that? Generate, decimate.
+
+01:52:03.766 --> 01:52:08.766
+So decimate is the opposite of subdivision… subdivision surface, so it basically… takes your mesh and makes it less complicated.
+
+01:52:10.574 --> 01:52:15.574
+But it is, um… it can sometimes break things, so I wouldn't recommend… So you'd need to kind of use it more carefully.
+
+01:52:20.824 --> 01:52:22.824
+But right now, we've got 12,000… Um, 12,000… 6,000 faces.
+
+01:52:26.259 --> 01:52:31.259
+Right? Um, and if we just look at the actual geometry itself, we don't look at the textures.
+
+01:52:36.190 --> 01:52:38.190
+Right? This is what we had initially. Right? Um…
+
+01:52:44.410 --> 01:52:46.410
+You know, I wouldn't subdivide it this much. But… subdividing it this much, like, this is completely fine, and this is already, like, one quarter.
+
+01:52:46.459 --> 01:52:49.459
+This is one quarter of the amount of faces you had before.
+
+01:52:50.086 --> 01:52:54.086
+Right, so it's just to say that I would make it a little bit.
+
+01:52:57.853 --> 01:52:59.853
+A little bit simpler. Um, just in terms of the subdivisions.
+
+01:53:05.571 --> 01:53:12.571
+Another thing I noticed, uh, with the feet, like, same sort of thing over here. I understand that you were sub-D modeling, but… I think with this one… this is my personal preference. I probably wouldn't put in, like, these parts.
+
+01:53:18.991 --> 01:53:20.991
+Over here, like, these sort of claws. Um, just because they're really small and they… you know, you've got this really kind of big, fat chicken.
+
+01:53:26.293 --> 01:53:32.293
+And you've got really big, sort of, details on everything. You've got, like, you know, these wings… Um, the tail, um, you know, every… everything is kind of really enlarged, but then you've got these really tiny.
+
+01:53:39.419 --> 01:53:46.419
+Claws on the bottom. So it just, like, to me, that looks a little bit strange. I would probably remove those sooner, just have it sort of end… Um… kind of there, but, like, keeping it sharp, if that sort of makes sense. But again, that's my personal preference.
+
+01:53:51.440 --> 01:53:54.440
+And I would cut it down, because right now you've got a lot of… Um, you've got a lot of geometry here, which is…
+
+01:53:58.529 --> 01:54:00.529
+Probably not as necessary. Um, other than that, let's just have a look at the…
+
+01:54:04.412 --> 01:54:08.412
+Uh, let's just have a look at the animations. And the deformation, so… Just gonna go Dirt Sheet…
+
+01:54:07.947 --> 01:54:10.947
+Okay, so we've got that, and then what's this? That's a timeline.
+
+01:54:20.946 --> 01:54:28.946
+Um, feed animation is really cool. I would add a little bit of movement to the wings. Right now, they're just, like, they're kind of robotic, where they just move into position, and then they move back.
+
+01:54:28.870 --> 01:54:33.870
+So, you know, having them maybe, like, flap a little bit while it's moving will make it feel a tiny bit less robotic.
+
+01:54:39.347 --> 01:54:42.347
+But, um, the movement, sort of, of the head. Um, and the tail, it's really good. So, you know, it's very, very clear, like, what…
+
+01:54:47.122 --> 01:54:50.122
+What the chicken is actually doing, right? Um… Let's have a look… let's keep going. Foot action, what's foot action, foot action. It's an empty one.
+
+01:54:54.669 --> 01:54:56.669
+Walk.
+
+01:54:56.719 --> 01:55:10.719
+Okay, so with this, um, uh, you have the same… you have the same sort of thing happening with the walk animation as the previous team with the hedgehog, where it doesn't necessarily look like it's actually walking, it looks like it's just lifting its feet and putting them down.
+
+01:55:18.131 --> 01:55:21.131
+Right? And, um, again, sort of the reason for that is… what you want is, you want the foot to actually slide back, right? So, if you take…
+
+01:55:24.832 --> 01:55:27.832
+Actual movement, right? You know, the foot… Okay, let me just grab that. So the foot kind of, you know, moves forward, and then it slides back and moves forward.
+
+01:55:36.482 --> 01:55:38.482
+And kind of does this motion. Right? So, what you've got right now, where it just kind of lifts up and kind of rotates, it doesn't necessarily look like walking, it just looks like it's lifting its leg up and putting it down again.
+
+01:55:44.552 --> 01:55:45.552
+Right, so, you know, um… I'm just… sorry, I'm gonna break your animations for a second, but…
+
+01:55:49.892 --> 01:55:51.892
+Uh, let's just go… So I'm gonna… I'm gonna do this very, very roughly.
+
+01:55:57.309 --> 01:55:58.309
+But from here…
+
+01:55:57.598 --> 01:56:03.598
+Oh, sorry, I need to do this in a different one. Alright, well, but yeah, basically what I showed, where you basically have it.
+
+01:56:03.907 --> 01:56:10.907
+Go up, then down, then slide back, and then do this sort of a loop like that. So this is more kind of how.
+
+01:56:12.803 --> 01:56:17.803
+The walk animation should go, right? And then at the end, you probably want it to… kind of get on its, sort of, toes.
+
+01:56:22.508 --> 01:56:25.508
+But… not without that one. But yeah, that's basically it. Um, let me just have a look at any other animations here.
+
+01:56:30.220 --> 01:56:33.220
+Um, idle. Let's have a look at the idle animation.
+
+01:56:41.208 --> 01:56:44.208
+Um, oh, wait. There we go, let's just see. So, idle animation… okay, sort of just looking around…
+
+01:56:43.156 --> 01:56:50.156
+Yep. Yeah, that's fine. Like, you probably want it to be a little bit longer, otherwise you're gonna have an issue where it just looks like it's constantly saying no.
+
+01:56:52.060 --> 01:56:55.060
+On a loop, but, um… Yeah, other than that, looks really good.
+
+01:56:55.773 --> 01:57:00.773
+Um, with, uh, with idle animations, generally what I found is more useful is.
+
+01:57:00.800 --> 01:57:06.800
+You have, like, um… again, this is usually for more complex characters, but you'd have a few, sort of.
+
+01:57:07.554 --> 01:57:11.554
+Long idle animations, right? Sort of just, like, standing around, kind of not doing much.
+
+01:57:11.466 --> 01:57:19.466
+But then you have some shorter idle animations, like, you know, like, hey, I'm gonna, like, scratch my head, or I'm gonna, like, look at my watch, or I'm going to, you know, kind of just, like.
+
+01:57:19.654 --> 01:57:29.654
+Stretch, or something, right? And you have an idle animation play, and it can be one of the long ones, and then you randomly choose one of the shorter idle animations. That gets played through.
+
+01:57:30.159 --> 01:57:35.159
+And then another random longer animation gets played through. So, you know, um, you can also kind of merge these up.
+
+01:57:37.825 --> 01:57:48.825
+It's not necessarily that you have to do it with this, I'm just saying that as general tips. Oh, uh, last thing as well, um, everything is, um, everything is… has hot edges, so you probably want that to be… Uh, smoothed.
+
+01:57:56.017 --> 01:57:58.017
+Smoothed out. And with this one. Hold on. Should it smooth? Yeah, you probably want to get rid of the hard edges, because I don't think they make too much sense here.
+
+01:58:00.588 --> 01:58:04.588
+Uh, well, you might want to keep the hot edges sort of just around… like, these loops over here.
+
+01:58:05.105 --> 01:58:07.105
+Right? These are probably the only ones that you want to keep.
+
+01:58:10.169 --> 01:58:12.169
+Yeah. Um… Yeah, so that's just gonna be visible over here.
+
+01:58:14.091 --> 01:58:19.091
+Okay. Alright, um, but yeah, did the team, uh, have any questions?
+
+01:58:23.514 --> 01:58:25.514
+Well, I want to discuss something? Mm-hmm.
+
+01:58:26.649 --> 01:58:28.649
+That is the one question. Are doing the waves, uh… They kind of hold.
+
+01:58:31.210 --> 01:58:33.210
+Like, awkwardly. I don't know.
+
+01:58:34.731 --> 01:58:37.731
+The wings, you mean?
+
+01:58:37.725 --> 01:58:40.725
+Yeah, it looks so…
+
+01:58:39.451 --> 01:58:45.451
+So, let me just see. Uh, let me… wait, let's just see. So, if we go clear… transform all.
+
+01:58:51.141 --> 01:58:52.141
+Let me just have a look. Sir…
+
+01:58:56.623 --> 01:58:58.623
+So if we go have a look at the wings…
+
+01:59:02.210 --> 01:59:04.210
+Okay, hold on, you've got a lot of weights.
+
+01:59:05.123 --> 01:59:10.123
+Okay, um, my suggestion? Remove 90% of the bones in the wings.
+
+01:59:15.832 --> 01:59:18.832
+Like, honestly, you probably don't need this many bones. That would be… that would be probably the main thing, because if you…
+
+01:59:18.065 --> 01:59:20.065
+Yeah, let me just have a look at the skeleton again.
+
+01:59:22.008 --> 01:59:27.008
+Wait, uh… oh, wait, wait, wait, you have done that, hold on, sorry.
+
+01:59:26.664 --> 01:59:28.664
+Actually, my…
+
+01:59:26.962 --> 01:59:33.962
+So we've got Wing L, wing 2L, wing 3, Wing 4L… wait, let me just have a look at those specific weights.
+
+01:59:40.540 --> 01:59:43.540
+Um… when… Wait, okay, hold on, first thing is… first thing is…
+
+01:59:43.059 --> 01:59:49.059
+You need to get rid of all of these wing feather weights, because even though you don't have bones affecting them.
+
+01:59:51.223 --> 01:59:55.223
+They are still being affected by something theoretical called. Wfeather underscore 004.
+
+01:59:56.644 --> 01:59:59.644
+So, that's the first thing, right? So… Let's just remove all of those.
+
+02:00:04.479 --> 02:00:11.479
+Right? And you see right now, so that's… that's basically the issue, is that you remove the bones, but the weights aren't adjusted, so… Um.
+
+02:00:18.764 --> 02:00:22.764
+That may already kind of bend better. Right? Than it did before. Actually, let's…
+
+02:00:24.617 --> 02:00:26.617
+Hold on. Let me… bring those back.
+
+02:00:31.347 --> 02:00:34.347
+And then let's just have a look now. So, if we start bending this…
+
+02:00:37.930 --> 02:00:43.930
+Okay, so let's just have a look at this last one. So if I start moving this around, you see this part over here bends as well?
+
+02:00:44.165 --> 02:00:48.165
+Now, let's just check. If we, again, remove all of those.
+
+02:00:54.964 --> 02:00:56.964
+Further… If we remove all of those feathers, and I think we had…
+
+02:01:01.437 --> 02:01:03.437
+Okay, that's all of the feather bones, right? There's some more over here…
+
+02:01:03.085 --> 02:01:06.085
+Oh, yep, and we've got these bones over here, let's just remove those.
+
+02:01:11.520 --> 02:01:14.520
+Okay, let's just check, see if that affects anything. Okay, um, I think…
+
+02:01:17.882 --> 02:01:19.882
+I think that might be better, I'm not 100% sure. It's a bit difficult to say, but, like.
+
+02:01:26.149 --> 02:01:28.149
+At this point, this is probably… Yeah, this is probably what you… what you'd roughly want in terms of this geometry.
+
+02:01:36.952 --> 02:01:39.952
+Right? Yeah, just have this, don't have any of those specific, um… specific feathers, but then just the way that it folds… so, yeah, let's just have a look at your…
+
+02:01:44.507 --> 02:01:46.507
+Um. Wait, let's just have a look at your…
+
+02:01:50.546 --> 02:01:52.546
+Other animations… I must have broken them because I, uh…
+
+02:01:51.876 --> 02:01:55.876
+Wait, how did I break them, though, if I didn't remove those bones? Why isn't this returning?
+
+02:02:01.330 --> 02:02:04.330
+Okay, so this is… the way that it's folding here… Um, firstly, the way that it's folding…
+
+02:02:06.105 --> 02:02:09.105
+It's folding the wrong way, right? So, sorry, let me just… move that outwards.
+
+02:02:12.380 --> 02:02:16.380
+All right. So, this bone over here… you probably want it.
+
+02:02:18.698 --> 02:02:20.698
+Um, sorry. So, firstly, probably wouldn't fold that much.
+
+02:02:23.087 --> 02:02:25.087
+But then secondly, you wanted to fold… In this sort of direction.
+
+02:02:32.858 --> 02:02:34.858
+Right? Um… And then, if we kind of move that back into position…
+
+02:02:37.746 --> 02:02:39.746
+Sorry, I know this is, like, rough positioning.
+
+02:02:41.992 --> 02:02:44.992
+Okay, now I get what you mean, it's still a little bit… it's still a little bit awkward.
+
+02:02:45.455 --> 02:02:52.455
+Um… I'm just thinking, will I have a… will I have a good answer for you without looking at how a wing folds?
+
+02:03:00.180 --> 02:03:02.180
+Wing folding. I think the best… the best guess here is just actually to look at your, um… wait, bird wing folding, is just to look at references and just seeing if you can copy that.
+
+02:03:13.294 --> 02:03:14.294
+Okay, that's not useful. Let's just see.
+
+02:03:19.369 --> 02:03:24.369
+So, I think one of the reasons that it looks a little bit awkward is that everything is kind of separated.
+
+02:03:27.514 --> 02:03:29.514
+So you've got these, like, separate, sort of. Uh, parts of the feathers.
+
+02:03:33.556 --> 02:03:35.556
+And I don't think there's a way that you can kind of… make them fold really naturally.
+
+02:03:42.689 --> 02:03:45.689
+In that context, at least, like, I'm not seeing… good way. At least, like, what I mean is, like, folding them this much.
+
+02:03:49.833 --> 02:03:51.833
+If that sort of makes sense.
+
+02:03:57.304 --> 02:03:59.304
+But… Yeah, you also might need to… you do need to play around with the weights a little bit.
+
+02:04:00.040 --> 02:04:07.040
+Um… yeah, sorry, with this one, I don't really have… I don't really have a really good tip for you, uh, with this one, so sorry about that.
+
+02:04:06.392 --> 02:04:14.392
+Um, I think, like, if I was gonna do this, I would have a look at, like, actual references of how bird wings actually fold. I would also have a look at, like, more cartoons.
+
+02:04:14.720 --> 02:04:20.720
+And, like, animated… animated stuff to have a look at, like, how it's already been done with, like, animated birds, and just try to copy that.
+
+02:04:21.232 --> 02:04:24.232
+It's just like, I haven't really modeled, um, bird… bird wings.
+
+02:04:28.956 --> 02:04:33.956
+Um, I've probably done it at some point, but I don't remember, and, um, I don't remember ever animating it, so… with this, sorry, can't give any particularly useful feedback.
+
+02:04:39.646 --> 02:04:41.646
+That's really a helpful note. Great. Thank you.
+
+02:04:42.407 --> 02:04:44.407
+Okay, thanks. No, thank you. No, thank you guys.
+
+02:04:47.248 --> 02:04:49.248
+Alright, so I guess that's… that's everyone. I believe. Yep.
+
+02:04:47.525 --> 02:04:57.525
+Uh, maybe one last thing. I think all you said earlier, how to create the FOC in Blender, but do you think it's better in Blender or in Unity? Because they will be using Unity.
+
+02:05:02.542 --> 02:05:03.542
+Yeah.
+
+02:05:02.550 --> 02:05:04.550
+So, sorry, create, create what?
+
+02:05:06.469 --> 02:05:12.469
+Oh, the missed… oh, no, no, no, yeah, yes, yeah, sorry, with the mist, no, um, with the mist, you would create an Unity, definitely not in Blender.
+
+02:05:07.245 --> 02:05:11.245
+The… the… Miss, missed, Mr.
+
+02:05:19.262 --> 02:05:27.262
+Um, uh, yeah, that was more I meant, like, if you want to do it in Blender specifically, then that's the way that you would do it in Blender. No, in Unity, you would… Um, well, I'll be honest, because I don't use Unity that often, I don't remember how to create fog at all.
+
+02:05:27.747 --> 02:05:32.747
+In Unity. But yes, you would do it there. Just taking it from here, from Blender into Unity, I don't think that's going to do anything.
+
+02:05:35.552 --> 02:05:40.552
+Okay, so… so I just assume anything post-processing is… It would be better in-game engine, right?
+
+02:05:38.168 --> 02:05:40.168
+Yeah.
+
+02:05:40.468 --> 02:05:46.468
+Um, better from… like, what do you mean by better? You mean, like, more performant, or…?
+
+02:05:44.924 --> 02:05:49.924
+But the processing, like, for me, is for… or something, something like that.
+
+02:05:50.709 --> 02:05:54.709
+Is it a bit in the blender, or the… in the game engine?
+
+02:06:00.346 --> 02:06:02.346
+Uh… It just depends. So, the thing is that, um, it's just what it's used for. So you would only do it in Blender if your final result is going to be in Blender.
+
+02:06:02.424 --> 02:06:08.424
+So, if, for example, you're making a movie in Blender, you want to, like, let's say, make some renders inside Blender, you would do it.
+
+02:06:09.251 --> 02:06:15.251
+But if you're taking this into Unity, if you're taking it into a game engine, you don't do any push processing in Blender, it doesn't make… like, there's no point.
+
+02:06:20.267 --> 02:06:22.267
+Because those are just completely different systems. The thing that you would take from Blender into Unity is just your 3D models, basically.
+
+02:06:27.238 --> 02:06:29.238
+Yep.
+
+02:06:31.646 --> 02:06:36.646
+Yeah, your 3D models and your animation, and your animation files, but then everything, the way that that gets… treated and, you know, like, all your shaders are created inside Unity, um, your animations would be played inside Unity.
+
+02:06:36.867 --> 02:06:40.867
+Using their system. Push-processing effects would be done inside Unity, so, yeah.
+
+02:06:47.197 --> 02:06:49.197
+Mm-hmm.
+
+02:06:48.385 --> 02:06:50.385
+Okay, good. Yep. I think that's it for today. Thank you so much, Kleb, for your feedback and insight for them. I hope.
+
+02:06:55.924 --> 02:06:57.924
+Uh, they will use all of… that information to continue their projects, and can we have a big applause for Glenn?
+
+02:07:02.746 --> 02:07:08.746
+Thank you, guys. It was really great looking at, um, looking at your projects, and again, I just want to highlight, like, really impressive, like, what the… what the teams have been able to do in a very short while.
+
+02:07:14.584 --> 02:07:19.584
+Because this is… these are very complicated topics, um, they… it takes… it does take a lot of time to… kind of get used to them, sir. Um, the fact that everyone was able to make such great projects in this time is really, really impressive.
+
+02:07:23.790 --> 02:07:25.790
+And a credit to the team.
+
+02:07:24.729 --> 02:07:26.729
+Yep, thank you so much. I think that's it for today. Thank you!
+
+02:07:29.587 --> 02:07:31.587
+Awesome. Thank you, guys. Thanks, bye.
+
