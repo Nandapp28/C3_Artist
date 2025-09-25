@@ -1,0 +1,1080 @@
+09:02:58 Okay.
+09:02:55 Yes, yes, of course, yeah, I'll be recording as well. Alright, uh…
+09:03:03 So, let me just… Sorry, let me just share my screen. So I'll just share mostly off my screen because…
+09:03:15 Um… just because I'll be opening up the project files.
+09:03:21 Okay, and, sorry, let me just open up the… let me just open up the Zoom chat window.
+09:03:38 Sorry, one second… So, I've just got everything on three screens, so let me just, um, figure out where the…
+09:03:45 Okay, there we go.
+09:03:51 Okay, um, so is my, um, is my screen being shared?
+09:03:53 Yes, we can see yours.
+09:03:54 Okay. Alright, perfect. Um, yeah, so firstly, I just want to say thanks for sending through the… sending through the projects.
+09:04:01 Um, I had a look through all of them, all of them are really, really impressive.
+09:04:04 So, yeah, that's firstly what I wanted to say is, um, because I know that there was a limited time for everyone to sort of make these projects and, um, given the time, I want to say, like, I am definitely very impressed with.
+09:04:15 What the teams have been able to come up with, so, um, you know, props to the teams and props to… the teachers, the trainers.
+09:04:21 Um, amazing job. And what I want to do is, I just want to go through basically every single, uh, every project, and… just, um, just add some comments. Now, in terms of the comments, mainly what I'll be focusing on, I'll focus on the positives, and I'll also focus on some areas where, um, I think can be improved.
+09:04:39 Right, just to give sort of, like, some constructive feedback on certain things that can, uh, that can potentially be adjusted in future.
+09:04:47 So, that at least is my intent.
+09:04:49 Yeah, okay, sorry, but I think they already have more progress, uh, when they send to you, so maybe if… something new, they can show… show that to you.
+09:04:56 All right, okay. Sure, sure, okay. Well, in that case, I guess what… I guess what we can do is maybe I'll just share… I'll just show what I have on my end.
+09:05:07 And then if there's something that maybe has been addressed, then the students can share their screens, and we can go through that.
+09:05:01 Yeah.
+09:05:12 Alright. So, let's start with the Team 1, Porcupine. Okay. So, um, first thing I want to say is, um, I do like the design, it's really cute.
+09:05:24 And, um, for, again, like, for a low-poly character, I think this, um, I think the… overall…
+09:05:34 The overall topology is, um… the overall topology is fairly good. Now, there are going to… there are going to be some things which I've noticed among several projects which are, again, certain things that can be improved.
+09:05:46 Right, so if I… if I mention them on one, I'll maybe mention them on the others, but I'm not going to go into detail, sort of.
+09:05:52 Uh, going through them. So, with this one, the animation that I saw…
+09:05:59 Was… I believe there's a… walking animation, and… yep, so we've got the timeline down here.
+09:06:08 Okay? So I've got a looping animation. Which is great.
+09:06:14 And it does loop, um, it does loop back to the beginning, which is re- which is really good. We've got that sort of subtle head movement, which I really like.
+09:06:22 One thing I'd want to… So, with this animation.
+09:06:27 Is with the back legs, so if we look at it from the back.
+09:06:32 So, they are clipping through the ground. That is basically, with this animation, that is probably the one thing that I would fix, because if we, for example, add a… plain to this, like, let's say we have a ground.
+09:06:45 In this case, the… Legs would be clipping… through the ground, right? Sort of like so. But that is basically a fairly minor thing that can be, um…
+09:06:56 There can be reasonably… reasonably easily adjusted. Other than that, um, other than that, this is really good.
+09:07:02 So, another thing that I'd want to mention, and this is something that I… Um, that I've noticed across several projects. And again, this is something that is really, really common for people who are, um, who are learning 3D, is NGONs, right? So there are quite a few.
+09:07:18 So there are quite a few NGONs on a lot of these models.
+09:07:21 Right? And again, just as a reminder, en-ons are faces with more than four, um, more than four sides.
+09:07:26 Right? And so, for example, we have an NGON. Oh, actually, no, sorry, that one isn't an angon. This…
+09:07:33 This one over here is an Engon, because it looks like there's four sides, but there's actually 1, 2, 3, 4, 5, 6, 7.
+09:07:39 If we turn on vertices mode, we can see that a little bit easier.
+09:07:42 And, uh, for characters, especially, especially for characters which need to be animated, I'd say that this is a very important thing to sort of address to avoid enginons, because they don't deform properly.
+09:07:53 Right? In this case, I understand that the head doesn't move… well, like, this part of the head wouldn't deform all that much.
+09:07:59 But it's generally good practice to avoid angons if possible. And also add more edge loops to where the character does deform, right? So instead of having, like, let's say a lot of edge loops over here, I would…
+09:08:11 Have a little bit more edge loops over here. And just a tip to, um… because if you have a… if you have a complex character, it might be far… it might be a bit difficult to find the angons.
+09:08:22 Just a tip for actually looking for them. If you go up here to Select, then go Select All by Trait.
+09:08:29 And grow faces by sides? Right? Um, what you can do is, you can basically select.
+09:08:37 All faces which have more than 4 vertices, right? And again, you can adjust this, so if you're looking for something specific.
+09:08:45 Right? But if you're looking for triangles, you can do the opposite. So, you know, if you go less than… less than 4 sides, then these are all the triangles on the character, and there's, um, obviously the caps on the eyes.
+09:08:58 Right? But in this case, if we go greater than, this just highlights all of the angons in the scene, and it's just.
+09:09:04 Good practice to sort of fix those, uh, fix those up a little.
+09:09:08 Right? Um… Let me just see what else… what else… what else I had.
+09:09:13 Yep. One other thing, and again, I don't know, again, a lot of… some of these things, you mentioned may have been addressed.
+09:09:19 In the textures, one thing I noticed is there was this little, um… area over here, which is, um…
+09:09:28 Which sort of appears on the… On the character… sorry, let me just…
+09:09:34 Hide this. So just this, because I'm assuming that… I'm assuming that that was probably not, um, not exactly intentional.
+09:09:39 But aside from that, I'd say… I'd say a very good job with this one.
+09:09:44 Again, I'm… I don't mean to be… I don't mean to be particularly critical.
+09:09:47 Um, I do… I do genuinely like all of the projects, but I think that just for today, the, um… I think the most value would be for me to give, sort of, feedback on areas where.
+09:09:55 You could improve. Alright, um, so with this one, is there anything, sort of, the team, uh, would additionally like to mention or share?
+09:10:04 Yep. And what if there is anything you want to… General. Um, yeah, thank you for the feedback. This topology.
+09:10:16 Not all good.
+09:10:15 But, um… The problem we're facing in this one week, and we still can't.
+09:10:25 Solve it. It's equaled. That's why there is no query in there.
+09:10:26 Mm-hmm.
+09:10:32 And, yeah, yeah.
+09:10:38 Quill. The quill.
+09:10:34 Sorry, I didn't quite catch that. There's no what, sorry? Oh, there's no, there's no quills, yeah. Um, yeah, with the… so, with the… with the quills, uh, what I… what I would potentially do…
+09:10:47 If you want to add quills, is… I would probably just create them as curves, and then convert to meshes.
+09:10:54 And then if you, uh… the other thing you would just have to do is just be careful with the weights, alright? So, um, I'll just make one.
+09:11:01 Just to sort of show what I mean, so if we take a curve.
+09:11:03 Right? So, um, I usually use paths. For this… I'll just turn on… turn off…
+09:11:10 Turn that off… Individual origins are turned on. Sorry, um…
+09:11:17 Okay. So I've got a path, and let's just add a Bezier curve to… Define the profile.
+09:11:25 Right? So, I'm just gonna move this… Why is that moving like that? That's… that's a little bit odd. Alright.
+09:11:32 Okay.
+09:11:38 Sorry, the busy occurs doing something weird. Give me a second.
+09:11:44 Oh, right, sorry, um, snap-to-face is turned on, that's probably it, okay.
+09:11:49 So I'm working in your project, so I might miss some things. Alright, so that just creates the profile of the curve.
+09:11:56 And then… if we go Curve, Geometry. We can add some depth.
+09:12:02 And then, with the taper object, we just choose the Bezier curve.
+09:12:06 Right? So this gives us this, um, shape. Now, the next thing is just changing the resolution down here.
+09:12:14 And up here. Right, so the resolution down here, this just… If we look at it from the side…
+09:12:21 This just adds more, um… more edges, sort of, in a circumference.
+09:12:26 Right? For this, you can use something really, really small. Again, it's a low-poly character. One is, I think, more than enough for this.
+09:12:33 And then resolution preview up here, you just lower that until it's, um… Until it's what you need. So…
+09:12:40 Let's just… let's just place this. So, I don't remember where Porcupine, um… spine score, but let's say, I think it's somewhere in the butt, so let's just go there.
+09:12:48 Also, for something that's just a simple curve, what you can do is you can just dissolve two of the vertices. So if you press X and then dissolve.
+09:12:56 Right? Um, okay, we do need more resolution, though. Right? And do something like that, honestly, I think that that, for this type of character, again, it's very low poly.
+09:13:06 You probably don't… like, I wouldn't want anything too high, like, I wouldn't go, you know, anything crazy, like… you know, 10, because there's…
+09:13:16 If you have this be at a really high resolution, it just looks very… it just looks too different from the base, um, from the base mesh, so there's probably no point.
+09:13:25 Um, so make sure that, like, generally you want your… average level of, you know, size of your faces to be around… to be roughly the same.
+09:13:35 So if we go… let's say, like, 3… Okay? Then what you can do is… You can also duplicate.
+09:13:45 The spines as well, so I'm just pressing Shift-D to sort of just duplicate them.
+09:13:49 Right? And sort of just place them around. And then, once you're done, right-click.
+09:13:54 Convert to mesh. Okay, now… so now that's just a 3D model.
+09:13:59 And then what you'd want to do is, uh, where is our armature?
+09:14:05 Actually, not the armature. So, there's a way in Blender to actually sort of copy weight data from a… from one mesh to the other, I'll be completely honest, I don't remember exactly what the process is, so you can have a look at that, there's definitely tutorials online.
+09:14:20 But, uh, for now, if we just go to weights. Let's just have a look at the weights here.
+09:14:25 So it should be one of those, um… Okay, so that's root, hip…
+09:14:31 Okay, so probably hip, right? I'm guessing hip for this. What we'll do is… oh, actually, sorry.
+09:14:37 I'm just gonna copy that, and I'm just gonna add a vertex screw called HIP.
+09:14:42 And then, in edit mode, I'm just gonna assign. All of these to the hip bone.
+09:14:49 And then if we join this up… Um, oh, I should have done this when this was in, um, when this was in the default pose, not, um, not the animation, but it's the… it should still work.
+09:15:00 So let's go to Dope Sheet, um, Action Editor. Walking…
+09:15:06 So, you see, like, it's, um… For this, it's pretty much good enough.
+09:15:11 Now, in terms of the weights, you'd have to be more careful if you're putting them in places which really deform.
+09:15:16 So, if we have a look at the weights, for example.
+09:15:20 You know, where there's transitions. Like, uh, let's say…
+09:15:27 So, if you were to put them somewhere over here. Right? You'd have to probably blend them somewhat between the neck bone, the head bone.
+09:15:35 Maybe the… what is it, the chest bone, or whichever one… Uh, you have, just to make sure that they don't, sort of, move.
+09:15:42 Differently from the rest of the rest of the mesh during animation.
+09:15:46 But generally, I would just probably do it like this, because this part, especially on the back, it's not going to move all that much.
+09:15:52 Right? It's not going to deform all that much, so, you know, even… Now, if we just press play, you see that… looks mostly fine. So, that is probably what I would do in terms of the spines, just to see, um, um…
+09:16:03 Just to sort of do it fairly simply. I… I don't think that there's any reason to…
+09:16:10 Make these all sort of one mesh, necessarily. So, you know, just having them be their own separate thing.
+09:16:17 That's completely fine for this, sort of like you have the eye… as its own separate thing, as well.
+09:16:22 Right? So, I would just do that.
+09:16:28 Um, okay, that's really helpful. Thank you, that's… Uh, and then, how could we animate…
+09:16:36 The quill that can be… Racing straight and down.
+09:16:34 The quills, so if you want them to… if you want them to go up and down, for this, probably you'd use bones.
+09:16:49 Um, but in terms of the bones, you probably don't need anything complex.
+09:16:54 Right, so… hold on. Also, things might break right now because I'm using… I'm not using my own project, but if we just, let's say, duplicate this.
+09:17:02 And then… let's say… So if you have a bone somewhere over there, you can probably have just, like, one bone control quite a few quills, right? You don't need a separate bone for every quill, I don't think that's necessary for this project.
+09:17:16 Right? So, you know, just one bone per group. And then, with this bone.
+09:17:21 Sorry, let me just see what the hierarchy is here. Okay, so… Yeah, sure. Okay. So, what is this bone called? This is called stomach 01, let's just call it something else, let's just call it Quill…
+09:17:36 0? Okay, and then… what we'll do is…
+09:17:40 Yeah, we want it to be parented, actually, we want it to be parented to the hip bone.
+09:17:44 Which it is. That's good. And then, with this stuff.
+09:17:52 So, firstly, we want to… add a new vertex group, and just call it quill underscore 0, and assign it to that. But what you also need to do…
+09:18:02 If we go into weight paint mode, right now you see they're assigned to quill.
+09:18:05 And if we move this around… It will move, but you see it's gonna… it's doing some weird stuff?
+09:18:11 Right? Like, it's shrinking. The reason that it's doing that weird stuff is because they are still… parent… they are still, um, weighted to the hip bone.
+09:18:21 So we click on HIP, you see they're still weighted to that. So what you want to do is you just want to go into edit mode, and then remove them from the head bone.
+09:18:29 Okay? Now, um, if we go to Quill… There we go. And you can do some blending, maybe you can have the hip bone affect them at the bottom, but I don't think that's necessary.
+09:18:40 For this. And then, if we go into pose mode… You see that sort of does that.
+09:18:45 Right? And then you just animate it the same way you would animate the rest.
+09:18:50 So, it probably, with this one. Probably wouldn't have, for example.
+09:18:58 Uh, this one be that low… that low down, so I just, you know, I'd put them roughly in the same area.
+09:19:02 Right? But then, if you. Just pose this, that can… If we just have a look over here…
+09:19:10 That will just let you… sort of pose that, right? And then, yeah, basically you just animate it the same way, so.
+09:19:17 If we, um, you know. If we just keyframe that there…
+09:19:24 Keyframe that there. Just copy that keyframe over to the end.
+09:19:30 And then, you know, let's just do that for some reason.
+09:19:33 Let's just move it over there. So I know that this is not how quills work, but just to demonstrate the animation.
+09:19:38 So, Anel… So that should lower, it should do some crazy movement.
+09:19:43 And then it should go back to the beginning. Um, that keyframe should probably be at, yeah, frame 200, or…
+09:19:50 Tour one, depending on where the rest are. Yeah, 200. So, yeah, hopefully that helps.
+09:19:54 And, uh, yeah. Other than that, like, really love the design, it's really cute.
+09:19:59 Yeah, I think this technique also applies for heads-up too, I think.
+09:20:05 For water? Uh, for hershock, yes, yeah, absolutely.
+09:20:07 That's fault.
+09:20:09 Yeah, so, um, yeah, for the Hedgehog, definitely this would apply. So anything where you have… Um, you just need to be careful with the weights, just to make sure that when everything's moving around, things aren't sliding away from each other, so that's just the one thing you need to consider.
+09:20:24 But other than that, yeah, basically just use bones for this.
+09:20:27 And again, if, uh, you know, if you have a bunch of quills.
+09:20:27 By the way, I don't…
+09:20:31 I don't think you'd need more than, at most, like, I don't know, 4, 5, 6 bones.
+09:20:36 For all the quills, because you can move them as a group. You definitely don't need to… move all these individually, there's just no point.
+09:20:45 Yeah. Mhm. Okay. Um…
+09:20:49 Oh, okay, I think we're good. Yep.
+09:20:50 Yeah, really good job. Alright. Should we, um, should we move on to the next one?
+09:20:56 Yeah, we could move the second group.
+09:20:57 Okay. Okay, perfect. So, with the next one, so, um, over here I've got number 2, Alpaca, and…
+09:21:05 I believe it's this blend file, the environment. Okay, um, also, also, just a tip, if anyone sort of gets this, they get this sort of blue.
+09:21:16 Blue stuff. This is… if you go up here into viewport overlays, it's face orientation. So it's just showing, like, where the normals are facing.
+09:21:24 Um, so with this one. Uh, just to be clear, because I didn't, um, at least with this project, there weren't any animations, so just to confirm, there are no animations for this one at the moment.
+09:21:35 Yeah, this is… we didn't put the animation in there, but they already have done their animation in their projects.
+09:21:42 Okay, cool, perfect. All right, well, in that case, I'll just give my feedback on, sort of, what we have here.
+09:21:43 Yeah. Yeah.
+09:21:47 So, firstly, firstly, really love the design, uh, really cool design of the Alpaca.
+09:21:53 Uh, love the environment as well. Um, you know, I can definitely see you can create some kind of, like, cool scene here where…
+09:22:00 We've maybe got the, uh, the alpaca walking past the police… the police department.
+09:22:04 And doing some… and doing some stuff. That's really cool. Now, let me just hide everything…
+09:22:10 Except for the alpaca. So, with this one. Uh, what… so, same thing as with the… same thing as with the porcupine. Uh, just look for en-ons.
+09:22:20 Right? So again, especially on a… on an animated model, or a model that you would animate.
+09:22:27 Just look out for Angon, so again, if you go select… Um, where is it?
+09:22:32 All by trade, faces by sides, and we go greater than 4.
+09:22:36 There are a few engines here, so those are just something that I would fix up. Overall, the topology is really good, so… fairly even, you don't have a lot of, you know, really small faces and a lot of really big faces.
+09:22:49 You've got more geometry where the… where the arm bends, and at the knee, which is really good to see. So, you're gonna get more even, like, better.
+09:23:01 Better deformation there, right? But just the… the end, you've got a few, sort of, around the… got a few around the shoes.
+09:23:10 Um, and, like, with the shoes, it's not… It is important, but it's not as important, because these probably won't actually.
+09:23:19 Change their shape all that much. But where it is important is, especially in areas where the character does bend.
+09:23:24 You know, I would fix up NGONs in this area, I would fix, uh, I would fix them up up here.
+09:23:29 Um, and potentially add a little bit more geometry around the… sort of around the shoulder area, so maybe just, like, a couple more edge loops.
+09:23:38 Sort of here, and… what I would do is, you have these really big faces here.
+09:23:43 What I would do instead is maybe just, um, have… have a couple more edges.
+09:23:50 Kind of going this way, if that kind of makes sense.
+09:23:53 Right? Something like that. And then, with this one, you can either… uh… you can either add, like.
+09:23:59 At an edge loophole, or just join it up. Somehow. Other than that, um, let's see if there's anything else I…
+09:24:08 As something else I had. Yeah, um, so you mentioned that the team is still working on this project.
+09:24:13 The UVs, but I didn't know if that was… something that's already been sort of fixed or not.
+09:24:20 Because right now, I notice that, um, there aren't textures on it at the moment, but, like, with the UVs, there are some issues, so just, um, wanted to find out if the team, if that's something the team is addressing.
+09:24:31 Or if they're just using materials in Blender, in which case it doesn't really matter.
+09:24:39 Great deal. Hello? Yeah. Okay, actually…
+09:24:44 Alright.
+09:24:44 Right now, I'm not even that part of your prep. Because I'm using Montreal for color.
+09:24:53 And, uh, you… They said, okay, I feel my let's broken.
+09:24:52 Okay, yep.
+09:24:57 Uh, yeah, sure, let me stop sharing. Hold on, stop share.
+09:25:05 Yep.
+09:25:16 Let's progress. Uh, the previous one, I'm using Rejify, and I cannot…
+09:25:23 Uh, at the bone, or the ear, and the… the deal, but I don't know, I give you my…
+09:25:31 Minority, or magi. And maybe this is… Oh my god, so what if I intention?
+09:25:41 Yeah, sure, yeah, let's see the animation.
+09:26:05 That's a really cool animation. Animation is really cute. One thing, um, can you, uh, can you, um, show the bones?
+09:26:15 I really love the animation. One thing I would change is you've got the hips kind of moving up in the middle, uh, really sharply. That's, like, the one thing that I would probably change in this.
+09:26:29 Yeah, so just a neutral pose.
+09:26:36 Did I show the others.
+09:26:38 Yeah, sure, sure.
+09:26:49 Yeah, well, love the animation. Um… yeah, really great use of, like, anticipation and some other principles, really good.
+09:27:00 First one, I want to add a group chain for my… But I don't know how to… Like, place, uh, yeah, gold tin… necklace.
+09:27:10 Oh, um, do you want… Do you want it to be animated?
+09:27:11 You want to put that in the crafter?
+09:27:20 Because whether you answer yes or no to that question, it will add a lot of work.
+09:27:16 I think it's just moving, like, are you.
+09:27:26 Oh.
+09:27:29 Okay. Yeah. Yeah, I remember there was, like, there was, like, this meme where, um, if you talk to, like, character artists, like, creating a dragon that breathes fire and, like, you know, does a lot of crazy stuff, that's easy, but carrying… having a character take off a scarf is, like, near impossible.
+09:27:43 Um, so… Uh, with… okay, with a gold chain, if you want it to be animated, then…
+09:27:52 Yeah, that… you'll have some… you'll have some issues. Um, especially if it's, like, a game character, because, um…
+09:28:00 Well, what I mean by animated is whether you want it to be animated separately, like, for example, in this run animation, do you want it to sort of, like, you know, float up and then hit back onto the chest, right? Something like that. Like, that is, um, that is genuinely.
+09:28:11 Going to be a bit tricky. You might actually, um… I'm just even thinking what the best way to do that is, because if it's a game, you're not going to be using, sort of like, simulations or anything like that.
+09:28:22 Um, like, it's doable, you can probably do it, you can probably do it with morph targets, even, at some point, but at the moment, I, like, I personally probably advise against having, like, a separately animated chain.
+09:28:35 Right? Um, if you just want to create a chain by itself.
+09:28:40 Right? Yeah, actually, maybe that was the question. Is that the question, like, how to create a chain?
+09:28:49 Yeah. Your question is. With it or the animation.
+09:28:49 Oh, okay. In terms of cr… Okay, so…
+09:28:54 Awesome. Yeah. Oh, her question is…
+09:29:02 Uh, is it better to create a new object chain, or is it modeling from the… Uh, character.
+09:29:12 Yeah, excellent from that.
+09:29:09 Oh, um… with that, I'd probably… no, I'd probably model it as a separate object.
+09:29:19 Um, so, wait, um, let me just share my screen.
+09:29:26 Bob share?
+09:29:31 Okay, give me a minute. Alright, so with a chain.
+09:29:38 Modeling it from your character, I mean, usually it's… if you want to model something from your existing mesh, it's best to go off, like, the geometry that you already have.
+09:29:45 So, you know, you could… you could, of course, take something like, you know, this face loop over here and, you know, just, like, insert that a bit, and then… Um, add some depth.
+09:29:56 And then, if we add a new material. And then just assign that, right? That can be a chain, but that doesn't really look like a chain, right? If you want to model a chain, um…
+09:30:09 Um, if you wanted to, like, let's say, model it. Chain specifically using your mesh, you'd have to make a lot of loop cuts, and you'd end up with really awkward geometry, so I would model it separately.
+09:30:19 Right? Um, in terms of modeling it separately, though, what you probably can do… is… sorry, let me…
+09:30:28 Uh, sorry, let me just. All of these, I'll just create a new one here.
+09:30:31 Oh. Wait, uh, let me… Sure, we'll just… we'll just create it from here.
+09:30:38 So, for a chain, again, this is a fairly low-poly character, so I wouldn't create a super complex chain, but if you make two links, right, two links of a chain.
+09:30:46 What you can do is you can then array them along a curve, right? That would probably be my best suggestion for doing it.
+09:30:51 Right? What I mean by that is, let's just create a plane… Just inset it…
+09:31:01 Okay, um, I think the measurements are a little bit wrong here, but, um… Let's go over SX and SY… Okay, so let's say this is a link 1.
+09:31:13 And this is link 2. Right? So, let's just also…
+09:31:19 Make this a lot smaller. And then, uh, what we need to do is we need to…
+09:31:27 So, it's just… this is not something… I don't usually array along… I don't usually, like.
+09:31:32 Make my end stuff in Blender, uh, because I usually work with, like, Unreal Engine or something else, but… I think you can array along a circle.
+09:31:40 Unless I'm very mistaken. Wait, let me just go… so if we go array…
+09:31:46 I believe it's Generate Array? Right? So this is the first one that you'd want to do, and you just want to change it a little bit so that…
+09:31:54 It's, like, maybe .8 or something, or… Is that correct? Yeah, maybe, like, 0.9?
+09:32:01 Sure. And then, what you need to do is, uh, where is it? Deform Curve.
+09:32:07 I believe. So there's a specific order that you need to do this in, sir.
+09:32:10 Yeah, there we go. Okay, so I was correct. And then, we just take this curve…
+09:32:19 And…
+09:32:25 Also, the reason I'm not using hotkeys is because I work with, like.
+09:32:30 Um, I work with Maya, I work with, um, I work with Cinema for D, I work with Blender, and so I've given up remembering the hotkeys.
+09:32:38 There are some that I use constantly, but a lot of them I just, um, I just don't… I also recently got a new mouse, so… tweaking those settings is a little bit awkward.
+09:32:47 Okay, let's just place that there, and then… Take that, place it there, and then there are some…
+09:32:53 Here, which we just adjust. And then…
+09:32:59 And then we just need to sort of adjust the… um, adjust the count, that's one thing.
+09:33:07 So it's like 2. And then you can also… you can still edit the original mesh, right? So if we press Tab.
+09:33:13 You can do that, and then maybe just make that a little bit smaller?
+09:33:16 Or a little bit bigger. Until it sort of fits, and yeah. So, you know, it's… it still needs some…
+09:33:24 Adjustment, right? But this is probably what I would… This is probably what I would do in terms of a chain.
+09:33:33 Right? Um, for a character like this. You know, I just need to place it a bit more carefully.
+09:33:40 Let's go… that. And then you still have to do all the weights, obviously, so… that's another thing, you just need to, um… Uh, try to adjust the weights to… to the rig, because right now, obviously, it's not gonna, um, it's not gonna deform.
+09:33:54 But, yeah, this is basically how I would do it. That would be my suggestion.
+09:34:01 Okay, so… If the parent reading for the test for the main party?
+09:34:03 Sorry, it's a little bit quiet, I didn't quite catch that.
+09:34:11 They would… yeah, they would need to, peron the… negates to the bone.
+09:34:16 Yes, yeah, because right now. If we have… oh, well, um, hold on. We don't have any animations, but…
+09:34:28 Okay, and then let's just move that down. Right? So… Yeah. You know, no, um, nothing, nothing happening there. So yeah, you would need to parent it.
+09:34:38 So, you would need to actually… Um… If this is the Rigify tool, just, like, you know, try to do it through Rigify, and then you would have to adjust the weights. Now, this is a very tricky sort of spot to do it in as well.
+09:34:52 Right? Um, because you've got the weights, you've got a lot of different weights, kind of, um, fighting with each other. You've got the spine bones, you've got the neck bones, you've also got the shoulder bones and the arm bones.
+09:35:02 So this will be a little bit tricky to do. Um, the smaller this is, the… let me just convert this to a mesh for a second.
+09:35:09 Um, the smaller this is, the easier it will be. If you just do it sort of around the neck, or maybe around the shoulder areas, kind of like this.
+09:35:15 That will… that will be a little bit easier, right? But, um, yeah.
+09:35:21 Basically, that's the, um, that's the way you could do it.
+09:35:24 Actually, sorry. One other way that you could do it, which might make things a little bit simpler.
+09:35:31 So, let's go… Oh, wait, sorry, no, not that. Extrude?
+09:35:40 Alright, so the idea being… you basically make a…
+09:35:46 A circle sort of like this, right? And again, just adjust it so that it's, um… Um, so that it's the same shape, right, as the necklace. I'm not gonna go through the whole process now.
+09:35:58 And then you basically make a chain texture with an opacity mask.
+09:36:02 Oh, yeah.
+09:36:02 Right? So, that would be another way to do it, which, um, it will not look as good as the regular chain, but it might not matter.
+09:36:11 And also, it's going to be a lot easier with the UVs.
+09:36:14 Right? That, um… So, yeah, that would basically be, um, my suggestion. Either one… either that version or this.
+09:36:24 Thank you so much.
+09:36:25 No, no, I'll get… all good. Alright, um, okay, we'll move on to the… we'll move on to the next one.
+09:36:31 Now, next project that I've got here is the turtle. Turtle, um… okay, so for…
+09:36:41 Firstly… firstly, for this one, um, for this one, the textures for me, um, weren't in the… went in the project, but I did… But I did see the demo video. I want to say, great job on the demo video.
+09:36:53 Uh, textures, uh, textures look really cool. So…
+09:37:00 Love the walking animation, you've got the jumping animation somewhere in here.
+09:37:04 It's very cute. So yeah, really love this.
+09:37:10 So, um, looking at the actual model itself. Right? Looking at the model itself.
+09:37:17 Really like the design. Really cool. Sorry, let me just see the, um… let me just see the things that I wanted to sort of mention here.
+09:37:29 Right? Okay, so… wait, sorry, what did I… what did I want to mention?
+09:37:34 Uh, yeah. The… So overall, um, overall, it looks really good. One thing that I'd, uh, that I would mention is with the body specifically, so I know that this was, um, so you did sub-D modeling, so you had a, you had a more basic shape, and then you subdivided it.
+09:37:51 To get this shape, right? Which, um, which that's completely fine. What it does… Um, what I would do is I would do a little bit more cleanup.
+09:38:00 Right? Because you've got a lot of, um, you've got a lot of extra edge loops which you don't need, so… If, for example, especially we look in these areas, like, all of these edge loops over here, like this.
+09:38:10 All of these, if they are removed, that will not change anything about the model at all.
+09:38:15 Right, so I would generally, um, I would generally remove a lot of these unnecessary.
+09:38:20 Edges, especially over here, you've got these bevels, but they're so small that it's not really playing a difference.
+09:38:25 Right, so I would just remove… all of these from the character. They're… again, that's not really gonna change anything.
+09:38:33 And then, you know, Mark Sharp… well, you'll have to do it on your end, because for me.
+09:38:40 Um, I'd need a split. The data to sort of fix that.
+09:38:43 And then, um, that's also the reason why, like, here at the bottom, you have a lot of these sort of vertices.
+09:38:50 Down here, if we just sort of select this area. Okay, let's say that's that rough area.
+09:38:58 Over there, what are my… what are my statistics? Statistics. So, over there, you've got, um…
+09:39:05 You've got… you've got, like, 3,000 faces there, that's definitely way, way more than you need.
+09:39:11 Because this is an area that will never deform. So, this is, um, uh, again, the overall shape. The overall shape is really good, but…
+09:39:19 Um, if you're never gonna see this area, and especially if it's not really deforming, you definitely don't need this much geometry. So that would just be… my, sort of, main tip.
+09:39:29 About, uh, about this 3D model. Now, another thing… So, I notice over here, you've got a lot of…
+09:39:39 You've got a lot of these extra, sort of, edge loops.
+09:39:41 Right? And. I'm assuming that what was happening.
+09:39:46 Was, um… So if we take a plane, and then…
+09:39:55 We'll sort of extrude that. Right? So let's say that I want to subdivide this.
+09:40:01 Alright, and I want to subdivide it by quite a bit, but I want this edge… Over here, like these edges, I want them to sort of stay.
+09:40:08 Right? So… generally, what I'm assuming that you did here, and what a lot of people do, is…
+09:40:15 You add an edge loop, like this, and then you just sort of bring it down.
+09:40:18 Right? And that kind of, um… and that basically creates that sharp edge.
+09:40:23 The problem with that is that if you do that. Right? And then I apply this, you end up with a lot of these extra edge loops that you generally don't need.
+09:40:34 So, what I would suggest instead of that… is, if you haven't used it, the Edge Crease Tool.
+09:40:41 Right? This is something that's super useful, and it's specifically for situations like this.
+09:40:46 So, over here, um, in the. Um, so if you just press N, and then it's the first… the first panel, the transform panel.
+09:40:53 You've got mean crease, right? Now, if you select these edges, and you go Mean Crease and set that to 1.
+09:41:01 Right? That basically does exactly what you want, that sort of, um, that sharpening.
+09:41:06 Uh, without extra… adding extra edge loops. And then, if we apply the subdivision.
+09:41:11 You'll notice that the faces are a lot more even, so you've got a lot more even geometry.
+09:41:16 So, generally for situations like this, if you want to sort of model it in sort of that subdivision.
+09:41:23 Um, workflow. Use a lot of, um, use edge crease, or, like, mean crease, for wherever you want those sharp edges.
+09:41:32 As opposed to adding a lot more edge loops. Right, so that would just be, um, that would be my suggestion.
+09:41:37 Aside from that, let me just see if… Yeah, aside from that, I don't think I had any, um, any other notes.
+09:41:45 The… yeah, I don't think there were any issues. That I saw necessarily with the UVs. There's something there, but… wait, is that something that I did?
+09:41:54 Sorry. What is that? That is the…
+09:42:00 Oh, yeah, that's… that's because I cut that off, so that's… that's my bad, that's my fault.
+09:42:05 And… Yeah, you've got a separate material for the eye. This is technically fine, but…
+09:42:13 For a low-poly character, it might not even be necessary. Right, so with… there's always a balance of how many materials slots you actually need.
+09:42:23 Versus, you know, the actual resolution of your textures. If you can fit everything onto one… into one material, um, that's… that's very often completely fine.
+09:42:31 Something I noticed here, which is… which is… which is good to see, is that you've got the front.
+09:42:36 Part of the eye, um, take up a lot more space on the UV map than the back.
+09:42:40 Uh, which is, uh, which, yep, that's, uh, that's a good idea, because… That is just using up… that is just using up texture space that…
+09:42:50 Is never going to be seen, so that's really good. Yeah. Other than that, great job.
+09:42:56 Thank you, and I want to ask about, uh, isn't I need to, like, uh, re… if I want to rework the mesh and the vertex, I will reduce.
+09:43:07 The model here, I rework again with the way painting, or I just delay it and it's fine?
+09:43:14 Um, look, look, look, for this, um, I'd say if you want to… So, um… The mesh itself overall, overall, the mesh is completely fine, it's just, um…
+09:43:26 Uh, it's just a little bit too subdivided, right? That's the only thing. So I don't think it's necessary to completely rework it.
+09:43:32 Right? Now, if, for example, you were actually doing this for a production game, then yes, you might need to… Um, uh, you might need to do a… do a little bit more. However, if you've got, like, let's say an older version of this mesh.
+09:43:46 Right? If you've got an older version before it was subdivided.
+09:43:50 Um, maybe go… maybe have a look at that one, and just delete those extra, sort of, edge loops that you've got, you know, in areas like here.
+09:43:57 And, um… you know, on the shell, like, the different edge loops that you've got over here, and try to use Mean Crease instead.
+09:44:04 Right? Because I think, like, me increase, like, not using me increase is probably the biggest, um, sort of thing that contributes to.
+09:44:10 Having a lot of this extra geometry.
+09:44:18 But yeah, uh, we want to show you a bit about our progress.
+09:44:26 Okay, let me share.
+09:44:24 Yep, sure, I'll show my… I'll stop sharing.
+09:44:44 Nice. Nice, love the emissives, really cool.
+09:44:42 Here's our down goal. Who could use a mission map and point lights, so you can turn it on and off.
+09:44:53 Okay, really cool. Um… Nice.
+09:44:59 And then we have… So, it lacks water.
+09:45:05 Yep.
+09:45:07 And then we have… what do we call it?
+09:45:14 Animation we are coding, so if… it will detect terrains.
+09:45:19 Yep.
+09:45:21 Would move, right? According to the theory. Okay.
+09:45:25 Nice, that's really cool. Yeah, I love it. Love it, great job.
+09:45:30 Kinematics. So, there are… if you can see, there are boxes.
+09:45:30 Awesome. Yeah, yeah, yeah, so it's, um, you're doing… I'm assuming you're doing, like, line traces, and it's just detecting where the ground is, like, under that, um, under that bone. Is that what's happening?
+09:45:43 Yep. Mm-hmm. Yeah, perfect. Yeah, amazing. Great job.
+09:45:44 Okay.
+09:45:52 Uh, thank you very much for your feedback, Gladwell.
+09:45:56 No, no, no, you're welcome. Alright, let me, uh, in that case, let me just share my screen. Sorry.
+09:46:04 Cacious screen… And then… alright. So, next one… next one that I have… okay, um, next… next one that I have is I have the Sugar Glider.
+09:46:14 Now, with the Sugar Glider, I believe that… I don't think the textures came through.
+09:46:19 Uh… wait, sorry. Where was it?
+09:46:25 So I'm assuming it's this one. Um, sorry. This Sugar Glider UV Unwrapped, that's the, um… at least that's the one that I've.
+09:46:38 I think… Uh, yeah, not… yeah, from there.
+09:46:34 Sort of found? Why didn't that open? Oh, wait, that's a 1KB, hold on. Am I…
+09:46:45 Uh, oh yep, yep, sorry, my bad. Folder.
+09:46:58 Okay. Alright, yep, so just on my end, the texters didn't come through, so, um, if the team can later show the textures, that'd be… Uh, that'd be great. Now, let me just have a look at the…
+09:47:09 Sorry, my notes… okay. Firstly, really cute design. I think, um… yeah, I like the sort of enlarged head and, you know, the proportions of everything look really cool.
+09:47:21 So, I think a great job on that. Now, the… notes that I had.
+09:47:28 Overall, in terms of the, um, in terms of the topology, generally, I'd say, um, yeah, this, um, this, this definitely works. Something that I would potentially.
+09:47:40 Uh, change is… you've got, like, this edge loop on the tail, which I would probably… And which kind of goes around the entire… Um, it goes on for, like, quite a while. This is something that I would maybe just remove, because I don't think it's actually…
+09:47:55 Um… I don't think it's giving you a lot of benefit, especially here on the, um, especially here on the hands, so maybe just dissolving that might be an idea.
+09:48:03 Another thing is, with the tail. You've got a lot of these edge loops, but you've got these really sort of angular sort of shapes, so what I would do is just…
+09:48:12 Maybe adjust those, smooth them out a little bit. Just to… just to make the tail a little bit more rounded.
+09:48:18 Right? Um, again, but again, like, it's a… I understand that it could be, like, a stylistic choice, so… That's not… that's not necessarily a, uh, like, a bad thing, per se.
+09:48:30 Now, other thing that I… wanted to mention… yes, another thing that I wanted to mention, so with the… with the animations.
+09:48:40 This is fairly minor, but just something to make it. Um, a little bit more…
+09:48:46 Sorry. Uh, wait, which one was it? Was it this one? Yep.
+09:48:51 Uh, wait, no, I think it was the previous one, this one.
+09:48:56 So, okay, um… I didn't look at references, right? But what kind of stands out to me here with the animation is the back legs.
+09:49:05 Alright, and again, this might be a very minor thing, and to be honest, I might actually be wrong on this, but… Right now, when the character jumps, you've got the back legs kind of folding out.
+09:49:15 That way, right? So they kind of go like that, right?
+09:49:19 Whereas, I think what should be happening is they should be kind of going outwards.
+09:49:24 Instead. Right? Now, again, this just stood out… this stood out to me for, um, when I first saw it, and again, I may be wrong on this, like, maybe when they jumped, that's exactly how they do it.
+09:49:36 But that's just one thing I would potentially have a look at.
+09:49:38 Um, other than that, really cute, uh, jumping animation. I noticed there's sort of, like, a longer animation that you do have.
+09:49:45 Right? Which… you have it sort of gliding, and you've got the tail flying, so that's really cute.
+09:49:52 And… Bit of a jump animation.
+09:49:58 The jump animation, I would probably have it go a little bit higher.
+09:50:01 Right now, because, um… Oh, it's running… oh, right, okay, so this is.
+09:50:02 It's running, I think? Running. Yeah, Larry, it's running in a name.
+09:50:07 Oh, right, sorry, okay, sorry, my bad then. In that case… wait, let me just go timeline… hold on.
+09:50:13 Are we at 20? Let's just limit the. Just limit the timeline to 20.
+09:50:20 Okay, yeah, yeah, yep, so it is a running animation. With this running… with this running animation, um, one thing I would probably do is… You've got the arms extending really, really fast, right? So that's… that's one thing. Maybe just have them…
+09:50:33 Because there's no change, um… kind of in this direction, from frame 0 to frame 5, but then you've got a really sudden jump to frame 10.
+09:50:43 Right? So having them… Uh… wait, are these IK set up? Yep.
+09:50:48 So, having them move a little bit f-. Further forward by frame 5.
+09:50:53 We'll just help smooth it out a bit, and then do sort of the same thing over here, where you see there's very little change on the y-axis from frame 10 to frame 15, but then it goes back to frame 20 really suddenly, so maybe… Moving that… there?
+09:51:09 We'll just help smooth things out a little bit. Sorry, wait, um, what's the interpolation on this?
+09:51:16 Sorry, it might be an interpolation thing. Um, I'm just gonna…
+09:51:26 Do that, and then easing type, let's just go automatic easing. Wait, will that fix it?
+09:51:31 So why does that…
+09:51:40 Okay, why is that not doing its thing? Hold on.
+09:51:50 Yeah, sorry, it's not adjusting. Wait, what am I missing here?
+09:51:57 Okay, um, yeah, so it's not saving, uh, it's not saving on mine. There's probably something I'm missing with the setup of the project.
+09:52:04 Or something, but basically, yeah, that's what I would change. So from frame 0 to frame 5, there's no movement.
+09:52:10 Over here, but then there's very sudden movement to frame 10, so just have the 5 be somewhere in between frame 0 and frame 10.
+09:52:18 Right? Because you see right now, if I jump from 0 to 5, there's basically no difference. And then from frame 10 to frame 20.
+09:52:25 Have 15 be somewhere in the middle, right? So, because right now you see frame 10 and frame 15, they're in the same spot.
+09:52:30 So, have frame 15 be in between frame 10 and frame 20.
+09:52:35 So, somewhere around there. Right? Um, it's just right now, I'm not… it's not saving the, um…
+09:52:41 The IK positions, but hopefully you get what I mean. Alright, um, other than that, other than that, um, yeah, no notes.
+09:52:50 Um, did the team… did the team have any questions? Well, I wanna, um, let's say, share with the, um, with the touches?
+09:53:09 Uh, sorry? Oh. Is the team going to share their screen, or are we moving?
+09:53:20 Okay. Mm-hmm. Nice to meet you.
+09:53:18 Yeah, definitely. Okay, thank you, Gleb. Amy Shop Albani. Assessment, okay.
+09:53:51 Sorry, is the team sharing their screen, or…? Oh, okay, okay, okay.
+09:53:54 Yeah, wait, uh… It's prepared in the script.
+09:53:58 Okay, I've got, um, yeah, I saw in the chat you sent a link to a… Um, to another… zip file, so…
+09:54:07 I'll just unpack that while… What the screen is showing…
+09:54:12 Can you see it? Can you see the screen?
+09:54:17 Uh, my animation.
+09:54:18 Yes, yes I can. Mm-hmm.
+09:54:23 Babe, um… Let's say, uh…
+09:54:36 Nice, Ricket.
+09:55:02 Uh, I'm just using the three key friends, because, uh, for… Looking in unity.
+09:55:10 Right, okay. Yeah, oh, right, all right. Okay, sure.
+09:55:16 Yeah, overall, um, uh, overall looks good. One thing I would do is I would add maybe some movement to the main body.
+09:55:22 Right now, the body is very static, so you only have the legs moving. Maybe have the body sort of, like, you know, maybe bob up and down a little bit.
+09:55:28 While it's moving, um, that might give it a little bit more natural motion.
+09:55:32 But aside from… but aside from that, um, yeah, it's a fairly… Um, with this, you do want a pretty… you probably want a fairly simple walk cycle, so I think that… that's why I think that works.
+09:55:45 And yeah, I can see that you've got… I can see that you've got some textures applied now, so that's really good.
+09:55:54 Do you have anything more to…? Show? Uh…
+09:56:01 Yeah, I think… good.
+09:56:07 Sorry? I didn't catch the last spot. No, no, thank you. Thanks for sharing. All right, let me… alright.
+09:56:10 Yeah, thank you.
+09:56:16 So let's, uh, move on to the… to the next project, so next project…
+09:56:24 Is Sun… sunkanyabird. I don't know if I'm pronouncing that right.
+09:56:30 Some cone bird, um, and…
+09:56:41 Okay, one second… Uh, sorry, let me just.
+09:56:51 Open up the windows, okay. And then… notes…
+09:56:57 Okay, um, yeah, so with this one. First thing, uh, first thing I want to say, um, in terms of the… in terms of the geometry and the topology, really, really good.
+09:57:08 Um, so… This, uh, fairly, um, you know, every… everything is fairly even.
+09:57:13 And… there's enough edge loops to sort of support deformation, so from that standpoint.
+09:57:18 Everything's really good. I think the design's really cute, and you have these… And you have these bits over here as well, which I thought was really cool.
+09:57:25 Um, just a quick question. So, with this, unless I'm missing something, is there a separate rig for these parts?
+09:57:36 Nice metro.
+09:57:33 Hi, Clev. So, my name is Sabrina. Oh, maybe that's my fault, because I just doubt that…
+09:57:43 The task has to be, um… Separate with the body, but… I have other try to do that, so…
+09:57:52 Now I just work for that. I will, uh… make it just one drive, one rick.
+09:57:58 Okay, alright, fair enough, fair enough. Okay, sorry, yeah, because I wasn't sure if I was missing something, but yeah, I did notice that there were, like, there were basically two rigs here. But yeah, if you're joining them up, um…
+09:58:12 You might have some issues joining them up once you've already created animations, but that's… that's not always the case. Um, you need to be careful with, like, what you're parenting to what.
+09:58:21 Um, but yeah, that was just, like I said, sort of a small technical thing that I wanted to, um… Uh, wanted to sort of figure out. So, yeah, like I said, overall, really like the design.
+09:58:32 Now, um, with this as well, it's really cool that that's, um, that's all separate.
+09:58:38 By the way, in terms of separate, um… in terms of separate… Oh, no, you do have separate bones. Okay, so that's fine.
+09:58:46 So in terms of, um… In terms of notes… wait, there was something that I had notes on about the… I think it was about the materials.
+09:58:57 Sorry. So it's Shader Editor…
+09:59:05 Wait, that's the bird. Sorry, I typed in join materials for some reason, I know I can't figure out why I typed that in.
+09:59:16 Okay, um, I think… alright, never mind. So, let me just go through the… Let me just go to the animations…
+09:59:24 And so you've got a… You've got a run cycle? Yeah, this is actually what, um, this is actually one of the things I wanted to find out. So you've got a run cycle, right? But then you've got some extra, um, stuff over here. I'm assuming that's…
+09:59:36 That's a sort of leftover, so I'm guessing that… It's supposed to grow something like this.
+09:59:46 And I'm not looking at that because I understand that there's a separate rig for that at the moment, right? So, yeah, that's, um, uh… so that's really cool. One thing that maybe I would add with this is, um, some more movement. You've got this tail.
+09:59:59 Right? And the fact that it's kind of moving from side to side, that's really cool. Me, personally, I would probably have it, like, move even more, so, like, just, like, more wildly, kind of, like, swing from side to side.
+10:00:08 Because you've got, like, these bits up over here, so it's a very sort of whimsical character. It's, um, you know, it looks like it's… it should be really, really… kind of expressively animated, so I would just add some more…
+10:00:19 Um, I would add a little bit more movement to this. But, um, the overall direction and all of that, I think, is really cool. It's really good.
+10:00:27 Um… Okay, so… wait, with this one, hold on…
+10:00:36 So this is just more of a kind of, like, slow animation.
+10:00:39 With this as well, so, um, you've got a little bit of extra head movement in… from the… from… from this… From frame 10 to frame 14.
+10:00:48 Um, that's just something I would remove, but aside from that.
+10:00:51 What I would do here is, again, just maybe some more expressiveness. So I would add, like, more bobbing up and down, you know, kind of more, uh… just, like, more, I'd say… a bigger range of motion, um, than you have right now. The motion itself is really good, but I would add more of a range.
+10:01:07 Um, jump… Jump, as well, sort of same thing, great direction, I think the animation's really good. Um, one thing that you have really… that is really common, actually, um, when you're starting out animating, you've got the feet sliding back before the jump.
+10:01:22 So that shouldn't… that technically shouldn't happen, but that's a very minor thing.
+10:01:26 And with this, what I would also do is… so you have this… kind of anticipation over here, right, before the jump.
+10:01:32 Again, just like with the… If I can find whichever… whatever the correct sort of rig here is.
+10:01:38 Um, I would even have this, kind of. Go down a lot lower, right, than it is right now, and um…
+10:01:46 You know, just to add a little bit more… kind of a little bit more movement.
+10:01:51 Alright, so just to kind of emphasize. So that's basically my big, uh… that's basically my main, sort of, bit of feedback for all this. Uh, really love it.
+10:01:58 I would emphasize the movement more. That's it. Also, love the, uh, love the hand-painted, um, texturing. Really cool.
+10:02:13 No, they're good, thanks for sharing.
+10:02:10 Okay, thank you, Glad. Is there any question? No? Okay. Thank you, Glev and Jess.
+10:02:22 6 already put the project in… Zoom chat.
+10:02:23 Thanks. Okay.
+10:02:27 Wonderful, thank you, that was… that was great. Really could see this amazing work, and I appreciate, um, Gleb's reflections there on… on how they're progressing.
+10:02:37 That's wonderful, and we'll be meeting with the mentors a little bit later this afternoon.
+10:02:44 Sorry, are we ending now? Or are we going through the rest?
+10:02:42 Yeah.
+10:02:48 Sorry, you've still got… sorry, Glib, I am… I'm, um… cutting off half an hour early. Go ahead.
+10:02:55 Oh, no, no, no, sorry, I thought that I missed something.
+10:02:59 Alright, so, um, we'll move on to the next project, then?
+10:03:01 Yeah, we can move to Group 6, heck?
+10:03:04 Okay, Group 6, alright. Um, uh, yeah, if we've got… so if we've got half an hour, um, so, like, I can… I can go on a little bit longer.
+10:03:12 But, um, just up to you in terms of timing, what works for you, because if we've got just half an hour, we might need to… be a little bit quicker with the… with the… with the next ones.
+10:03:23 I'll just… yeah, we… still have a lot of time.
+10:03:27 Okay, cool. Alright, great. Uh, let me… hold on. So the next is the Hedgehog. So this, um, I haven't seen… I haven't opened this yet, because this is the one that was just sent to me.
+10:03:37 So… okay, alright, here's wrong. Cool. Alright, so looking at… so looking at this, um, first of all, love the design, really, really cute.
+10:03:45 Uh, love the quills as well. Um, I believe the other hedgehog was done with very similar quills as well.
+10:03:50 Alright, so I'm sure the groups are sort of trading secrets, quill secrets.
+10:03:56 Uh, that's good to see. Now. Something immediately that sort of, um…
+10:04:02 Stands out to me. This is a very minor thing, but everything is marked, um… you've got hard edges everywhere.
+10:04:08 Right? So, just shading everything smooth.
+10:04:15 Um, I mean, I'm guessing that this is probably, um, more with more in line with what you wanted.
+10:04:22 Um, so that, yeah, that's the first thing, just shading smooth.
+10:04:26 Right, um, next thing is… let me just have a look at the… geometry here.
+10:04:33 Okay, again, subdivided, um, neatly subdivided, so… I don't think there are any engines here, let me just check.
+10:04:46 Greater than… Nope. Now I'm gone, so that, yeah, um, uh, very nicely sort of modeled.
+10:04:53 And subdivided. So, yeah, no notes on the topology over here.
+10:04:58 I would maybe add a couple more loops to the feet if they deform a lot, but I'm honestly guessing that they probably don't, so that might not be necessary.
+10:05:06 Uh, let me just move this back down… And then let's just have a look. Oh, right, so that's… wait, is that a shape key? Yep, that is a shape key.
+10:05:15 Oh, uh, that's driven by something. Wait, how do you un… There's a way to unpreview this. What is that way?
+10:05:23 Alright, I'll just view it this way, never mind. Um… Okay, alright, so that's what you've done. You've basically got a shape key where these are kind of, um, pushing out.
+10:05:33 Okay, that's cool. Okay, something… something to do with shape keys, this is a technical thing, this is more of a technical thing.
+10:05:40 And, um… when you… when you have, um… when you have an animated character.
+10:05:49 Um, be very careful about creating shape keys before everything is joined together.
+10:05:55 Because sometimes, if you create shape keys, but then join objects together, that can lead to… that can lead to problems. So, it may not lead to a problem here, like, for example, if I merge all this together… And then we just have a look at the shape key.
+10:06:08 Yep, so that's fine here, but sometimes things like that can break.
+10:06:13 Right? So that's just my suggestion, where, um, if you're creating shape keys.
+10:06:18 Especially if you need to do a lot of work on them, make sure you've got your entire model, um, there, like, that is going to be merged into one object.
+10:06:25 Um, before, before you do the shape keys. So, uh, let's just have a look at…
+10:06:32 This… yep, that's fine. So, yeah, I can see these were, sort of.
+10:06:36 Triangulated, but that's completely fine. And then, let's just have a look at the animations…
+10:06:44 So, consume.
+10:06:49 Okay… nice, you've got that kind of moving out to the side, got the butt wiggle, really cool.
+10:06:56 Nice. Uh, let's have a look at the other animations. Curl, what is… oh, right, okay, so it's like a… It's like an actual hedgehog thing.
+10:07:08 Nice, cute. One, uh… so this, he, um, it sticks its head, like, into the ground, basically.
+10:07:13 With this, maybe just have it, like, sort of lift up and then kind of curl more into a ball, um, into itself, but aside from that, that's really cool.
+10:07:20 Um, idle animation…
+10:07:25 Okay, nice, we've got the target, looking around. Yeah, with a little sniffle, that's cool.
+10:07:34 Um… sorry, let me just… timeline… what is that? That's frame 30.
+10:07:40 Wait, that's frame 28, so we need to end at 27.
+10:07:47 Um, yeah, this is just a minor thing, but if you've got a looping animation, you actually want it to… like, if you're previewing it, you want it to end… one frame before the last frame.
+10:07:56 Otherwise, you get a pause at the end. So, if we go frame 28.
+10:08:02 The… like, it's gonna be barely visible, but there's technically gonna be a little bit of a pause there.
+10:08:06 Alright, um, so… Nice.
+10:08:13 Yep, really cute. Sneak…
+10:08:21 With the sneaking, um, with the sneaking, really cool. I would probably, um, have him lower down a little bit, because… If… right now, I don't think there's too much of a difference between walking and sneaking, but with sneaking, you know, like, you're assuming that he's trying to be a little bit more hidden.
+10:08:35 So that's just a small… that's just a very, uh, small thing.
+10:08:37 Uncurl. Okay, so that's just… I'm assuming this is just a reverse of the… curl animation.
+10:08:43 Yep. Okay… And then you've got another walk.
+10:08:48 Put the walk, um, just, uh, just make sure you've got, you've got them tilted.
+10:08:52 So that's just, like, that's a very minor thing, so you just need to… whatever you've got.
+10:08:58 Sorry. Whatever is controlling the main bodies, that… no, not that, not that.
+10:09:04 Um… I don't know if that was tilted, but yeah, you can sort of see… that, um, front paws are higher than the back.
+10:09:12 So it just needs to be, kind of, twisted a little bit. Other than that, um, love the design, really cute.
+10:09:17 Northern Oats. Um, do the team want to share anything, or, um, have any questions?
+10:09:22 Yep, Team 6. Do you have any question, or…?
+10:09:28 Something you want to ask? Press the button.
+10:09:35 Oh, okay, uh… I don't know, I think we're good.
+10:09:40 You good? All good. Well, thanks for sharing, really cute.
+10:09:39 Thank you, Corey. Glenn.
+10:09:46 Um, just look at the eyes. Yeah, really good. All right, um, cool. Alright, in that case, we'll move on to the… move on to the next project. So we've got Team.
+10:09:57 Sneak the hamster.
+10:10:04 Okay, with this one, it actually took me a second to find the hamster.
+10:10:07 Um, so, hold on. Okay, one thing here… And… wait, let me just…
+10:10:19 Uh, hold on… join left. So, one thing that…
+10:10:25 Sort of first thing that I'd want to mention. This, uh… it sometimes matters, it sometimes doesn't, like, um, well, again, it's depending on what this is for.
+10:10:35 But the scale of everything is really, really big, right? So that's just, um, that's just one thing that, uh… that I noticed, that… You know, if we bring in this cube, this is a…
+10:10:47 What Inblender is a… it's a 2 meter queue by default. Yeah, it's in Unreal that is 1 meter. Um… Yeah, so this is a 2 meter cube, so this is, like, an absolutely giant hamster.
+10:10:56 Right? Which, by itself, is not necessarily a problem, it's… but the only issue is that if you then want to, like, let's say take it to an, um… to a game engine, you probably want to… sort of maintain the correct sizing. Or, the alternative is you have to always convert it, um, you have to, like, scale it down or scale it up.
+10:11:14 Uh, when you're taking it into a game engine, right? So, again, it's a minor thing.
+10:11:18 But, um, just something to keep in mind. So, uh, with the… with the environment itself, it's really cool that you've got, like, an entire, sort of, environment actually built out here, and I noticed that you have…
+10:11:31 Sure. That's taking a while to, um… to figure out the shaders.
+10:11:39 Okay. Yeah, so I noticed you also have this, like, waiting cat, which is really cool.
+10:11:46 And… yeah, the environment, really cute that you've got this, um, uh, that you've got this entire sort of, like, environment built out for this.
+10:11:54 Thought that was cute. Now, the hamster itself, let me… Let me just have a look… sorry, let me move…
+10:12:04 Let me just hide everything else, and you've got the rig as well, I believe.
+10:12:11 Okay. The rig… the rig, a little bit more complicated than it needs to be, but I understand that this is a sort of, uh… this is sort of a default one. Um… Okay. So, overall, the design, um, the design of the hamster.
+10:12:26 Very hamstery, so no notes on, like, the actual… Overall design, really cute, um…
+10:12:33 You know, typical sort of, like, cute kind of design. So that's cool. In terms of the topology and what other notes that I had, let me just have a look. Hamster…
+10:12:45 Uh, sorry, there was something about the animations…
+10:12:52 Oh, yeah. Um, with the animation, so at the moment, I'm just seeing… I believe it's just this animation, this sort of, like, sniffing animation.
+10:12:58 Um, unless I'm missing something. There's nothing… there's nothing else that I, um, that I saw, at least.
+10:13:06 Hello, ma'am. And, uh, we used the blender fashion.
+10:13:07 Heck.
+10:13:13 4.5, so there is something hidden here.
+10:13:17 Oh, right, okay, um… Okay, in that case… in that case, let me just, um… I'll just comment on, sort of, like, the topology and geometry, and maybe you can just share your screen, and we'll have a look there.
+10:13:28 Alright, so, let me just see… what did I… Uh, what did I have as notes? Yeah, overall, that's… let me just hide the rig.
+10:13:37 Overall, the geometry, um, like, the topology is… is completely, um, is completely fine.
+10:13:45 Something that, um, again, this is… this is more of a stylistic choice, but… I don't… Um, I don't think that there's too much of a benefit from having, like, the separate clause.
+10:13:58 Right? You can have slightly simpler geometry if you kind of just merge all of that, and, um, you know, it's doubtful how much that will actually be visible.
+10:14:07 On the, uh, you know, in, like, let's say final animations or final models, just having that as sort of, like, more of a mitten kind of thing.
+10:14:14 I think that, uh, I think that could work. Other than that, um…
+10:14:19 With the eyes, you can make them a bit simpler, but that's a very minor thing.
+10:14:24 Right? The UVs as well, I'm not sure if… Uh, yeah, I did have a look at… I did have a look at the…
+10:14:32 Um, at the textures, and… With the textures, the UVs, um…
+10:14:40 This is a… this is… I'd say it's… It's generally a good layout, but…
+10:14:48 There are some sort of things that, um, you could maybe do a little bit.
+10:14:53 Uh, that you could maybe do a little bit differently. One thing is, if you have a… If you have this sort of, like, um… loop of seams.
+10:15:03 Around the… sort of around the eyes.
+10:15:07 Um, you probably would want, then. Just the inside to be black, but not the outside. When you do this, what will happen is you will get this, uh, you will get these kind of visible seams on these edges, and it will be more visible than in other areas. So, like, over here.
+10:15:23 Right? So, especially if this is painted on, I don't think that there's too much of a point to having this sort of thing as a separate edge loop.
+10:15:28 Right? I'll probably just have this… have this be all together. Um, with the ears as well.
+10:15:36 They're… because you don't really have any cuts over here, you've got a lot less, sort of, texture space to work with on the ears.
+10:15:41 Relative to, you know, like, other parts of the body. So you can sort of compare, like, this face over here.
+10:15:48 On the 3D model is roughly the same size as these two, but you see over here, that's, um, that's very small.
+10:15:54 So, you know, just, um, uh, I would potentially adjust that a little bit.
+10:15:59 But, other than that… Um, other than that… Uh… other than that, really cute.
+10:16:07 Very good. So, I don't know if the team wants to share their screen.
+10:16:09 We can have a look.
+10:16:12 Yeah. Yeah, I will also…
+10:16:15 Mm-hmm.
+10:16:54 Yeah, so sorry about me having an older version of Blender. I generally don't update unless I need to…
+10:17:00 Here is some animation idol, and… Uh, we have a lock animation.
+10:17:06 Cool. Sorry, do you mind just, um, hiding the rig itself? Because it's a little bit difficult to just see.
+10:17:15 Yep, cheers.
+10:17:35 So when you're working with the action editor, I generally have, like, the bottom, um, so at the bottom, you have that, um, uh, you have another view. I would potentially just change that to a timeline.
+10:17:45 Unless, unless you're moving in between animations there. Just so you can, like, figure… just so you can change the endpoints, but again, that's just more of a workflow thing.
+10:17:58 Okay, um, yeah, can you show the, uh, yep, Chelsea? Nice.
+10:18:04 No, it's a good range of movement, that's cool.
+10:18:10 Yep, uh, so with this one, it's a little bit… Um… it looks a little bit like stop motion, so maybe have a little bit more smoothness between those frames, especially in the head, like, the head looks like it's just kind of…
+10:18:22 Um, very suddenly going forward, and then suddenly going back. That's, uh… but again, that's…
+10:18:29 That's fairly…
+10:18:37 It's fairly minor. Overall, it's really good.
+10:18:48 And he has a… that he had mentioned.
+10:18:52 Okay. Is that a, um… is that morph targets, or is that bones?
+10:18:59 It… Uh, with the bullets, yeah.
+10:18:59 Sorry, sorry, shaped easel bones.
+10:19:04 Okay, that's what… that's what the bonus. Yeah, fair enough. Yeah, you can do it with other. Cool. Nice.
+10:19:15 So, something… this is just more of a, um… Uh, this is just more of a general note, it's not specific to this.
+10:19:22 But if you're doing, um… so when you're doing all sorts of locomotion animations.
+10:19:27 Right, below commotion, I mean all sorts of movement, so… you know, running, walking, jumping, sneaking, um, etc.
+10:19:34 Uh, if you're doing jumping, if you're doing jumping specifically, it sometimes makes sense if you… especially if you want to put this in a game.
+10:19:40 To have 3 different animations. So, one of them being the start of your jump.
+10:19:45 Right? The next one being a folding animation, and the next one being a… Um, a landing jump. Sorry, a landing animation. So…
+10:19:54 Again, this is not… so what you've done here, what you've done here is really good, but, um, the reason to sometimes have it be three separate animations is, let's say if you jump off a really high.
+10:20:04 Area, right? Like, let's say you jump off, you know, um, like, let's say it's the top, like, this hamster jumps off the top of the staircase, and it flies, like, you know, it falls for, like, let's say 2 seconds, and then it lands.
+10:20:16 Right? You might want to have, like, let's say the start of an animation, and then basically the… Um, while it is still in the air.
+10:20:23 Right? You have a sort of falling animation where it's kind of, you know, flapping its arms or whatever, and then you have a landing animation for when it actually hits the ground. So that is something that's kind of commonly done.
+10:20:31 But that's not really a note for this, it's just a general note, kind of for everyone. If you want to put your… Jumping animations into a game, then, uh, you sometimes do have to break them up into sort of smaller bits.
+10:20:43 Other than that, looks really good. Mm-hmm. Yes.
+10:20:46 Thank you.
+10:20:51 Okay, um, alright, in that case, I'll… Yeah, if you can stop sharing, I'll share my screen as well, we'll move on to…
+10:20:59 The… We've got the guinea pig.
+10:21:02 Let me just open that on my end. Guinea pig…
+10:21:18 Sorry, everything's just loading.
+10:21:35 Sorry, give me one second, just got a bit of a… Belinda's taking its time. Alright, yep.
+10:21:43 Sharing… And then… sorry, just one second…
+10:21:52 Okay, so with this one, again, I don't believe the textures came through.
+10:21:57 Right? Um, I think… Yeah, I don't think that… I don't think that any, um… I don't think the textures came through, came through on this model, but I'll just give my, um, I'll just give my overall…
+10:22:09 Overall thoughts? Oh, yeah, one thing I wanted to mention is with this… with this hedgehog, I did notice, because there were two blend files, there was an environment and the…
+10:22:19 Um, and the actual animation with the blend file. Uh, sorry, with the environment, really cool.
+10:22:25 Really cool environment, love the design. So I think it's because I've got OBS and I'm sharing my screen, and I've got several Blender projects open, it's just being a little bit slow.
+10:22:36 Uh… let me… Turn off face orientation.
+10:22:42 Yeah, so I thought… I thought this was really cool. Um, you know, having the… I'm assuming that finally the guinea pig is gonna be here, and he's gonna be doing some, um…
+10:22:52 Some kind of religious… thing, maybe? Or anti-religious thing?
+10:23:01 Oh, it's a devil guinea pig, so he's gonna burn down the church. Alright.
+10:22:56 It's, uh… Yeah, it's a difficult guinea pig, so…
+10:23:03 Yeah…
+10:23:05 Nice, alright. Um, I'm just, you know, just… I'm guessing at a certain point, the cross is just gonna go like that, or something.
+10:23:12 Right? Uh, just turn upside down once the guinea pig appears. But yeah, um, really cool, uh, really cool design of the environment.
+10:23:20 Alright, so with the… with the actual… With the actual guinea pig.
+10:23:27 So, overall, the… in terms of the geometry. Oops, sorry.
+10:23:33 So, in terms of the actual geometry, um, in terms of the actual geometry, pretty good. I would probably add a few more.
+10:23:40 Edge loops over here, so you generally want to keep things fairly even.
+10:23:44 Right? Um, something else that you could do, as well is, you know.
+10:23:48 Again, depending on how much this is actually… Oh, that's going down the bottom.
+10:23:53 Depending on how much this is. Deforming, you know, just kind of sliding…
+10:23:59 That edge a little bit back. Right, could make things… it could sort of help even… even things out a little bit, right?
+10:24:06 Uh, other than that, um, I remember… I remember last time that I saw.
+10:24:11 The submissions, um… you guys were doing the… you guys were doing the horns.
+10:24:15 So, this part over here could probably be adjusted somewhat. Now, again, I'd have to look at this sort of animations that you're doing.
+10:24:23 But maybe sort of having a… Maybe having a loop there.
+10:24:28 And then having another edge loop kind of go from this, sort of in this direction, if that sort of makes sense, uh, might just fix a few of these sort of, um… shading issues over here. So when you have these really thin triangles.
+10:24:41 Like this. They sometimes lead to the shading looking a little bit weird, right? But again, that's a fairly minor thing.
+10:24:49 Now, something else… something else? So you've got the… you've got basically these holes, um, in the, uh, like, in the eyes, and I do understand that.
+10:24:59 You've got the eyelids and the eyes covering them, but… me, personally, I would probably close these up, just in case, you know, there's some movement and, like, light starts shining through or something.
+10:25:09 Because it's a very minor thing, it doesn't need to be UV unwrapped properly or anything, but… Um, I would probably do that.
+10:25:16 Now, uh… let's see, wait, what else, what else was there?
+10:25:23 Yeah, okay, the next is to do more with the… The next is to do more with the weights. So, what I noticed is with the weights, there are… there are some issues. So if we have a look at the…
+10:25:35 If we have a look at the animations, right, the main issue with the weights right now is down here at the bottom, because.
+10:25:42 So, if we… look at the white painting, right? If you look at the actual stomach area.
+10:25:52 I'm just gonna cycle through all of these.
+10:25:58 So the stomach area doesn't appear anywhere, so what that means is, and, like, this is how I noticed.
+10:26:04 Is… If we lift this guy up…
+10:26:09 Right? You've got the stomach and, like, the chest sort of left there.
+10:26:12 Right? So, just make sure that everything is, um, everything is weight painted.
+10:26:17 Right? Because by default, if you don't assign weights to something, um, I'm guessing that this was probably also manually weight painted.
+10:26:24 Maybe? Um, but if it was, just make sure to… that everything at least has some influence, because if it has zero influence by any bone, then it will just kind of stay in its place.
+10:26:35 Like so, and you get this really kind of… I mean, it does fit the idea of a devil… Um, hamster even more, but still.
+10:26:43 Okay, so that's one thing. Now… whatever. Sir, wait, we have…
+10:26:53 Okay. Yes, this is the other thing that I wanted to mention. So, with the walking animation.
+10:26:59 Um, also with these, I'm not 100% sure which of these is the correct one.
+10:27:04 Um, walking for… walking 3, let me just check that one.
+10:27:15 Okay, I'm just gonna go… I'm just gonna go zero walking.
+10:27:20 Alright. So, with this, this is also, um, this is also something that people do fairly commonly.
+10:27:25 So, if you have a look at the head, and how it's kind of moving up and down throughout this animation.
+10:27:30 Right? You'll notice that, okay, we've got… step, and then…
+10:27:37 Step… so, you've got… Like, if we have a look at, for example, this leg.
+10:27:42 Right? It moves forward, and then it moves back. From frame 0 to frame 12.
+10:27:47 Right? But within the, um… But within that time, the head basically moves up and then moves down.
+10:27:57 Right? So, if you have this, um, if you have a look at walk cycles, and… Let me just go walk cycle.
+10:28:04 Don't mind turned on.
+10:28:09 Alright, so if you have a look at a walk cycle.
+10:28:12 Um, generally, you have, like, this kind of movement up and down, like, you know, of the torso and the head, right? The thing is that that happens in between every step.
+10:28:20 Right? So, what you've got at the moment is you've got it every, sort of.
+10:28:26 You know, it goes… the head goes up. On one step, and down on the next one. And this kind of makes it look as though it's not working properly, like, you know, maybe one of its legs is hurt.
+10:28:35 Right? So what you generally want to do instead is actually have it kind of move up in between every step, right?
+10:28:42 Um, wait, is it this one? Which… which one is actually…
+10:28:49 So, if I… go, for example… so you see how the head's moving up?
+10:28:56 Here, but then down here. Uh, let me just see…
+10:29:06 So we've got a rig as well. Um, I think, like.
+10:29:09 Wait, or is that what's moving? Oh, yeah, that is what's moving.
+10:29:15 So, what I would do is… I would just copy its position.
+10:29:20 From here, where is the…
+10:29:28 So that's the spine IK.
+10:29:36 So, what I would do is I would actually have it bob, go up in between these frames, like so.
+10:29:42 So, more like this.
+10:29:51 So you see where it kind of goes up and down in between every step, as opposed to every second step, if that sort of makes sense.
+10:29:56 Now, um, okay, I understand it's kind of lopsided now, but if you look at it from the side.
+10:30:02 Hopefully you can see, sort of, what I mean. So this would actually be more, um, kind of more regular. But yeah, the main thing here is just fixing the…
+10:30:12 Fixing the weights on the bottom, because right now, if we have a look at the weights over here.
+10:30:17 So there were some issues over there as well. Sorry, let me just…
+10:30:24 Find it. Yeah, so, like, for example, over there, the forearm, you see how that's, like, affecting this very weirdly? You generally want a very smooth transition.
+10:30:34 Yeah, okay. Other than that, really cool. Um, did the team want to share anything?
+10:30:39 Okay, so, uh, actually. Uh, I've been working on the animation.
+10:30:47 Nice. Yeah, uh, yeah, yeah, it's a little bit quiet, but yes, I can hear.
+10:30:47 Can you hear the voice? I think you need to speak louder. Oh, okay.
+10:30:56 So, uh, I've been working on my… Uh, can you imagine lately?
+10:31:02 All right. Yeah, sure, let's see.
+10:31:03 Maybe I will show my English on…
+10:31:16 Like, dude, I don't know.
+10:31:25 Okay, hold on, let me just… wait, let me just move this onto my other screen, because I'm recording.
+10:31:32 Cool. Yeah, that looks, um, that looks better. So, um, still though, what I would maybe do is, because right now you've basically got him… so what's happening is, you know, he steps on his right front right foot.
+10:31:45 And he looks to the left, and then he steps on his left front foot, and he looks to the… and he looks to the right.
+10:31:51 Right? So, um, it's… It's not… it's not bad. What I would maybe do is, I would maybe have more, like, kind of body movement from side to side, but have the…
+10:32:02 Head kind of looking more straight, right? It might just give it a little bit more directionality, because it now kind of looks like he's constantly moving from, like, kind of looking from side to side.
+10:32:10 Right? But again, that's a very minor thing. Overall, it looks really good.
+10:32:18 I need 3 muscle one. Sure. Like, I mean.
+10:32:23 Sorry, say again, please?
+10:32:24 Yeah, their team will show the second environment. The first one is charts, I think the… Yeah.
+10:32:30 Oh, there's a second environment, okay, yeah, sure, sure, totally.
+10:32:42 So it's probably gonna look like…
+10:32:44 Oh, nice. Is the… is the church going to transform into this, or…?
+10:32:48 How does that work?
+10:32:52 It's… We're gonna have, uh, two different… environment, but an opposite environment.
+10:32:58 Okay, right. Nice. Isn't that really cool? You should, um… add some, um… maybe add, like, some flame, sort of like flipbooks and stuff like that on the background.
+10:33:11 And I'd just like to… just to sell the scene even more.
+10:33:14 That'll look really cool. Yeah, really cool, really cool environment.
+10:33:21 Is there anything you want to ask ourselves?
+10:33:28 All good? All good, all good. Okay, thank you.
+10:33:30 Awesome. Thanks for sharing. That's really cool.
+10:33:33 Thank you, Team 8. No, I think we can move in 9.
+10:33:36 Okay. Alright. Sure, let's do it. Alright, so…
+10:33:42 It will stop salespeople? Thank you.
+10:33:47 Okay, so I'm just gonna share, and… We've got…
+10:33:53 Alright, team 9… Team 9, it's…
+10:33:59 A hedgehog as well… sorry, hold on, let me just… Because there's a… There's a whole set of folders.
+10:34:09 Okay, yeah, so I believe this is what I got. I don't think I got the… I don't think I got the textures with it.
+10:34:17 Unless I'm… unless I'm mistaken.
+10:34:17 Yeah, that is a texture for…
+10:34:24 One sec… Yeah, because there's base body material, but yeah, I don't think… I don't think… I don't think that was…
+10:34:33 Packaged in… Sorry, unless I'm missing something.
+10:34:37 Yeah, I think they can share… share screen later.
+10:34:41 Okay, alright, yeah, sure. In that case, um, yeah, we'll focus on the taxes, just look at… I'll just look at the topology and the, um… I believe there were some animations here as well.
+10:34:49 So… sorry, let me just put up my notes… Okay, so first of all, in terms of the design, really cute design, love the eyes.
+10:35:00 Um, yeah, so I noticed both teams with the Hedgehogs. Did the same thing with the, um, did the same things with the quills, so that's really cool. Um, oh, and you guys also have a… yeah, you also have a morph target. Alright, I didn't notice that when I was looking at this.
+10:35:14 Alright, so we also have a morph target, that's cool. Um, with the morph target, sorry, with the shape key.
+10:35:19 I would probably move it a little bit more. Like, right now, it's very, very slight.
+10:35:23 So, I would maybe. Um, I would maybe exaggerate that movement by quite a bit.
+10:35:29 But, um… but yeah, that's, uh, that is a really good approach. So, another thing that I noticed on this… on this character as well, and again, this is an extremely easy… easy fix, but just in case, um, you don't notice, you've got… a lot of, um… you've got a lot of these random, sort of, hard edges.
+10:35:48 Right? So, like, for example, over here and over here, which… Um, I'm guessing probably shouldn't be… shouldn't be hard. You've got this as well, which, um, I understand, like, maybe some of these…
+10:35:59 Some of these were deliberate, but, like, with some of these, like, for example, those I doubt it, so… With that, you know, just shading everything smooth and…
+10:36:08 Um, oh, wait, one sec, have you got it as a…
+10:36:14 Nope, just shade smooth. Yep, shade smooth, and…
+10:36:20 Just removing the sharps. Now, I understand there might be some shop, um, faces that you want to keep.
+10:36:27 Right? But, um, some of the… some of these, like, for example, these ones, they look a little bit random. So that's just one thing.
+10:36:34 Other than that, let's see, what did I… what did I put in?
+10:36:40 Um… Sorry, that's my notes. Yeah, another thing, you've got these really close edge loops.
+10:36:46 Right over here. This is also something I would, uh, I would prefer to sort of change, so try to move… try to keep everything roughly the same.
+10:36:54 In terms of the, you know, the size of the faces and the topology and all that, you could probably do just, like, some edge creasing.
+10:37:00 Sorry, just some edge sliding, where you just double-tap G, uh, white is… sorry, symmetry's turned on.
+10:37:07 Where you just double-tap G and kind of just move them… around a little bit, that might sort of fix it, but then…
+10:37:13 Over here at the end, you've got a few… you've got quite a few of these edge loops, which you probably don't need.
+10:37:19 Right, so I will just remove the extra edge loops that you have around this area, because it might just lead to, um, just extra complexity when animating.
+10:37:27 But, again, that's… that's also… that's also reasonably minor. Um, aside from that, what are… what other…
+10:37:36 What other notes did I have? Wait, let's just have a look at the animations.
+10:37:42 Um… where is the… Rig… Change this to a dope sheet Action Editor.
+10:37:52 Okay, sorry, let me just…
+10:37:58 Got a timeline… Okay, so… wait, let me just…
+10:38:05 Yep, so this was an idle animation, I believe. Uh, like the animation, really cute.
+10:38:12 So, you know, small, cute movements, that's really good. Let's just have a look at the others.
+10:38:16 Okay, that's nothing… And then pupils actions, I'm assuming that's nothing. So I'm… at least for now, I'm guessing that this is the…
+10:38:23 That this is the only animation. But, um, with this animation, yeah, really cute. Now, something I've noticed in the animation is if you have a look at this, um… this bit over here, you see how much that's sort of moving around?
+10:38:36 Again, that's more of a weight issue, so it's… this is what I kind of mentioned about the… the sort of porcupine quills and this sort of stuff. You sometimes need to be a bit more careful with the weights.
+10:38:44 Because I'm sure that if we look at the weights right now.
+10:38:48 The weights for this object are going to be very different from some of these other ones, so… Let's just see… yeah, so for example, that is completely controlled by the pelvis.
+10:38:57 Right? And… but then… You have this one over here.
+10:39:03 Which is fully controlled by… by what? What is that controlled by?
+10:39:08 Okay, that's fully controlled by the spine bone. And so, you notice how that's, uh, like, it just leads to some, uh, to slightly… Um, strange animation stuff, where…
+10:39:18 You've got these two, sort of, quills, and they're located… or, like, groups of quills, and they're basically in the same spot.
+10:39:24 But one of them is controlled completely by one bone, and the other one's controlled completely by… by another. And so then, when you look at the animations, that's why they kind of move around relative to each other so much.
+10:39:35 Right, so that's just something you might want to have a look at. You might want to do a sort of blend of influence in terms of bones.
+10:39:41 So, for example, with this one… So, with that one, that one is controlled.
+10:39:49 Fully by bone pelvis. Maybe what we can do is we can… Uh… Hold on, where are the… where are the controls for the, um, for the assignments?
+10:40:00 Uh, let's just go to Edit Mode. So maybe this can be assigned a weight of… I don't know. Maybe, like, 0.6 or something?
+10:40:09 Let's just go 0.6, let's just see if this works. Assign.
+10:40:14 Right? And then, if you select… what is it, bone spine… Maybe assign a value of 0.4?
+10:40:22 Assign. And now they'll… be sort of less… like, less of that range of movement than you had before. Like, it's a little bit less, so maybe you'd want to do more of a…
+10:40:33 More of a difference, like, for example, Gore… I don't know, point for, uh… you know, 0.5 here, and then also 0.5 on the pelvis, right? Just play around with it.
+10:40:44 But, um, yeah, that's just something that I would do to maybe, like, fix.
+10:40:48 Those things kind of moving completely out of sync. But yeah, other than that, did the team want to share something, or…?
+10:40:56 Um, good morning, sir? Hi.
+10:41:01 Nice to meet you.
+10:40:58 Thank you for inviting me. And the tips is very helpful. I don't actually have a question, because it's already answered by your review, and…
+10:41:09 Maybe I'll just gonna share my screen to show you the texture.
+10:41:12 Sure, that's good. What was your question that was already answered?
+10:41:20 Like, the movement.
+10:41:23 Oh, yeah, yeah, yeah. Yeah, so it's just that, so if you have a look at the… Um, yeah, with these, it's a little bit tricky. It's just, um… wait, let's just…
+10:41:31 Let's just select everything. So… When you have situations like this, where this is going to be completely influenced by one bone, but then…
+10:41:42 Um, these are going to be completely influenced by another bone.
+10:41:45 You just want to make sure they're at least far enough away from each other that it looks natural. So that's why over here it looks very, um… why over here it's very noticeable, because these are basically both kind of growing from the… basically the same place, right? So if they were sort of further apart from each other, then I think that wouldn't be as noticeable.
+10:42:10 That's a real… I realized I'm not sharing my screen anymore, but, um, yeah.
+10:42:19 Wait…
+10:42:29 But she's preparing herself.
+10:42:30 All good.
+10:42:36 Thank you, I appreciate that. So, if, uh, the character in the environment also, we meet the environment directly and utility, so…
+10:42:46 It's like…
+10:42:46 Nice, I really like the style of the environment, the, uh, like, you've got that sort of, like, dreamy kind of, like, bloom look, which is, uh, which is really cool.
+10:42:54 Yeah, because their heads… their team… team is Magical Forest, so that's why there is…
+10:43:02 A lot of… something like that.
+10:43:02 Yeah, and you immediately get that sort of, like, magical kind of forest vibe, so that's really cool.
+10:43:09 I like the, um… you've also… I can see you've got, like, a Fresnel effect on the, um, on the hedgehog at the top, so that, like, sort of outline.
+10:43:15 That shima, that's really cool, I think that really adds to the, uh, kind of magical effect.
+10:43:19 It's really cool. Yeah, I like the, um, uh, yeah, from what I can see from here.
+10:43:26 I think, yeah, really good, um, really good idea with the textures. It's simple.
+10:43:31 Um, and that's exactly what you want here. You don't want, um, overly complicated or detailed textures. I think this is really good.
+10:43:37 Yeah, uh, like, consistency is, um, is really important, and I think, like, this character looks like it really fits in that environment.
+10:43:44 Which… which that's perfect.
+10:43:49 I don't know English, actually.
+10:43:53 Sure.
+10:43:56 And there's, like, sneaky brown. And then…
+10:43:59 Nice. So, something, um, also something I'll mention in terms of the idle animation, again, this is a very minor point.
+10:44:08 But, if I'm, for example, looking at the sidele animation, what I think… what I see is this hedgehog is nodding, like, it's agreeing with something.
+10:44:15 Right, kind of like saying yes. So that's not a problem in itself, it's just, um… it's just that… it might sort of… something like that may communicate to the player that this is an animation for actually agreeing or, like, saying yes to something.
+10:44:28 Very, very small thing.
+10:44:34 Mm-hmm.
+10:44:44 So with this, um, okay, with the walk animation, I'd say with the walk animation, it doesn't look like.
+10:44:49 It's walking, it looks like it's just kind of standing in place, but kind of… you know, um, doing movements with his feet.
+10:44:56 So, with the walk animation, um, you probably want… you want some more actual sliding, right? So you want the foot to kind of go down and slide back, and then go up.
+10:45:05 Go down and slide back, go up, go forward, go down, slide back, and so forth.
+10:45:09 Now, for this character, because the feet are so small. I don't think it's gonna make a colossal difference, so, you know, for this, I think this actually could… this may very well be fine.
+10:45:19 Especially if you're mainly looking at this character, like, from the top.
+10:45:22 Um, but just something to keep in mind, where you probably want that sliding back. Otherwise, right now, it looks like it's just standing in place.
+10:45:29 But the animation itself is very cute.
+10:45:37 I haven't, uh, put it. I'm here, so, yeah.
+10:45:42 Yeah, with the spines, I think, yeah, going with a morph target, sorry, with a shape key, yeah, it's good. I would just add a bit more movement, because right now it's very, very… Um, it's very barely noticeable.
+10:45:54 Well, actually, there's a reason to it, because our character is, like, an explorer.
+10:45:59 True.
+10:46:00 Okay, that's hot. It's mentally fairly scaffold animals, so in our chiropractic, it's more like a brave character. Therefore, that is why.
+10:46:13 He doesn't be like, um… move, uh, a lot.
+10:46:13 Okay.
+10:46:18 Okay, no, no, sure, that makes sense. Like, if it's just, like, you know, it's more, like, showing that it's, like, slightly worried or something.
+10:46:25 Um, as opposed to aggressive, yeah, I think that's, uh… That could be fine. Just as long as it's, like, visible when it's happening.
+10:46:32 Thank you very much, Lance.
+10:46:33 Oh, thank you. Really cute. Alright, so in that case, I think we've got, um, I think we've got one more project.
+10:46:41 Yep. Good.
+10:46:41 To go. It's the, uh, the Zeus Chicken? The chicken of Zeus.
+10:46:48 Yep, the, uh…
+10:46:52 Actually send you, uh, the dispositions. Of the sea's chickens.
+10:47:00 Sorry, what, you want to send an update?
+10:47:02 Yeah, I actually sent you an update. On your personal organization, private music.
+10:47:07 Oh, uh, let me… give me a second, let me just check quickly.
+10:47:12 Sorry, um, personal, you mean, um, what, you mean to the email, or here in the chat?
+10:47:19 Um, the private Zoom chat.
+10:47:20 Oh, a private Zoom chat. Okay, sorry, actually, hold on, I don't use Zoom that often. I need to have a look.
+10:47:26 I think if you open the chat, there is, uh… new people.
+10:47:32 Kind of similar to what… with the… These are 10 to them.
+10:47:35 Oh, yep, yep, yep, yep. Okay. Sorry, yeah, yeah, I see that now. Give me one second…
+10:47:41 Elisa.
+10:47:44 Yep. Just one second, um, so this is the updated, um, version of the… sorry, let me just… let me just download them while…
+10:47:52 While I'm… Waiting? Okay, Zeus chicken…
+10:47:58 Sorry, I'll just chuck that into a folder.
+10:48:01 Well, more dying chickens, uh… The wings, it pulls something.
+10:48:06 Uh, they will awkwardly…
+10:48:09 Uh, with the, uh, they pulled, uh, like, uh, moving with the Bones, you mean?
+10:48:13 Um, wait, let me just see, we've changed the idle movement works on the walk and feed cycles… loop smoother, and figure out how to make the walk jump… working on the texture.
+10:48:25 Make it feel more stylized without looking tacky.
+10:48:32 Okay, um, let me just open it, and then I'll… and then I'll, um… I'll go through your questions.
+10:48:41 Okay, so there are… Let me see, so we've got two… two files. You've got character and environment.
+10:48:48 Um, character and environment final? Is that the one I should look at?
+10:48:54 Um, the one with… character animation is actually, and she can sister…
+10:49:02 Any meeting there? But the environment?
+10:49:07 Wait, sorry, so not this one, the other one?
+10:49:10 Uh, no, the animation actually on the… she can's sister file.
+10:49:16 So…
+10:49:16 Oh, right, yep. Yep, gotcha.
+10:49:35 Um, actually, while that's loading, um, wait, let me just have a look at the… At the actual environment. Okay, so there's a world texture, but it's not loaded, so wait, let me just remove that.
+10:49:45 Um… Yeah, that HDR file, I don't think that's… That's there.
+10:49:53 Sorry. Uh…
+10:49:58 Okay, so you've got a son… yeah, sorry, it's just the texture's not showing up.
+10:50:02 So, you had a question about the environment. You said, aiming for something more ethereal and Olympus-like, giving it more of a fairytale quality instead of just a Greek-style pavilion.
+10:50:10 Best way to make the day and night ambiences feel relatively contrasting. So, look, um, if we're going, like, really simple, kind of, like, cheap ways to make them feel contrasting, and you want more of an ethereal look.
+10:50:19 So, um, I know you had a HDRI here somewhere, it's just that it didn't come with the scene, which had, like, a starry night.
+10:50:26 Um, that's good. The sun itself, or, like, the light, yes, have that a little bit more blue.
+10:50:31 So, right now, that's red, so that's not gonna do exactly what you want. So having, like, a colder light.
+10:50:37 That's one thing. Something else that, um, I would maybe do is, if you have, you know, this is like a Greek pavilion.
+10:50:44 Right? And you think… like, if I'm thinking, you know, like, kind of Mount Olympus, like, at night, Greek pavilion, I'm imagining, like, you know, fires on top… on tops of columns.
+10:50:52 Right? So that's something that I would add. Maybe at least, like, some lights that, um, that sort of imitate fire.
+10:50:58 Um, you know, somewhere… somewhere around the scene, I think that would do it.
+10:51:02 Another thing that you can do is just add some fog, right? Like, sort of like, you know, some mist at night.
+10:51:07 Um, you know, to get that kind of more ethereal look. Now, in terms of mist, the way that you… okay, um, also, you're gonna have to excuse me, I haven't done this in actual years, so I might… Completely screw up in terms of how to do this.
+10:51:20 But, I believe you need to create a… Wait, what are we in? Um…
+10:51:29 So, you need to create a shape, and then the material needs to be a… Uh, what is it? It needs to be a volume scatter material, I believe.
+10:51:41 Like, I never do… I never actually do any rendering inside Blender, so this is, like, my, um… my… uh… my worst, sort of, skill.
+10:51:52 Okay, yeah, you do that, and then… That, yeah, that's basically it. Okay.
+10:51:57 So, yeah, if you want to add some fog, this is a cheap way to add fog.
+10:52:00 Right? So, again, I'll just go through that sort of process again.
+10:52:03 You add a shape, right? I'll just add a cube for now, over here.
+10:52:09 Right? Um, create a new material? And then with the material, you change it from a principled BSDF to a volume scatter.
+10:52:17 Right? Now, a weird thing here is that you actually, by default, this material is set up wrong.
+10:52:23 Right? So you need to change it from… Uh, you need to change the output from surface to volume.
+10:52:29 Right? And that basically gives you… fog, right? You just… you adjust the density.
+10:52:34 But, um, yeah, that's basically how you do it. So if you want to add, like, again.
+10:52:40 Something reasonably simple. But which adds that sort of, you know, dreamlike…
+10:52:48 Effect, then I would just… I would just do something like this.
+10:52:51 Right? Again, you probably want to play around with the lighting and environment and all of that, but… Yeah, that's, uh, that's one thing that I would do.
+10:52:59 Other than that, with this environment, what I saw, I actually really like the design of, like, all of the props. Like, I think the clouds that you've done and… the stars, the moon, like, the sort of the low-poly tree. I think these are all actually really, really cool.
+10:53:11 So, um, you know, very consistent style, and I think that's absolutely great. I probably wouldn't have the world be… have hard edges, so I would shade that smooth.
+10:53:22 Right? But I probably also wouldn't have it be kind of reflective or shiny, so I would have the… I would lower the… I would… I would up the roughness, because… Um, yeah, with low roughness, it just looks a little bit strange.
+10:53:34 But yeah, the environment itself looks really good. Let me move on to the chicken.
+10:53:41 Um, okay, so chicken… Okay, so I'm assuming… hold on, I don't think the text just came through…
+10:53:50 On this one… So, shader editor…
+10:53:56 Yeah, I don't think they came through. But, let me just talk about the overall design.
+10:54:07 Yeah, I think the texture didn't come true.
+10:54:11 Yeah, no, no, no, it's all good. Like, I think, uh, yeah… We can have a look at the geometry first.
+10:54:17 So, geometry, overall, the, like, the structure of the geometry is fine.
+10:54:22 But it is very, very subdivided, so there's, um, there's probably a lot more geometry here than you actually need.
+10:54:28 So right now, it's… Um… let's go statistics.
+10:54:33 Yeah, so right now you've got, um… Yeah, so, like, 12,000 faces on this. I'd say that's way too much.
+10:54:39 For something like this, you can subdivide it by quite a lot, and it would still sort of keep its overall shape.
+10:54:43 So just to sort of demonstrate that, if we take… just this mesh.
+10:54:49 Right? Which, that now looks horrifying. But if we just go…
+10:54:55 Let's remove that. If we go decimate… Uh, where's that? Generate, decimate.
+10:55:01 So decimate is the opposite of subdivision… subdivision surface, so it basically… takes your mesh and makes it less complicated.
+10:55:08 But it is, um… it can sometimes break things, so I wouldn't recommend… So you'd need to kind of use it more carefully.
+10:55:15 But right now, we've got 12,000… Um, 12,000… 6,000 faces.
+10:55:25 Right? Um, and if we just look at the actual geometry itself, we don't look at the textures.
+10:55:30 Right? This is what we had initially. Right? Um…
+10:55:36 You know, I wouldn't subdivide it this much. But… subdividing it this much, like, this is completely fine, and this is already, like, one quarter.
+10:55:46 This is one quarter of the amount of faces you had before.
+10:55:48 Right, so it's just to say that I would make it a little bit.
+10:55:53 A little bit simpler. Um, just in terms of the subdivisions.
+10:55:59 Another thing I noticed, uh, with the feet, like, same sort of thing over here. I understand that you were sub-D modeling, but… I think with this one… this is my personal preference. I probably wouldn't put in, like, these parts.
+10:56:12 Over here, like, these sort of claws. Um, just because they're really small and they… you know, you've got this really kind of big, fat chicken.
+10:56:20 And you've got really big, sort of, details on everything. You've got, like, you know, these wings… Um, the tail, um, you know, every… everything is kind of really enlarged, but then you've got these really tiny.
+10:56:32 Claws on the bottom. So it just, like, to me, that looks a little bit strange. I would probably remove those sooner, just have it sort of end… Um… kind of there, but, like, keeping it sharp, if that sort of makes sense. But again, that's my personal preference.
+10:56:45 And I would cut it down, because right now you've got a lot of… Um, you've got a lot of geometry here, which is…
+10:56:53 Probably not as necessary. Um, other than that, let's just have a look at the…
+10:56:59 Uh, let's just have a look at the animations. And the deformation, so… Just gonna go Dirt Sheet…
+10:57:07 Okay, so we've got that, and then what's this? That's a timeline.
+10:57:20 Um, feed animation is really cool. I would add a little bit of movement to the wings. Right now, they're just, like, they're kind of robotic, where they just move into position, and then they move back.
+10:57:28 So, you know, having them maybe, like, flap a little bit while it's moving will make it feel a tiny bit less robotic.
+10:57:33 But, um, the movement, sort of, of the head. Um, and the tail, it's really good. So, you know, it's very, very clear, like, what…
+10:57:41 What the chicken is actually doing, right? Um… Let's have a look… let's keep going. Foot action, what's foot action, foot action. It's an empty one.
+10:57:51 Walk.
+10:57:56 Okay, so with this, um, uh, you have the same… you have the same sort of thing happening with the walk animation as the previous team with the hedgehog, where it doesn't necessarily look like it's actually walking, it looks like it's just lifting its feet and putting them down.
+10:58:10 Right? And, um, again, sort of the reason for that is… what you want is, you want the foot to actually slide back, right? So, if you take…
+10:58:19 Actual movement, right? You know, the foot… Okay, let me just grab that. So the foot kind of, you know, moves forward, and then it slides back and moves forward.
+10:58:27 And kind of does this motion. Right? So, what you've got right now, where it just kind of lifts up and kind of rotates, it doesn't necessarily look like walking, it just looks like it's lifting its leg up and putting it down again.
+10:58:37 Right, so, you know, um… I'm just… sorry, I'm gonna break your animations for a second, but…
+10:58:44 Uh, let's just go… So I'm gonna… I'm gonna do this very, very roughly.
+10:58:52 But from here…
+10:58:57 Oh, sorry, I need to do this in a different one. Alright, well, but yeah, basically what I showed, where you basically have it.
+10:59:04 Go up, then down, then slide back, and then do this sort of a loop like that. So this is more kind of how.
+10:59:10 The walk animation should go, right? And then at the end, you probably want it to… kind of get on its, sort of, toes.
+10:59:18 But… not without that one. But yeah, that's basically it. Um, let me just have a look at any other animations here.
+10:59:26 Um, idle. Let's have a look at the idle animation.
+10:59:33 Um, oh, wait. There we go, let's just see. So, idle animation… okay, sort of just looking around…
+10:59:42 Yep. Yeah, that's fine. Like, you probably want it to be a little bit longer, otherwise you're gonna have an issue where it just looks like it's constantly saying no.
+10:59:49 On a loop, but, um… Yeah, other than that, looks really good.
+10:59:55 Um, with, uh, with idle animations, generally what I found is more useful is.
+11:00:00 You have, like, um… again, this is usually for more complex characters, but you'd have a few, sort of.
+11:00:06 Long idle animations, right? Sort of just, like, standing around, kind of not doing much.
+11:00:11 But then you have some shorter idle animations, like, you know, like, hey, I'm gonna, like, scratch my head, or I'm gonna, like, look at my watch, or I'm going to, you know, kind of just, like.
+11:00:19 Stretch, or something, right? And you have an idle animation play, and it can be one of the long ones, and then you randomly choose one of the shorter idle animations. That gets played through.
+11:00:29 And then another random longer animation gets played through. So, you know, um, you can also kind of merge these up.
+11:00:35 It's not necessarily that you have to do it with this, I'm just saying that as general tips. Oh, uh, last thing as well, um, everything is, um, everything is… has hot edges, so you probably want that to be… Uh, smoothed.
+11:00:48 Smoothed out. And with this one. Hold on. Should it smooth? Yeah, you probably want to get rid of the hard edges, because I don't think they make too much sense here.
+11:00:58 Uh, well, you might want to keep the hot edges sort of just around… like, these loops over here.
+11:01:04 Right? These are probably the only ones that you want to keep.
+11:01:07 Yeah. Um… Yeah, so that's just gonna be visible over here.
+11:01:13 Okay. Alright, um, but yeah, did the team, uh, have any questions?
+11:01:19 Well, I want to discuss something? Mm-hmm.
+11:01:21 That is the one question. Are doing the waves, uh… They kind of hold.
+11:01:29 Like, awkwardly. I don't know.
+11:01:32 The wings, you mean?
+11:01:33 Yeah, it looks so…
+11:01:36 So, let me just see. Uh, let me… wait, let's just see. So, if we go clear… transform all.
+11:01:44 Let me just have a look. Sir…
+11:01:50 So if we go have a look at the wings…
+11:01:57 Okay, hold on, you've got a lot of weights.
+11:02:04 Okay, um, my suggestion? Remove 90% of the bones in the wings.
+11:02:10 Like, honestly, you probably don't need this many bones. That would be… that would be probably the main thing, because if you…
+11:02:17 Yeah, let me just have a look at the skeleton again.
+11:02:22 Wait, uh… oh, wait, wait, wait, you have done that, hold on, sorry.
+11:02:22 Actually, my…
+11:02:26 So we've got Wing L, wing 2L, wing 3, Wing 4L… wait, let me just have a look at those specific weights.
+11:02:34 Um… when… Wait, okay, hold on, first thing is… first thing is…
+11:02:42 You need to get rid of all of these wing feather weights, because even though you don't have bones affecting them.
+11:02:48 They are still being affected by something theoretical called. Wfeather underscore 004.
+11:02:54 So, that's the first thing, right? So… Let's just remove all of those.
+11:03:00 Right? And you see right now, so that's… that's basically the issue, is that you remove the bones, but the weights aren't adjusted, so… Um.
+11:03:12 That may already kind of bend better. Right? Than it did before. Actually, let's…
+11:03:21 Hold on. Let me… bring those back.
+11:03:26 And then let's just have a look now. So, if we start bending this…
+11:03:37 Okay, so let's just have a look at this last one. So if I start moving this around, you see this part over here bends as well?
+11:03:43 Now, let's just check. If we, again, remove all of those.
+11:03:48 Further… If we remove all of those feathers, and I think we had…
+11:03:55 Okay, that's all of the feather bones, right? There's some more over here…
+11:04:02 Oh, yep, and we've got these bones over here, let's just remove those.
+11:04:06 Okay, let's just check, see if that affects anything. Okay, um, I think…
+11:04:13 I think that might be better, I'm not 100% sure. It's a bit difficult to say, but, like.
+11:04:19 At this point, this is probably… Yeah, this is probably what you… what you'd roughly want in terms of this geometry.
+11:04:27 Right? Yeah, just have this, don't have any of those specific, um… specific feathers, but then just the way that it folds… so, yeah, let's just have a look at your…
+11:04:38 Um. Wait, let's just have a look at your…
+11:04:45 Other animations… I must have broken them because I, uh…
+11:04:51 Wait, how did I break them, though, if I didn't remove those bones? Why isn't this returning?
+11:04:56 Okay, so this is… the way that it's folding here… Um, firstly, the way that it's folding…
+11:05:02 It's folding the wrong way, right? So, sorry, let me just… move that outwards.
+11:05:09 All right. So, this bone over here… you probably want it.
+11:05:15 Um, sorry. So, firstly, probably wouldn't fold that much.
+11:05:20 But then secondly, you wanted to fold… In this sort of direction.
+11:05:24 Right? Um… And then, if we kind of move that back into position…
+11:05:33 Sorry, I know this is, like, rough positioning.
+11:05:40 Okay, now I get what you mean, it's still a little bit… it's still a little bit awkward.
+11:05:45 Um… I'm just thinking, will I have a… will I have a good answer for you without looking at how a wing folds?
+11:05:52 Wing folding. I think the best… the best guess here is just actually to look at your, um… wait, bird wing folding, is just to look at references and just seeing if you can copy that.
+11:06:09 Okay, that's not useful. Let's just see.
+11:06:18 So, I think one of the reasons that it looks a little bit awkward is that everything is kind of separated.
+11:06:23 So you've got these, like, separate, sort of. Uh, parts of the feathers.
+11:06:28 And I don't think there's a way that you can kind of… make them fold really naturally.
+11:06:36 In that context, at least, like, I'm not seeing… good way. At least, like, what I mean is, like, folding them this much.
+11:06:45 If that sort of makes sense.
+11:06:51 But… Yeah, you also might need to… you do need to play around with the weights a little bit.
+11:06:59 Um… yeah, sorry, with this one, I don't really have… I don't really have a really good tip for you, uh, with this one, so sorry about that.
+11:07:06 Um, I think, like, if I was gonna do this, I would have a look at, like, actual references of how bird wings actually fold. I would also have a look at, like, more cartoons.
+11:07:14 And, like, animated… animated stuff to have a look at, like, how it's already been done with, like, animated birds, and just try to copy that.
+11:07:20 It's just like, I haven't really modeled, um, bird… bird wings.
+11:07:24 Um, I've probably done it at some point, but I don't remember, and, um, I don't remember ever animating it, so… with this, sorry, can't give any particularly useful feedback.
+11:07:36 That's really a helpful note. Great. Thank you.
+11:07:39 Okay, thanks. No, thank you. No, thank you guys.
+11:07:44 Alright, so I guess that's… that's everyone. I believe. Yep.
+11:07:45 Uh, maybe one last thing. I think all you said earlier, how to create the FOC in Blender, but do you think it's better in Blender or in Unity? Because they will be using Unity.
+11:07:57 Yeah.
+11:07:58 So, sorry, create, create what?
+11:08:02 The… the… Miss, missed, Mr.
+11:08:06 Oh, the missed… oh, no, no, no, yeah, yes, yeah, sorry, with the mist, no, um, with the mist, you would create an Unity, definitely not in Blender.
+11:08:11 Um, uh, yeah, that was more I meant, like, if you want to do it in Blender specifically, then that's the way that you would do it in Blender. No, in Unity, you would… Um, well, I'll be honest, because I don't use Unity that often, I don't remember how to create fog at all.
+11:08:26 In Unity. But yes, you would do it there. Just taking it from here, from Blender into Unity, I don't think that's going to do anything.
+11:08:33 Yeah.
+11:08:33 Okay, so… so I just assume anything post-processing is… It would be better in-game engine, right?
+11:08:41 Um, better from… like, what do you mean by better? You mean, like, more performant, or…?
+11:08:45 But the processing, like, for me, is for… or something, something like that.
+11:08:50 Is it a bit in the blender, or the… in the game engine?
+11:08:50 Uh… It just depends. So, the thing is that, um, it's just what it's used for. So you would only do it in Blender if your final result is going to be in Blender.
+11:09:01 So, if, for example, you're making a movie in Blender, you want to, like, let's say, make some renders inside Blender, you would do it.
+11:09:07 But if you're taking this into Unity, if you're taking it into a game engine, you don't do any push processing in Blender, it doesn't make… like, there's no point.
+11:09:14 Because those are just completely different systems. The thing that you would take from Blender into Unity is just your 3D models, basically.
+11:09:22 Yep.
+11:09:23 Yeah, your 3D models and your animation, and your animation files, but then everything, the way that that gets… treated and, you know, like, all your shaders are created inside Unity, um, your animations would be played inside Unity.
+11:09:36 Using their system. Push-processing effects would be done inside Unity, so, yeah.
+11:09:42 Mm-hmm.
+11:09:41 Okay, good. Yep. I think that's it for today. Thank you so much, Kleb, for your feedback and insight for them. I hope.
+11:09:49 Uh, they will use all of… that information to continue their projects, and can we have a big applause for Glenn?
+11:09:59 Thank you, guys. It was really great looking at, um, looking at your projects, and again, I just want to highlight, like, really impressive, like, what the… what the teams have been able to do in a very short while.
+11:10:08 Because this is… these are very complicated topics, um, they… it takes… it does take a lot of time to… kind of get used to them, sir. Um, the fact that everyone was able to make such great projects in this time is really, really impressive.
+11:10:19 And a credit to the team.
+11:10:20 Yep, thank you so much. I think that's it for today. Thank you!
+11:10:25 Awesome. Thank you, guys. Thanks, bye.
